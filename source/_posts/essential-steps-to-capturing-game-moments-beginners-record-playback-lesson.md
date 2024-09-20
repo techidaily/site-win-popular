@@ -1,7 +1,7 @@
 ---
 title: "Essential Steps to Capturing Game Moments: Beginner's Record Playback Lesson"
-date: 2024-09-17 12:33:44
-updated: 2024-09-20 12:50:34
+date: 2024-09-15T03:27:44.928Z
+updated: 2024-09-19T17:25:15.872Z
 tags:
   - product
 categories:
@@ -61,6 +61,19 @@ Action Tutorials
 
 ![Mirillis Action! - HUD in game](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gameplay recording
 
  Please note that game or application must be active or previously selected to start or stop video recording. When game is not active HUD displays current game framerate in gray color. 
@@ -79,6 +92,13 @@ Action Tutorials
 
 ![Mirillis Action! - list of gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_game_recording_thumbnail.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Action! includes internal fast player dedicated for video recordings playback. Select your new gameplay recording and use mouse double click on a thumbnail to start gameplay recording playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_game_recording_playback.jpg) 
@@ -86,6 +106,13 @@ Action Tutorials
  To playback raw Action! gameplay recordings you can also use one of **Splash** media player.   
 **Splash** provides additional features like SmartSeek, Motion², DetailBoost, LightBoost, Audio boost, Screen capture and more. Splash is available for download at Mirillis website:   
 [https://mirillis.com/downloads](https://tools.techidaily.com/mirillis/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on gameplay recordings
 
@@ -98,8 +125,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: 1. Easy Guide to Downloading CBC TV Episodes - For PC and MAC Users
-date: 2024-09-18 22:50:43
-updated: 2024-09-20 10:59:13
+date: 2024-09-16T22:16:13.731Z
+updated: 2024-09-20T03:09:08.232Z
 tags:
   - product
 categories:
@@ -35,9 +35,23 @@ Copy and paste the CBC video URL to Allavsoft
 
 ![How to Download CBC Videos?](https://www.allavsoft.com/how-to/../images/how-to/download-video-from-cbc-ca/download-cbc-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step _2_Set the output format
 
 Click "Automatically Convert to:" drop down button to select the output format, like AVI, MP4, WMV, MOV, FLV etc.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step _3_ Finish downloading CBC videos
 
@@ -52,8 +66,6 @@ In spite of competition from private broadcasters, such as CTV, Global. CBC is s
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

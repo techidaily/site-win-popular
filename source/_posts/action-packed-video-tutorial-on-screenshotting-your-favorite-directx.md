@@ -1,7 +1,7 @@
 ---
 title: Action-Packed Video Tutorial on Screenshotting Your Favorite DirectX
-date: 2024-09-17 18:30:16
-updated: 2024-09-20 12:58:50
+date: 2024-09-15T17:33:38.441Z
+updated: 2024-09-19T23:42:57.009Z
 tags:
   - product
 categories:
@@ -70,6 +70,13 @@ Action Tutorials
 
 ![Mirillis Action! - Ready to start DirectX 12 video recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD shows it is ready to start DirectX12 recording") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  DirectX 12 game recording
 
  Your DirectX 12 game window must be active to start video recording. When your DirectX 12 game window is active Action! HUD displays current game framerate in blue color, showing that Action! is ready to start DirectX 12 recording. 
@@ -81,6 +88,13 @@ Action Tutorials
  Press **F9** hotkey again to stop recording your DirectX 12 game. HUD status changes showing that your DirectX 12 recording has finished. 
 
 ![Mirillis Action! - DirectX 12 game recording finished](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD - recording is finished") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pause DirectX 12 gameplay recording
 
@@ -106,6 +120,13 @@ Action Tutorials
 
 ![Mirillis Action! - Settings - Do not record HUD in DirectX 12 games and applications](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_hud_settings.jpg "Action! HUD settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upload your DirectX 12 game recordings to YouTube
 
  With Action! you can easily upload your DirectX 12 game recording to YouTube. Just select your DirectX 12 game recording and use YouTube export button in the bottom of Action! recordings list. Select YouTube HD profile, provide all required information and start your DirectX 12 game clip upload. 
@@ -120,11 +141,25 @@ Action Tutorials
 
 ![Mirillis Action! - Add webcam to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_webcam_dx12.jpg "Action! - recording with webcam") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add custom logos to DirectX 12 gameplay recordings
 
  With Action! you can add a logo or other graphics to your DirectX 12 gameplay recordings. To configure overlay graphics please open Action! Video capture tab, enable **"Overlay graphics"** and select your graphic input file. Set graphics position on the video, run your DirectX 12 game and start recording. 
 
 ![Mirillis Action! - Add logo to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg "Action! - overlay graphics settings") 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## DirectX 12 games recording troubleshooting
 
@@ -139,8 +174,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
