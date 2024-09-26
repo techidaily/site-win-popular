@@ -1,7 +1,7 @@
 ---
 title: "Unlock Bing Chat's New Feature: Dark Mode Enabled! Tutorial Inside | ZDNet"
-date: 2024-09-14T23:52:32.682Z
-updated: 2024-09-20T00:28:18.810Z
+date: 2024-09-23T17:53:31.094Z
+updated: 2024-09-25T18:44:13.779Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -116,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>[Updated] 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
+<li><a href="https://win-popular.techidaily.com/customize-your-flipbook-experience-with-localized-languages-easy-guide-on-flipbuilder/"><u>Customize Your FlipBook Experience with Localized Languages - Easy Guide on FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/diy-booklet-creation-personalized-sizes-and-themes-using-flipbuilder/"><u>DIY Booklet Creation - Personalized Sizes & Themes Using FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/download-free-flipbook-templates-customizable-button-features-and-easy-designs-at-flipbuildercom/"><u>Download Free FlipBook Templates: Customizable Button Features & Easy Designs at flipbuilder.com</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/eliminar-y-convertir-con-facilidad-tus-dvd-al-formato-mp4-usando-el-reproductor-de-dvd-de-windows-11-xwind/"><u>Eliminar Y Convertir Con Facilidad Tus DVD Al Formato MP4 Usando El Reproductor De DVD De Windows 11 XWind</u></a></li>
+<li><a href="https://win-popular.techidaily.com/embedding-audio-content-across-multiple-pages-a-guide-for-your-flipboard-ebook/"><u>Embedding Audio Content Across Multiple Pages: A Guide for Your FlipBoard eBook</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhance-your-books-flipping-experience-with-premium-alpha-templates-discover-at-flipbuildercom/"><u>Enhance Your Book's Flipping Experience with Premium Alpha Templates - Discover at FlipBuilder.com</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhance-your-reading-experience-effortlessly-enlarge-and-clarify-any-page-with-flipbook-visit-flipbuildercom/"><u>Enhance Your Reading Experience: Effortlessly Enlarge and Clarify Any Page with FlipBook - Visit flipbuilder.com!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-for-mastering-full-screen-in-ppro-for-2024/"><u>Expert Advice for Mastering Full Screen in PPro for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-guide-mastering-document-management-with-flip-office-pro-your-comprehensive-resource/"><u>Expert Guide: Mastering Document Management with Flip Office Pro - Your Comprehensive Resource</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elite-yoga-routines-youtubes-leading-fitness-sites/"><u>In 2024, Elite Yoga Routines YouTube's Leading Fitness Sites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/iphone-users-learn-simple-screen-recording-now-for-2024/"><u>Iphone Users, Learn Simple Screen Recording Now for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-top-borders-and-frames-for-perfect-photos-for-2024/"><u>Mastering Instagram Top Borders & Frames for Perfect Photos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-for-powerpoint-voiceover-excellence/"><u>Step-by-Step for PowerPoint Voiceover Excellence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tomahawk-graphics-card-msi-b350-motherboard-and-driver-downloads-compatible-with-windows-11-and-7/"><u>Tomahawk Graphics Card: MSI B350 Motherboard and Driver Downloads Compatible with Windows 11 & 7</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-motorola-razr-40-ultra-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Motorola Razr 40 Ultra.</u></a></li>
+</ul></div>
+

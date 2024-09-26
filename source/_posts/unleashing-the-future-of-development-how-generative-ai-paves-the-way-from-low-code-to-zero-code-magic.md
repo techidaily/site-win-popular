@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Future of Development: How Generative AI Paves the Way From Low-Code to Zero-Code Magic!"
-date: 2024-09-16T19:08:29.538Z
-updated: 2024-09-20T06:10:25.718Z
+date: 2024-09-19T18:17:27.661Z
+updated: 2024-09-25T21:16:58.846Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -133,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -185,3 +193,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-simplicity-in-pc-audio-capture-choose-x-recorder/"><u>[New] 2024 Approved Simplicity in Pc Audio Capture Choose X-Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-10-drones-for-dynamic-cinematic-creations/"><u>[New] 2024 Approved Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-most-popular-image-stickering-apps-iosandroid-edition/"><u>[Updated] Most Popular Image Stickering Apps – iOS/Android Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959773144-brother-hl-2240-perfect-match-latest-windows-drivers-available-now/"><u>Brother HL-2240 Perfect Match - Latest Windows Drivers Available Now</u></a></li>
+<li><a href="https://win-popular.techidaily.com/budget-friendly-surface-pro-buying-guide-will-you-have-second-thoughts/"><u>Budget-Friendly Surface Pro Buying Guide: Will You Have Second Thoughts?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-understanding-the-impact-of-microsoft-exchange-server-breach-insights-from-zdnet/"><u>Comprehensive Guide: Understanding the Impact of Microsoft Exchange Server Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-lost-flight-buddy-copilot-in-windows-11/"><u>Reclaiming Lost Flight Buddy (Copilot) in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-nord-n30-se-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-remedy-errors-in-oculus-application-on-win-1011/"><u>Steps To Remedy Errors in Oculus Application on Win 10/11</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unveiling-the-power-of-productivity-a-close-look-at-microsofts-new-surface-laptop-studio-why-you-might-be-envious/"><u>Unveiling the Power of Productivity: A Close Look at Microsoft's New Surface Laptop Studio - Why You Might Be Envious!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/urgent-deadline-microsofts-crucial-challenge-with-windows-10-resolution-needs-by-next-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft's Crucial Challenge with Windows 10 Resolution Needs by Next Year | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/8-windows/"><u>이상한 조각 마우스로 영역 캡처 : 8개의 무료 Windows 화면 캡쳐 프로그램을 선보여주세요!</u></a></li>
+</ul></div>
+

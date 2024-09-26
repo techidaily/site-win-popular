@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Surface Pro Buying Guide: Will You Have Second Thoughts?"
-date: 2024-09-12T16:20:49.325Z
-updated: 2024-09-19T17:16:41.314Z
+date: 2024-09-19T21:19:55.545Z
+updated: 2024-09-26T00:23:26.009Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,13 +135,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +199,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-popular.techidaily.com/y-y1-mx-xn/"><u> [Y - Y_1 = M(x - X_n) </u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-expertly-crafted-bootstrapped-landing-pages-at-no-cost-download-from-creative-tim/"><u>1. Expertly Crafted Bootstrapped Landing Pages at No Cost - Download From Creative Tim</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achieve-elegant-web-design-with-paper-kit-2-complimentary-full-featured-ui-framework-based-on-bootstrap-nv4-from-creative-tim/"><u>Achieve Elegant Web Design with Paper Kit 2 – Complimentary Full-Featured UI Framework Based on Bootstrap Nv4 From Creative Tim</u></a></li>
+<li><a href="https://win-popular.techidaily.com/advanced-paper-kit-2-pro-by-creative-tim-professional-bootstrap-n4-ui-toolkit/"><u>Advanced Paper Kit 2 PRO by Creative Tim: Professional Bootstrap N4 UI Toolkit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/chinas-bargain-bin-of-virtual-reality-gear-for-2024/"><u>China's Bargain Bin of Virtual Reality Gear for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-unique-android-app-themes-and-templates-by-creative-tim-top-5-selections/"><u>Discover Unique Android App Themes & Templates by Creative Tim - Top 5 Selections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-lag-in-fallout-76-solutions-for-smoother-gameplay/"><u>How to Eliminate Lag in Fallout 76 – Solutions for Smoother Gameplay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/partition-performance-topping-recorder-showdown/"><u>Partition Performance Topping Recorder Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430445638-redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search</u></a></li>
+<li><a href="https://fox-access.techidaily.com/strategic-measures-efficiently-accessing-premium-banner-imagery/"><u>Strategic Measures Efficiently Accessing Premium Banner Imagery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamlining-video-sequence-assembly-through-blends/"><u>Streamlining Video Sequence Assembly Through Blends</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-mechanical-keyboards-the-ultimate-buyers-guide/"><u>Top-Rated Mechanical Keyboards : The Ultimate Buyer's Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unlock-your-creativity-with-vue-notus-premium-vuejstailwind-css-bundle-from-creative-tim/"><u>Unlock Your Creativity with Vue Notus: Premium VueJS/Tailwind CSS Bundle From Creative Tim</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unveiling-apples-bold-satire-of-windows-laptops-identifying-the-target/"><u>Unveiling Apple's Bold Satire of Windows Laptops – Identifying the Target</u></a></li>
+<li><a href="https://win-popular.techidaily.com/urgent-alert-microsoft-faces-crucial-challenge-with-windows-11-launch-only-12-months-to-resolve/"><u>Urgent Alert: Microsoft Faces Crucial Challenge with Windows 11 Launch - Only 12 Months to Resolve!</u></a></li>
+</ul></div>
+

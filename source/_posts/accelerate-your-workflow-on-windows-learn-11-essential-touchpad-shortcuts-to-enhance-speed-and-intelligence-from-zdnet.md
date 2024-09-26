@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Workflow on Windows: Learn 11 Essential Touchpad Shortcuts to Enhance Speed & Intelligence From ZDNet"
-date: 2024-09-12T16:52:33.388Z
-updated: 2024-09-19T21:57:17.128Z
+date: 2024-09-24T19:29:33.426Z
+updated: 2024-09-25T21:33:08.091Z
 tags:
   - windows
 categories:
@@ -49,10 +49,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -60,13 +60,6 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -80,6 +73,13 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -91,24 +91,31 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -146,3 +153,23 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-top-6-online-background-cleansers-for-pristine-photo-edits-for-2024/"><u>[New] Top 6 Online Background Cleansers for Pristine Photo Edits for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mobile-markup-mastery-iosandroid-leaders/"><u>[Updated] 2024 Approved Mobile Markup Mastery IOS/Android Leaders</u></a></li>
+<li><a href="https://win-popular.techidaily.com/advanced-ui-framework-pro-high-quality-bootstrap-5-design-toolkit-with-creative-tim-features/"><u>Advanced UI Framework Pro: High-Quality Bootstrap 5 Design Toolkit with Creative Tim Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-movie-trailers/"><u>Best Movie Trailers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/budget-conscious-obs-tweaks-and-tricks-for-2024/"><u>Budget-Conscious OBS Tweaks and Tricks for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/creative-tims-argon-admin-panel-enhanced-laravel-integration-with-updivision/"><u>Creative Tim's Argon Admin Panel: Enhanced Laravel Integration with Updivision</u></a></li>
+<li><a href="https://win-popular.techidaily.com/creative-tims-argondjango-a-fully-integrated-bootstrap-4-admin-panel-for-django-projects/"><u>Creative Tim's ArgonDjango: A Fully Integrated Bootstrap 4 Admin Panel for Django Projects</u></a></li>
+<li><a href="https://win-popular.techidaily.com/creative-tims-bespoke-angular-projects-featuring-tailwind-css-themes-and-templates/"><u>Creative Tim's Bespoke Angular Projects Featuring Tailwind CSS Themes and Templates</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-laravel-backoffice-setup-using-material-ui-dashboard-complimentary-frontend-skeleton-from-creative-tim/"><u>Effortless Laravel Backoffice Setup Using Material UI Dashboard – Complimentary Frontend Skeleton From Creative Tim</u></a></li>
+<li><a href="https://win-popular.techidaily.com/explore-the-top-8-designed-chakra-ui-templates-in-react-by-creative-tim/"><u>Explore the Top 8 Designed Chakra UI Templates in React by Creative Tim</u></a></li>
+<li><a href="https://win-popular.techidaily.com/flask-black-dashboard-template-with-bootstrap-4-professional-admin-interface-designed-by-creative-tim/"><u>Flask Black Dashboard Template with Bootstrap 4: Professional Admin Interface Designed by Creative Tim</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 With 7 Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x9b-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X9b Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-problems-with-fallout-4-tips-and-tweaks-for-a-smooth-gaming-experience/"><u>Overcoming Freezing Problems with Fallout 4 - Tips & Tweaks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-solutions-what-to-do-when-alexa-isnt-working/"><u>Quick Solutions: What To Do When Alexa Isn't Working</u></a></li>
+</ul></div>
+

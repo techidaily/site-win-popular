@@ -1,7 +1,7 @@
 ---
 title: Unconventional Monetary Policies Include Quantitative Easing, Forward Guidance, and Negative Interest Rate Policies.
-date: 2024-09-13T03:07:37.623Z
-updated: 2024-09-20T01:17:28.094Z
+date: 2024-09-19T23:17:36.591Z
+updated: 2024-09-25T18:57:33.839Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-power-players-handbook-secrets-of-successful-instagram-advertising/"><u>[New] 2024 Approved The Power Players' Handbook Secrets of Successful Instagram Advertising</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-tips-for-zoom-screen-sharing-for-2024/"><u>[New] Essential Tips for Zoom Screen Sharing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>2024 Approved Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
+<li><a href="https://win-popular.techidaily.com/accelerate-your-workflow-on-windows-learn-11-essential-touchpad-shortcuts-to-enhance-speed-and-intelligence-from-zdnet/"><u>Accelerate Your Workflow on Windows: Learn 11 Essential Touchpad Shortcuts to Enhance Speed & Intelligence From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/are-your-pc-specs-outdated-microsoft-halts-windows-11-rollouts-for-non-compliant-systems-zdnet-insights/"><u>Are Your PC Specs Outdated? Microsoft Halts Windows 11 Rollouts for Non-Compliant Systems | ZDNET Insights</u></a></li>
+<li><a href="https://win-popular.techidaily.com/brace-yourself-for-billable-windows-11-patches-next-years-update-pricing-revealed-tech-insight-at-zdnet/"><u>Brace Yourself for Billable Windows 11 Patches: Next Year's Update Pricing Revealed | Tech Insight at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-android-web-browsers-enabling-user-extensions/"><u>Discover the Best Android Web Browsers Enabling User Extensions</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-elite-5-desk-picks-for-professionals-according-to-zdnet/"><u>Discover the Elite 5 Desk Picks for Professionals , According to ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhance-your-standing-desk-experience-with-these-must-have-add-ons-insights-from-zdnet/"><u>Enhance Your Standing Desk Experience with These Must-Have Add-Ons: Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exploring-the-fresh-enhancements-in-windows-11-with-the-recent-update-rollout-insights-from-zdnet/"><u>Exploring the Fresh Enhancements in Windows 11 with the Recent Update Rollout - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/get-ready-for-microsofts-latest-offering-a-potential-boon-or-bane-to-your-tech-experience-insights-from-zdnet/"><u>Get Ready for Microsoft's Latest Offering: A Potential Boon or Bane to Your Tech Experience | Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/google-powered-success-in-podcast-submissions/"><u>Google-Powered Success in Podcast Submissions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-dotm-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .dotm file document online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c12-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C12</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-step-by-step-guide-youtube-videos-in-avi-format/"><u>In 2024, Step-by-Step Guide YouTube Videos in AVI Format</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mastering-email-etiquette-setting-up-a-custom-email-signature-with-microsoft-outlook-expert-advice/"><u>Mastering Email Etiquette: Setting Up a Custom Email Signature with Microsoft Outlook (Expert Advice)</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-35-unbeatable-primesmart-tv-monitor-bargains-going-strong-dive-in/"><u>Top 35 Unbeatable Primesmart TV-Monitor Bargains Going Strong – Dive In!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-to-restore-defaults-by-flushing-your-systems-cmos/"><u>Ultimate Guide: Steps to Restore Defaults by Flushing Your System's CMOS</u></a></li>
+</ul></div>
+
