@@ -1,7 +1,7 @@
 ---
 title: \\[Y - Y_1 = M(x - X_n) \\
-date: 2024-09-24T23:07:59.909Z
-updated: 2024-09-25T19:43:11.408Z
+date: 2024-09-25T17:02:35.941Z
+updated: 2024-09-30T02:32:24.823Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/7d8e5cb5df55d66e13eccb410da317e8e46922b45
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,21 +54,16 @@ thumbnail: https://thmb.techidaily.com/7d8e5cb5df55d66e13eccb410da317e8e46922b45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-intro-magic-unmatched-editors-across-all-tech/"><u>[New] 2024 Approved Intro Magic Unmatched Editors Across All Tech</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-accelerated-screen-recordings-and-voice-over-assistance-for-2024/"><u>[New] Accelerated Screen Recordings & Voice Over Assistance for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-an-impartial-appraisal-the-power-of-recordcast-for-2024/"><u>[New] An Impartial Appraisal The Power of RecordCast for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-video-earnings-explained-average-adsense-fees-per-kv/"><u>[Updated] Youtube Video Earnings Explained Average AdSense Fees per KV</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-waves-in-the-gaming-community-on-youtube/"><u>2024 Approved Making Waves in the Gaming Community on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-solo-sound-setback-fix-it-now/"><u>2024 Approved Solo Sound Setback Fix It Now</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-to-downloading-genvideos-content-as-mp4-mov-and-avi-files-windows-and-macos-compatible/"><u>Guide to Downloading GenVideos Content as MP4, MOV & AVI Files - Windows & macOS Compatible</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-to-downloading-youtube-in-html5-format-for-pc-and-mac-enthusiasts/"><u>Guide to Downloading YouTube in HTML5 Format for PC and Mac Enthusiasts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/high-quality-wrecking-ball-music-video-available-for-immediate-download-as-mp4-flv-avi-and-audio-files/"><u>High-Quality Wrecking Ball Music Video Available for Immediate Download as MP4, FLV, AVI, and Audio Files</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-download-your-favorite-cw-tv-show-episodes-in-high-quality-mp4avi-formats/"><u>How to Download Your Favorite CW TV Show Episodes in High Quality MP4/AVI Formats</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-enjoy-spotify-songs-while-driving-a-guide-to-5-user-favorites/"><u>How to Enjoy Spotify Songs While Driving: A Guide to 5 User Favorites</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-quickly-retrieve-movies-and-shows-from-daumnet-using-dawndownloader-tool/"><u>How to Quickly Retrieve Movies and Shows From Daum.net Using DawnDownloader Tool</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-save-your-favorite-ctv-shows-a-step-by-step-guide-with-ctv-downloader/"><u>How To Save Your Favorite CTV Shows: A Step-by-Step Guide with CTV Downloader</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-integration-how-to-harness-gpt-4-with-chatgpt-right-now/"><u>Immediate Integration: How to Harness GPT-4 with ChatGPT Right Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-play-40c-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor Play 40C to Gmail | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-t2-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo T2 5G Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-top-amazon-prime-tweets-favorites-galore/"><u>[New] 2024 Approved Top Amazon Prime Tweets Favorites Galore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[Updated] From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ideal-timekeepers-top-10-androidios-apps-for-your-big-day-for-2024/"><u>[Updated] Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-authentic-youtube-boosting-platforms/"><u>[Updated] Top 8 Authentic YouTube Boosting Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-content-utilizing-the-green-screen-on-instagram/"><u>2024 Approved Enhance Your Content Utilizing the Green Screen on Instagram</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-lenovo-ideapad-t430-drivers-compatible-with-windows-11-8-and-7-simple-guide/"><u>Download Lenovo IdeaPad T430 Drivers: Compatible with Windows 11, 8 & 7 - Simple Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/microsoft-unveils-innovative-crowdstrike-restore-utility-understanding-the-functionality-techinsights/"><u>Microsoft Unveils Innovative CrowdStrike Restore Utility: Understanding the Functionality | TechInsights</u></a></li>
+<li><a href="https://win-popular.techidaily.com/microsofts-latest-gamble-windows-11-hits-the-market-to-controversial-reactions-is-it-a-premature-release-or-justified-innovation-cyberscoop/"><u>Microsoft's Latest Gamble: Windows 11 Hits the Market to Controversial Reactions; Is It a Premature Release or Justified Innovation? | CyberScoop</u></a></li>
+<li><a href="https://win-popular.techidaily.com/selecting-the-right-windows-11-user-account-a-comprehensive-guide-to-optimize-your-system/"><u>Selecting the Right Windows 11 User Account: A Comprehensive Guide to Optimize Your System</u></a></li>
+<li><a href="https://win-popular.techidaily.com/transforming-windows-10-home-to-professional-version-for-enhanced-features-a-step-by-step-guide-pcmagazine/"><u>Transforming Windows 10 Home to Professional Version for Enhanced Features - A Step-by-Step Guide | PCMagazine</u></a></li>
 </ul></div>
 
