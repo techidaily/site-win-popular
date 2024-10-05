@@ -1,7 +1,7 @@
 ---
 title: Extend the Life of Your Windows E PC for Zero or Low Cost - Essential Tips From ZDNet
-date: 2024-09-26T05:47:30.622Z
-updated: 2024-09-30T14:14:28.764Z
+date: 2024-09-28T20:36:42.847Z
+updated: 2024-10-05T22:32:08.544Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-browse-the-web-for-unique-personalized-wrapped-presents-at-leading-e-stores/"><u>[Updated] Browse the Web for Unique, Personalized Wrapped Presents at Leading E-Stores</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-closer-views-using-videoleap-software-for-2024/"><u>[Updated] Closer Views Using Videoleap Software for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-gaming-on-record-the-pros-perspective/"><u>[Updated] In 2024, Gaming on Record The Pro's Perspective</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>2024 Approved Capturing Every Word A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-motorola-razr-40-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Razr 40 Ultra Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/comparing-the-latest-facebook-portable-gadgets/"><u>Comparing the Latest Facebook Portable Gadgets</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-back-up-your-personalized-flipbook-settings-in-flipbuilder-for-ongoing-use/"><u>How to Back Up Your Personalized Flipbook Settings in FlipBuilder for Ongoing Use</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-create-interactive-ebooks-that-mimic-the-flipbook-experience-from-your-printed-books-a-guide-flipbuildercom/"><u>How to Create Interactive Ebooks That Mimic the Flipbook Experience From Your Printed Books: A Guide [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-create-interactive-flipbooks-from-paper-books-emulate-the-real-page-turning-experience-online/"><u>How to Create Interactive FlipBooks From Paper Books: Emulate the Real Page-Turning Experience Online</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-delete-images-post-import-in-flipbuilder-a-comprehensive-guide/"><u>How to Delete Images Post-Import in FlipBuilder – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-incorporate-various-image-formats-into-a-customized-flipbook-using-flipbuilder/"><u>How to Incorporate Various Image Formats Into a Customized FlipBook Using FlipBuilder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor X50 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-loss-of-audio-output-in-your-laptop-expert-tips-for-quick-repair/"><u>Solving Loss of Audio Output in Your Laptop – Expert Tips for Quick Repair</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-leading-apps-for-flawless-android-screenshots-and-recording/"><u>2024 Approved Leading Apps for Flawless Android Screenshots & Recording</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-game-protection-violation-notifications/"><u>Deciphering And Fixing Game Protection Violation Notifications</u></a></li>
+<li><a href="https://win-popular.techidaily.com/easy-steps-for-downloading-nico-videos-on-pc-and-mac-guide/"><u>Easy Steps for Downloading Nico Videos on PC & Mac - Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/easy-steps-to-convert-and-save-youtube-clips-as-gif-or-video-files-on-pcmac/"><u>Easy Steps to Convert & Save YouTube Clips as GIF or Video Files on PC/Mac</u></a></li>
+<li><a href="https://win-popular.techidaily.com/easy-video-extraction-tool-convert-and-save-your-favorite-movies-from-myvideo-in-high-quality-mp4-or-avi-formats/"><u>Easy Video Extraction Tool: Convert & Save Your Favorite Movies From MyVideo in High-Quality MP4 or AVI Formats</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-guide-converting-ovguide-streams-into-mp4avimkv-downloads-on-windows-and-macos-systems/"><u>Effortless Guide: Converting OVGuide Streams Into MP4/AVI/MKV Downloads on Windows & MacOS Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-tiktok-presence-with-siri-speech-controls/"><u>Elevate Your TikTok Presence with Siri Speech Controls</u></a></li>
+<li><a href="https://win-popular.techidaily.com/get-groovy-with-instant-mp3s-the-ultimate-guide-to-saving-radiocom-tunes/"><u>Get Groovy with Instant MP3s: The Ultimate Guide to Saving Radio.com Tunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 15 Pro? How to Fix it?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-keywords-for-peak-marketing-results/"><u>In 2024, Leveraging Keywords for Peak Marketing Results</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-11r-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus 11R Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
 

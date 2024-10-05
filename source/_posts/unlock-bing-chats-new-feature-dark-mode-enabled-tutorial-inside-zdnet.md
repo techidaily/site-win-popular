@@ -1,7 +1,7 @@
 ---
 title: "Unlock Bing Chat's New Feature: Dark Mode Enabled! Tutorial Inside | ZDNet"
-date: 2024-09-23T19:28:18.509Z
-updated: 2024-09-30T06:46:42.254Z
+date: 2024-10-01T20:06:27.583Z
+updated: 2024-10-05T17:18:11.490Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-seamless-integration-utilizing-instagrams-music-stickers-expertise/"><u>[Updated] Seamless Integration Utilizing Instagram's Music Stickers Expertise</u></a></li>
-<li><a href="https://win-popular.techidaily.com/comprehensive-guide-understanding-the-impact-of-microsoft-exchange-server-breach-insights-from-zdnet/"><u>Comprehensive Guide: Understanding the Impact of Microsoft Exchange Server Breach - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-the-disappearing-text-feature-in-fb-messenger/"><u>Decoding the Disappearing Text Feature in FB Messenger</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effective-strategies-for-controlling-your-microsoft-365-plans-on-windows-11-a-comprehensive-guide-by-zdnet/"><u>Effective Strategies for Controlling Your Microsoft 365 Plans on Windows 11: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-12-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi 12 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/insight-from-microsoft-leader-is-a-future-with-microsoft-unattractive/"><u>Insight From Microsoft Leader: Is a Future with Microsoft Unattractive?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/leveraging-gen-alpha-intelligence-to-enhance-dev-workflow-and-speed-up-code-expert-analysis-by-zdnet/"><u>Leveraging Gen Alpha Intelligence to Enhance Dev Workflow and Speed Up Code - Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mastering-windows-spaces-discover-the-benefits-of-free-powertoys-fancyzones-feature-insights-by-zdnet/"><u>Mastering Windows Spaces: Discover the Benefits of Free PowerToys FancyZones Feature | Insights by ZDNET</u></a></li>
-<li><a href="https://article-helps.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers-for-2024/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/maximize-amazon-listing-success-with-professional-product-imagery-and-boost-sales-instantly/"><u>Maximize Amazon Listing Success with Professional Product Imagery and Boost Sales Instantly</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsoft-faces-user-frustration-once-more-alternative-pathways-for-improvement-zdnet/"><u>Microsoft Faces User Frustration Once More - Alternative Pathways for Improvement | ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-access-to-domain-services-printer-not-responding/"><u>No Access To Domain Services, Printer Not Responding</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/starting-urdu-learning-journey-with-keywords/"><u>Starting Urdu Learning Journey with Keywords</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-success-in-fb-video-advertising-a-collection-of-20-essentials-for-2024/"><u>[Updated] Crafting Success in FB Video Advertising – A Collection of 20 Essentials for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-bridging-virtuality-business-applications-in-vr/"><u>2024 Approved Bridging Virtuality Business Applications in VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>2024 Approved In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achievable-techniques-for-recording-android-device-screenshots/"><u>Achievable Techniques for Recording Android Device Screenshots</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-smart-8-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Smart 8 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-most-efficient-and-user-friendly-mind-mapping-software-designed-specifically-for-mac-users-handpicked-from-2020s-top-reviews/"><u>Discover the Most Efficient and User-Friendly Mind Mapping Software Designed Specifically for Mac Users, Handpicked From 2020’S Top Reviews.</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-for-syncing-your-huawei-mate-40-pro-with-your-personal-laptop-or-desktop/"><u>Expert Tips for Syncing Your Huawei Mate 40 Pro with Your Personal Laptop or Desktop</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-mastering-the-art-of-live-gaming-on-discord/"><u>Guide: Mastering the Art of Live Gaming on Discord</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips/"><u>In 2024, Prime Emulation Tools Sony's PS1 Classics at the Fingertips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-v2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic V2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-10-alternative-app-stores-for-android-devices-beyond-the-google-play-store/"><u>Top 10 Alternative App Stores for Android Devices Beyond the Google Play Store</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unveiling-apples-bold-satire-of-windows-laptops-identifying-the-target/"><u>Unveiling Apple's Bold Satire of Windows Laptops – Identifying the Target</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updated-guide-solving-microsoft-windows-minecraft-crash-issues-related-to-graphic-driver-problems/"><u>Updated Guide: Solving Microsoft Windows Minecraft Crash Issues Related to Graphic Driver Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-tutorial-easily-alter-the-size-of-desktop-and-file-explorer-icons/"><u>Windows 11 Tutorial: Easily Alter the Size of Desktop and File Explorer Icons</u></a></li>
 </ul></div>
 

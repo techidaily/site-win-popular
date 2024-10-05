@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Faces Critical Challenge with Windows 11: Just One Year Left to Fix! - ZDNet"
-date: 2024-09-25T19:53:27.351Z
-updated: 2024-09-30T13:18:54.480Z
+date: 2024-09-30T20:43:42.798Z
+updated: 2024-10-05T17:28:29.401Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-collaborative-innovation-in-brand-and-media-synergy/"><u>[New] 2024 Approved Collaborative Innovation in Brand and Media Synergy</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-whatsapp-video-transfers-from-tweeted-content/"><u>[New] 2024 Approved WhatsApp Video Transfers From Tweeted Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-navigating-through-ioss-recording-software-landscape/"><u>[New] Navigating Through iOS's Recording Software Landscape</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-10-websites-for-premium-quality-vector-stock-images/"><u>[Updated] In 2024, 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-of-high-quality-karaoke-equipment/"><u>2024'S Ultimate Selection of High-Quality Karaoke Equipment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-and-macos10mkvmp4-2024/"><u>換得更好觀看品質！Windows & macOS上選出最佳10種MKV至MP4轉換器 - 2024年度冠軍</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-ranked-sources-for-embedding-text-visual-effects/"><u>In 2024, Top Ranked Sources for Embedding Text Visual Effects</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/navigating-a-shifting-landscape-microsoft-takes-over-where-google-left-off-in-the-iot-arena-analysis-on-zdnet/"><u>Navigating a Shifting Landscape: Microsoft Takes Over Where Google Left Off in the IoT Arena - Analysis on ZDNET</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-10-best-microsoft-enterprise-apps-of-213-aims-expert-reviews-on-zdnet/"><u>Top 10 Best Microsoft Enterprise Apps of 2^13 AIMS | Expert Reviews on ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-tech-bargains-of-the-year-mastering-zdnets-black-friday-and-cyber-monday-2021-guide/"><u>Top Tech Bargains of the Year: Mastering ZDNet's Black Friday and Cyber Monday 2021 Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/unlock-bing-chats-new-feature-dark-mode-enabled-tutorial-inside-zdnet/"><u>Unlock Bing Chat's New Feature: Dark Mode Enabled! Tutorial Inside | ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-dual-display-documentation-technique/"><u>[Updated] 2024 Approved Dual Display Documentation Technique</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[Updated] In 2024, Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-in-the-digital-world-multiplatform-studio-strategies/"><u>2024 Approved Thriving in the Digital World Multiplatform Studio Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-0x97-unravelled-and-solved/"><u>Epson 0X97 - Unravelled & Solved</u></a></li>
+<li><a href="https://win-popular.techidaily.com/insight-from-microsoft-leader-is-a-future-with-microsoft-unattractive/"><u>Insight From Microsoft Leader: Is a Future with Microsoft Unattractive?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/leveraging-gen-alpha-intelligence-to-enhance-dev-workflow-and-speed-up-code-expert-analysis-by-zdnet/"><u>Leveraging Gen Alpha Intelligence to Enhance Dev Workflow and Speed Up Code - Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mastering-windows-spaces-discover-the-benefits-of-free-powertoys-fancyzones-feature-insights-by-zdnet/"><u>Mastering Windows Spaces: Discover the Benefits of Free PowerToys FancyZones Feature | Insights by ZDNET</u></a></li>
+<li><a href="https://win-popular.techidaily.com/microsoft-faces-user-frustration-once-more-alternative-pathways-for-improvement-zdnet/"><u>Microsoft Faces User Frustration Once More - Alternative Pathways for Improvement | ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/pre-order-microsoft-surface-laptop-go-2-starting-at-just-599-get-yours-today-on-zdnet/"><u>Pre-Order Microsoft Surface Laptop Go 2 - Starting at Just $599, Get Yours Today on ZDNet!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-netgear-nighthawk-x4-mesh-wi-fi-extender-enhancing-your-internet-experience-like-never-before/"><u>Top Rated Netgear Nighthawk X4 Mesh Wi-Fi Extender: Enhancing Your Internet Experience Like Never Before</u></a></li>
 </ul></div>
 

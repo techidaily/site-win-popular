@@ -1,7 +1,7 @@
 ---
 title: Action-Packed Video Tutorial on Screenshotting Your Favorite DirectX
-date: 2024-09-27T13:19:23.655Z
-updated: 2024-09-30T07:26:17.549Z
+date: 2024-10-03T22:33:36.146Z
+updated: 2024-10-05T21:39:10.580Z
 tags:
   - product
 categories:
@@ -70,13 +70,6 @@ Action Tutorials
 
 ![Mirillis Action! - Ready to start DirectX 12 video recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD shows it is ready to start DirectX12 recording") 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  DirectX 12 game recording
 
  Your DirectX 12 game window must be active to start video recording. When your DirectX 12 game window is active Action! HUD displays current game framerate in blue color, showing that Action! is ready to start DirectX 12 recording. 
@@ -89,6 +82,13 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording finished](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_normal_status.jpg "Action! HUD - recording is finished") 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pause DirectX 12 gameplay recording
 
  Use   **Shift+F9** hotkey during your DirectX 12 game recording to pause recording. Action! HUD will display pause icon. 
@@ -96,26 +96,13 @@ Action Tutorials
 ![Mirillis Action! - paused game recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_directx12_game_recording_paused_status.jpg "Action! HUD - recording is paused") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To resume your paused DirectX 12 game recording use   **Shift+F9** hotkey again. 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## DirectX 12 gameplay recordings playback
 
@@ -123,9 +110,30 @@ Action Tutorials
 
 ![Mirillis Action! - DirectX 12 game recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_thumbnail_dx12.jpg "Action! recordings manager") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double click opens Action! video player dedicated for fast video recordings playback. 
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_playback_dx12.jpg "Action! player - recording playback") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on DirectX 12 games recordings
 
@@ -133,18 +141,18 @@ Action Tutorials
 
 ![Mirillis Action! - Settings - Do not record HUD in DirectX 12 games and applications](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_hud_settings.jpg "Action! HUD settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upload your DirectX 12 game recordings to YouTube
 
  With Action! you can easily upload your DirectX 12 game recording to YouTube. Just select your DirectX 12 game recording and use YouTube export button in the bottom of Action! recordings list. Select YouTube HD profile, provide all required information and start your DirectX 12 game clip upload. 
 
 ![Mirillis Action! - Uploading DirectX 12 game recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_selecting_youtube_hd_profile.jpg "Upload recording to YouTube") 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add webcam to your DirectX 12 games recordings
 
@@ -154,20 +162,6 @@ Action Tutorials
 
 ![Mirillis Action! - Add webcam to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_directx12_game_recording_webcam_dx12.jpg "Action! - recording with webcam") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add custom logos to DirectX 12 gameplay recordings
 
  With Action! you can add a logo or other graphics to your DirectX 12 gameplay recordings. To configure overlay graphics please open Action! Video capture tab, enable **"Overlay graphics"** and select your graphic input file. Set graphics position on the video, run your DirectX 12 game and start recording. 
@@ -175,16 +169,10 @@ Action Tutorials
 ![Mirillis Action! - Add logo to DirectX 12 game recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg "Action! - overlay graphics settings") 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DirectX 12 games recording troubleshooting
@@ -210,20 +198,16 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-radiance-in-android-video-editing/"><u>[Updated] Radiance in Android Video Editing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-instagram-engagement-obs-streamed-content/"><u>2024 Approved Instagram Engagement OBS Streamed Content</u></a></li>
-<li><a href="https://win-popular.techidaily.com/are-your-pc-specs-outdated-microsoft-halts-windows-11-rollouts-for-non-compliant-systems-zdnet-insights/"><u>Are Your PC Specs Outdated? Microsoft Halts Windows 11 Rollouts for Non-Compliant Systems | ZDNET Insights</u></a></li>
-<li><a href="https://win-popular.techidaily.com/brace-yourself-for-billable-windows-11-patches-next-years-update-pricing-revealed-tech-insight-at-zdnet/"><u>Brace Yourself for Billable Windows 11 Patches: Next Year's Update Pricing Revealed | Tech Insight at ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/churn-memetic-content-for-gif-hub/"><u>Churn Memetic Content for GIF Hub</u></a></li>
-<li><a href="https://win-popular.techidaily.com/exploring-the-fresh-enhancements-in-windows-11-with-the-recent-update-rollout-insights-from-zdnet/"><u>Exploring the Fresh Enhancements in Windows 11 with the Recent Update Rollout - Insights From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/get-ready-for-microsofts-latest-offering-a-potential-boon-or-bane-to-your-tech-experience-insights-from-zdnet/"><u>Get Ready for Microsoft's Latest Offering: A Potential Boon or Bane to Your Tech Experience | Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-s23-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel S23 PC | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-12r-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus 12R via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-v29-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo V29 Pro Device SIM</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mastering-email-etiquette-setting-up-a-custom-email-signature-with-microsoft-outlook-expert-advice/"><u>Mastering Email Etiquette: Setting Up a Custom Email Signature with Microsoft Outlook (Expert Advice)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/pre-order-microsoft-surface-laptop-go-2-starting-at-just-599-get-yours-today-on-zdnet/"><u>Pre-Order Microsoft Surface Laptop Go 2 - Starting at Just $599, Get Yours Today on ZDNet!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/premier-microsoft-certification-pathways-expert-level-educational-opportunities-zdnet/"><u>Premier Microsoft Certification Pathways: Expert-Level Educational Opportunities - ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ready-for-screen-talent-access-agreement/"><u>Ready for Screen Talent Access Agreement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shielding-developer-interfaces-in-windows-11/"><u>Shielding Developer Interfaces in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-complete-youtube-video-editor-reference-manual/"><u>[New] The Complete YouTube Video Editor Reference Manual</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Unlock Without Password</u></a></li>
+<li><a href="https://win-popular.techidaily.com/best-learning-enhancement-gadgets-ultimate-guide-for-instructors/"><u>Best Learning Enhancement Gadgets: Ultimate Guide for Instructors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-ai-boundaries-excel-skills-that-outshine-chatgpts-reach/"><u>Beyond AI Boundaries: Excel Skills That Outshine ChatGPT's Reach</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-techniques-for-capturing-screenshots-on-an-lg-smartphone-or-tablet/"><u>Effortless Techniques for Capturing Screenshots on an LG Smartphone or Tablet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/hassle-free-mac-recording-master-the-art-of-mixing-and-editing-tunes-with-mixcraft/"><u>Hassle-Free Mac Recording: Master the Art of Mixing and Editing Tunes with Mixcraft</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-21-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Meizu 21 Pro</u></a></li>
+<li><a href="https://win-popular.techidaily.com/innovative-techniques-for-precision-object-removal-from-images/"><u>Innovative Techniques for Precision Object Removal From Images</u></a></li>
+<li><a href="https://win-popular.techidaily.com/streamline-your-viewing-experience-with-smartphone-enabled-tv-navigation/"><u>Streamline Your Viewing Experience with Smartphone-Enabled TV Navigation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-and-steam-games-overcoming-launch-problems-with-simple-solutions/"><u>Windows 11 and Steam Games: Overcoming Launch Problems with Simple Solutions</u></a></li>
 </ul></div>
 

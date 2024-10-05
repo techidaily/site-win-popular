@@ -1,7 +1,7 @@
 ---
 title: Pre-Order Microsoft Surface Laptop Go 2 - Starting at Just $599, Get Yours Today on ZDNet!
-date: 2024-09-25T02:13:10.089Z
-updated: 2024-09-30T13:01:08.347Z
+date: 2024-09-30T21:33:48.214Z
+updated: 2024-10-05T19:09:48.894Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-harmonize-your-status-with-a-track-for-2024/"><u>[New] Harmonize Your Status with a Track for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>[Updated] 2024 Approved Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-generate-hits-adobe-made-memes/"><u>2024 Approved Generate Hits Adobe-Made Memes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-windows-11-ultimate-video-recorder-software/"><u>2024 Approved Windows 11 Ultimate Video Recorder Software</u></a></li>
-<li><a href="https://win-popular.techidaily.com/accelerate-your-workflow-on-windows-learn-11-essential-touchpad-shortcuts-to-enhance-speed-and-intelligence-from-zdnet/"><u>Accelerate Your Workflow on Windows: Learn 11 Essential Touchpad Shortcuts to Enhance Speed & Intelligence From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721460947008-chatgpt-not-functioning-on-your-phone-discover-these-9-fixes-to-restore-it/"><u>ChatGPT Not Functioning on Your Phone? Discover These 9 Fixes to Restore It!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/combatting-iphones-difficulty-in-autofocusing-for-2024/"><u>Combatting iPhone's Difficulty in Autofocusing for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/common-misconceptions-how-windows-users-misunderstand-macos-insights-from-zdnet/"><u>Common Misconceptions: How Windows Users Misunderstand macOS - Insights From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/enhance-your-standing-desk-experience-with-these-must-have-add-ons-insights-from-zdnet/"><u>Enhance Your Standing Desk Experience with These Must-Have Add-Ons: Insights From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/exploring-all-latest-ai-innovations-in-copilotplus-for-your-pc-almost-convinced-by-the-buzz/"><u>Exploring All Latest AI Innovations in Copilot+ for Your PC: Almost Convinced by the Buzz!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/future-proof-your-text-editing-microsoft-unveils-plans-to-transform-notepad-into-an-ai-powerhouse-plus-a-fresh-snipping-tool-for-windows-11-users-zdnet-insi244/"><u>Future-Proof Your Text Editing: Microsoft Unveils Plans to Transform Notepad Into an AI Powerhouse, Plus a Fresh Snipping Tool for Windows 11 Users - ZDNET Insider Report</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-se-2020-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone SE (2020) without Apple Account</u></a></li>
-<li><a href="https://win-popular.techidaily.com/improved-multiplatform-gaming-with-crossover-23-now-playable-on-macos-chromebooks-and-linux-systems/"><u>Improved Multiplatform Gaming with Crossover 23 - Now Playable on macOS, Chromebooks & Linux Systems</u></a></li>
-<li><a href="https://win-popular.techidaily.com/knowing-the-lifespan-how-and-when-does-microsoft-discontinue-support-for-specific-windows-versions/"><u>Knowing the Lifespan: How and When Does Microsoft Discontinue Support for Specific Windows Versions?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/smartphone-lifecycle-evaluation/"><u>Smartphone Lifecycle Evaluation</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-35-unbeatable-primesmart-tv-monitor-bargains-going-strong-dive-in/"><u>Top 35 Unbeatable Primesmart TV-Monitor Bargains Going Strong – Dive In!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/ultimate-video-transformation-toolkit-professional-edition/"><u>Ultimate Video Transformation Toolkit | Professional Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-6-social-media-outlets-boosting-business-revenue/"><u>2024 Approved Top 6 Social Media Outlets Boosting Business Revenue</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achieve-success-in-fat-to-fit-ultimate-tips-and-strategies-for-pc-gamers/"><u>Achieve Success in 'Fat to Fit': Ultimate Tips and Strategies for PC Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-tomorrows-teachers-today-through-vr-for-2024/"><u>Crafting Tomorrow’s Teachers, Today Through VR for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-techniques-for-preserving-your-iphone-snapshots-in-various-formats/"><u>Effective Techniques for Preserving Your iPhone Snapshots in Various Formats</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fresh-update-download-updated-drivers-for-zebra-printers-on-windows-systems/"><u>Fresh Update: Download Updated Drivers for Zebra Printers on Windows Systems</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-accessing-and-viewing-discoveryplus-content-on-your-television/"><u>Guide: Accessing and Viewing Discovery+ Content on Your Television</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-6-lite-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-m6-pro-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco M6 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/master-the-art-of-broadcasting-games-alive-omlet-arcade-tutorials/"><u>Master the Art of Broadcasting Games Alive: Omlet Arcade Tutorials</u></a></li>
+<li><a href="https://win-popular.techidaily.com/optimal-methods-for-recording-video-of-your-mac-games-easily-and-effectively/"><u>Optimal Methods for Recording Video of Your Mac Games Easily and Effectively</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-fix-low-brightness-lenovo-screens/"><u>Tips to Fix Low-Brightness Lenovo Screens</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-rated-windows-music-apps-streamline-your-listening-experience-with-ease/"><u>Top-Rated Windows Music Apps: Streamline Your Listening Experience with Ease!</u></a></li>
 </ul></div>
 

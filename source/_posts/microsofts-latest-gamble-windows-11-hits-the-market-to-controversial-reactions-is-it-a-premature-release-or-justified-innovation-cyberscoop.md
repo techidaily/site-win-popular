@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Gamble: Windows 11 Hits the Market to Controversial Reactions; Is It a Premature Release or Justified Innovation? | CyberScoop"
-date: 2024-09-28T00:49:20.837Z
-updated: 2024-09-30T12:34:54.558Z
+date: 2024-10-03T16:57:42.512Z
+updated: 2024-10-05T22:41:13.780Z
 tags:
   - windows
 categories:
@@ -33,19 +33,6 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -68,10 +55,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -81,10 +68,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -111,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -122,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,15 +156,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-leading-10-high-resolution-monitors-with-built-in-video-editing/"><u>[New] In 2024, Leading 10 High-Resolution Monitors with Built-In Video Editing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-hidden-potential-with-instagrams-inquiry-emoji/"><u>[Updated] Unlocking Hidden Potential with Instagram’s Inquiry Emoji</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-sony-xperia-5-small-size-great-cost/"><u>Comprehensive Analysis of the Sony Xperia 5: Small Size, Great Cost</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-comprehensive-guide-to-capturing-lol-showdowns/"><u>In 2024, Comprehensive Guide to Capturing LOL Showdowns</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unraveling-the-secret-of-seamless-subtitle-crafting-for-facebook-videos/"><u>In 2024, Unraveling the Secret of Seamless Subtitle Crafting for Facebook Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/knowing-the-lifespan-how-and-when-does-microsoft-discontinue-support-for-specific-windows-versions/"><u>Knowing the Lifespan: How and When Does Microsoft Discontinue Support for Specific Windows Versions?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsoft-unveils-innovative-crowdstrike-restore-utility-understanding-the-functionality-techinsights/"><u>Microsoft Unveils Innovative CrowdStrike Restore Utility: Understanding the Functionality | TechInsights</u></a></li>
-<li><a href="https://win-popular.techidaily.com/selecting-the-right-windows-11-user-account-a-comprehensive-guide-to-optimize-your-system/"><u>Selecting the Right Windows 11 User Account: A Comprehensive Guide to Optimize Your System</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transforming-windows-10-home-to-professional-version-for-enhanced-features-a-step-by-step-guide-pcmagazine/"><u>Transforming Windows 10 Home to Professional Version for Enhanced Features - A Step-by-Step Guide | PCMagazine</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-express-thanks-free-and-premium-video-farewells/"><u>[New] Express Thanks Free and Premium Video Farewells</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-is-it-illegal-to-document-video-on-youtube-platform/"><u>[Updated] Is It Illegal to Document Video on YouTube Platform?</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-most-efficient-and-user-friendly-mind-mapping-software-designed-specifically-for-mac-users-handpicked-from-2020s-top-reviews/"><u>Discover the Most Efficient and User-Friendly Mind Mapping Software Designed Specifically for Mac Users, Handpicked From 2020’S Top Reviews.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-downloading-of-wacom-device-drivers-a-step-by-step-tutorial/"><u>Effortless Downloading of Wacom Device Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-for-syncing-your-huawei-mate-40-pro-with-your-personal-laptop-or-desktop/"><u>Expert Tips for Syncing Your Huawei Mate 40 Pro with Your Personal Laptop or Desktop</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-13c-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi 13C Devices</u></a></li>
+<li><a href="https://win-popular.techidaily.com/leading-pdf-purifier-solutions-securely-erase-your-files-with-precision/"><u>Leading PDF Purifier Solutions: Securely Erase Your Files with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/recognize-unlisted-hardware-in-device-manager/"><u>Recognize Unlisted Hardware in Device Manager</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-file-explorer-on-windows-nt/"><u>Troubleshooting Guide: Dealing with Unresponsive File Explorer on Windows nT</u></a></li>
 </ul></div>
 

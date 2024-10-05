@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reconfiguring Your Mac's Command Key Settings (ZDNet)"
-date: 2024-09-23T13:12:00.790Z
-updated: 2024-09-30T05:16:49.896Z
+date: 2024-10-03T20:31:42.140Z
+updated: 2024-10-05T19:41:29.883Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-highest-rated-video-call-software-not-zoom-for-pcs-and-phones/"><u>[New] Highest-Rated Video Call Software (Not Zoom) for PCs & Phones</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ive-streamer-audience-metrics/"><u>[New] Live Streamer Audience Metrics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-list-of-12-superior-flipscreen-vlog-cameras/"><u>[Updated] The Ultimate List of 12 Superior Flipscreen Vlog Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-brief-overview-understanding-vr-jargon-for-2024/"><u>A Brief Overview Understanding VR Jargon for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-wealth-like-a-mythical-dragon-expert-strategies-for-infinite-gains-on-your-computer/"><u>Conquer Wealth Like a Mythical Dragon: Expert Strategies for Infinite Gains on Your Computer</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-and-download-various-formats-of-the-onion-video-content-mp4-mov-avi/"><u>Convert & Download Various Formats of The Onion Video Content (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-deezer-playlists-into-high-quality-flac-audio-files-including-album-artwork/"><u>Convert Deezer Playlists Into High-Quality FLAC Audio Files Including Album Artwork</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-gracie-kids-streaming-footage-to-high-quality-mp4-format/"><u>Convert Gracie Kids Streaming Footage to High-Quality MP4 Format</u></a></li>
-<li><a href="https://win-popular.techidaily.com/download-and-convert-vimeo-content-with-ease-using-gaia-converter-tool-for-high-quality-mp4avi-playbacks/"><u>Download and Convert Vimeo Content with Ease Using Gaia Converter Tool for High-Quality MP4/AVI Playbacks</u></a></li>
-<li><a href="https://win-popular.techidaily.com/download-and-transform-youtube-audio-clips-into-mobile-phone-ringtones-mp3m4a/"><u>Download and Transform YouTube Audio Clips Into Mobile Phone Ringtones (MP3/M4A)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/downloading-high-definition-belly-dance-tutorials-as-mp4-files-on-pc-and-mac-systems/"><u>Downloading High-Definition Belly Dance Tutorials as MP4 Files on PC & Mac Systems</u></a></li>
-<li><a href="https://win-popular.techidaily.com/easy-guide-convert-and-save-the-walking-dead-show-as-mp4movavi-files/"><u>Easy Guide: Convert & Save 'The Walking Dead' Show as MP4/MOV/AVI Files</u></a></li>
-<li><a href="https://win-popular.techidaily.com/easy-steps-for-downloading-nico-videos-on-pc-and-mac-guide/"><u>Easy Steps for Downloading Nico Videos on PC & Mac - Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-your-aiff-files-into-mov-format-with-ease/"><u>Free Online Converter: Transforming Your AIFF Files Into MOV Format with Ease</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>In 2024, Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/is-microsofts-new-release-a-game-changer-or-annoyance-discover-the-truth-with-zdnet/"><u>Is Microsoft's New Release a Game-Changer or Annoyance? Discover the Truth with ZDNet!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290415143-twitter/"><u>エラーの原因を解除し、安定したTwitter認証コード受け取り方法について学ぶ</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-the-network-of-youtube-multitasking-mastery/"><u>[New] 2024 Approved Navigating The Network Of YouTube Multitasking Mastery</u></a></li>
+<li><a href="https://win-popular.techidaily.com/action-packed-video-tutorial-on-screenshotting-your-favorite-directx/"><u>Action-Packed Video Tutorial on Screenshotting Your Favorite DirectX</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-nes-classic-collection-with-these-easy-tips/"><u>Boost Your NES Classic Collection with These Easy Tips</u></a></li>
+<li><a href="https://win-popular.techidaily.com/building-synergies-in-business-explore-your-potential-with-mirilliss-partner-network/"><u>Building Synergies in Business: Explore Your Potential with Mirillis's Partner Network</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/echoenthusiast-auditory-review-exploration/"><u>EchoEnthusiast Auditory Review Exploration</u></a></li>
+<li><a href="https://win-popular.techidaily.com/essential-steps-to-capturing-game-moments-beginners-record-playback-lesson/"><u>Essential Steps to Capturing Game Moments: Beginner's Record Playback Lesson</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-use-a-whiteboard-in-google-meet-for-2024/"><u>How to Use a Whiteboard in Google Meet for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-a-single-lens-discover-the-top-11-angle-capable-cams/"><u>In 2024, Beyond a Single Lens Discover the Top 11 Angle-Capable Cams</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-smart-8-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Smart 8 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-product-evaluations-and-advice-by-toms-hardware-experts/"><u>In-Depth Product Evaluations and Advice by Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-class-accessing-elite-visual-content-without-expense-for-2024/"><u>Master Class Accessing Elite Visual Content Without Expense for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/microsoft-faces-critical-challenge-with-windows-11-just-one-year-left-to-fix-zdnet/"><u>Microsoft Faces Critical Challenge with Windows 11: Just One Year Left to Fix! - ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/navigating-a-shifting-landscape-microsoft-takes-over-where-google-left-off-in-the-iot-arena-analysis-on-zdnet/"><u>Navigating a Shifting Landscape: Microsoft Takes Over Where Google Left Off in the IoT Arena - Analysis on ZDNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pro-tech-reviews-sharex-and-more/"><u>Pro Tech Reviews ShareX & More</u></a></li>
+<li><a href="https://win-popular.techidaily.com/record-with-ease-the-a-list-roundup-of-premier-screenshot-applications/"><u>Record with Ease: The A-List Roundup of Premier Screenshot Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-subtitle-converters-no-cost-for-srt-files/"><u>Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://win-popular.techidaily.com/transfer-your-favorite-songs-from-amazon-music-to-mp3wavaac-format-easy-guide-for-mac-and-pc/"><u>Transfer Your Favorite Songs From Amazon Music to MP3/WAV/AAC Format: Easy Guide for Mac & PC</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ultimate-techniques-for-saving-your-favorite-trilulilu-content-in-mp4-or-mp3-format/"><u>Ultimate Techniques for Saving Your Favorite Trilulilu Content in MP4 or MP3 Format</u></a></li>
+<li><a href="https://win-popular.techidaily.com/watch-now-anywhere-secure-your-favorite-anime-with-gogoanime-downloads/"><u>Watch Now Anywhere – Secure Your Favorite Anime with Gogoanime Downloads!</u></a></li>
 </ul></div>
 

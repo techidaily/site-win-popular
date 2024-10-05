@@ -1,7 +1,7 @@
 ---
 title: "Unauthorized Automatic Sync: Windows 11 Enables OneDrive Backups Without User Consent, Revealed by ZDNet"
-date: 2024-09-26T09:15:05.768Z
-updated: 2024-09-30T07:52:54.996Z
+date: 2024-09-30T16:32:46.485Z
+updated: 2024-10-05T23:32:04.140Z
 tags:
   - windows
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +187,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-popular.techidaily.com/y-3-0x-5/"><u> [ Y - (-3) = 0(X - 5) </u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-preserving-gifs-from-twitter-for-mobile-devices-for-2024/"><u>[New] Preserving GIFs From Twitter for Mobile Devices for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/create-customizable-page-turning-ebooks-for-apple-devices-using-flipbuilder-technology/"><u>Create Customizable Page-Turning Ebooks for Apple Devices Using FlipBuilder Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-transition-from-a-public-to-a-private-wi-fi-network-on-windows-11-devices/"><u>Effortlessly Transition From a Public to a Private Wi-Fi Network on Windows 11 Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-vs-polaroid-cube-choosing-your-editing-companion-for-2024/"><u>GoPro Vs. Polaroid Cube Choosing Your Editing Companion for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-step-by-step-to-adding-music-to-vimeo-videos/"><u>In 2024, A Step-by-Step to Adding Music to Vimeo Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-12-mini-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 12 mini Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/innovate-your-web-development-process-with-vue-argon-the-ultimate-free-design-system-for-bootstrap-plus-vue-by-creative-tim/"><u>Innovate Your Web Development Process with Vue Argon - The Ultimate FREE Design System for Bootstrap + Vue by Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/master-your-store-with-notus-the-superior-free-shopify-theme-by-creative-tim/"><u>Master Your Store with Notus - The Superior, Free Shopify Theme by Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/over-23-beautiful-paper-theme-templates-and-tutorials-by-creative-tim/"><u>Over 23 Beautiful Paper Theme Templates and Tutorials by Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/professional-admin-template-for-laravel-apps-using-material-dashboard-2-pro-developed-by-creative-tims-collaboration-with-updivision/"><u>Professional Admin Template for Laravel Apps Using Material Dashboard 2 Pro, Developed by Creative Tim's Collaboration with UPDIVISION</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722988792070-red-dead-redemption-2-upgraded-say-goodbye-to-stutter-enjoy-seamless-gameplay-with-better-fps/"><u>Red Dead Redemption 2 Upgraded: Say Goodbye to Stutter, Enjoy Seamless Gameplay with Better FPS!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/section-eb-advanced-topics-non-linear-scaling-and-fractal-geometry-in-models/"><u>Section Eb: Advanced Topics - Non-Linear Scaling and Fractal Geometry in Models]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-resolving-device-configuration-incorrect-warning-code-1/"><u>Troubleshooting Tips for Resolving 'Device Configuration Incorrect' Warning Code 1</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps-for-2024/"><u>Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-the-best-timing-strategies-for-instagram-posts/"><u>[New] Decoding the Best Timing Strategies for Instagram Posts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-setup-for-flawless-time-lapses-on-ipad-for-2024/"><u>[New] Quick Setup for Flawless Time-Lapses on iPad for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-handsonguide-to-yourwebcamrecord/"><u>[Updated] HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achievable-techniques-for-recording-android-device-screenshots/"><u>Achievable Techniques for Recording Android Device Screenshots</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/cloud-gaming-goes-big-how-microsoft-and-samsung-could-revolutionize-the-industry-together/"><u>Cloud Gaming Goes Big: How Microsoft & Samsung Could Revolutionize the Industry Together</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-most-efficient-and-user-friendly-mind-mapping-software-designed-specifically-for-mac-users-handpicked-from-2020s-top-reviews/"><u>Discover the Most Efficient and User-Friendly Mind Mapping Software Designed Specifically for Mac Users, Handpicked From 2020’S Top Reviews.</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-for-syncing-your-huawei-mate-40-pro-with-your-personal-laptop-or-desktop/"><u>Expert Tips for Syncing Your Huawei Mate 40 Pro with Your Personal Laptop or Desktop</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-mastering-the-art-of-live-gaming-on-discord/"><u>Guide: Mastering the Art of Live Gaming on Discord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>In 2024, The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-music-driven-editing-perfect-pacing-with-beat-alignment-in-final-cut-pro-x-for-2024/"><u>New The Ultimate Guide to Music-Driven Editing Perfect Pacing with Beat Alignment in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-passcode-solutions-for-ipad-users-securely-restoring-device-access/"><u>No-Passcode Solutions for iPad Users: Securely Restoring Device Access</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prime-10-converters-free-apps-for-efficient-srt-file-transformations-for-2024/"><u>Prime 10 Converters FREE Apps for Efficient SRT File Transformations for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-10-alternative-app-stores-for-android-devices-beyond-the-google-play-store/"><u>Top 10 Alternative App Stores for Android Devices Beyond the Google Play Store</u></a></li>
 </ul></div>
 

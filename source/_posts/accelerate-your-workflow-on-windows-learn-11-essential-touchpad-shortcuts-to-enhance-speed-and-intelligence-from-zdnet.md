@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Workflow on Windows: Learn 11 Essential Touchpad Shortcuts to Enhance Speed & Intelligence From ZDNet"
-date: 2024-09-27T03:30:29.495Z
-updated: 2024-09-29T22:29:56.073Z
+date: 2024-10-03T19:53:14.537Z
+updated: 2024-10-05T21:49:42.544Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -48,6 +55,19 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -55,10 +75,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -67,19 +87,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -87,10 +94,16 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -103,13 +116,6 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -162,22 +168,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-forge-an-impeccable-vr-self-representation-for-2024/"><u>[Updated] How to Forge an Impeccable VR Self-Representation for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-harness-googles-skill-for-accurate-speech-to-text-conversion/"><u>[Updated] In 2024, Harness Google's Skill for Accurate Speech to Text Conversion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlined-strategies-for-powerpoint-recordings/"><u>[Updated] In 2024, Streamlined Strategies for PowerPoint Recordings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-speed-it-up-crafting-beautiful-timelapse-videos-on-galaxy/"><u>[Updated] Speed It Up Crafting Beautiful Timelapse Videos on Galaxy</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-fast-track-missing-snap-finders/"><u>2024 Approved Fast-Track Missing Snap Finders</u></a></li>
-<li><a href="https://win-popular.techidaily.com/action-packed-video-tutorial-on-screenshotting-your-favorite-directx/"><u>Action-Packed Video Tutorial on Screenshotting Your Favorite DirectX</u></a></li>
-<li><a href="https://win-popular.techidaily.com/building-synergies-in-business-explore-your-potential-with-mirilliss-partner-network/"><u>Building Synergies in Business: Explore Your Potential with Mirillis's Partner Network</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/curated-selection-of-farewell-music-templates/"><u>Curated Selection of Farewell Music Templates</u></a></li>
-<li><a href="https://win-popular.techidaily.com/essential-steps-to-capturing-game-moments-beginners-record-playback-lesson/"><u>Essential Steps to Capturing Game Moments: Beginner's Record Playback Lesson</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-set-up-device-sync-and-display-on-your-lg-smart-television/"><u>How to Set Up Device Sync and Display on Your LG Smart Television</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-new-horizons-the-efficient-path-for-windows-11-in-place-update/"><u>Navigating New Horizons: The Efficient Path for Windows 11, In-Place Update</u></a></li>
-<li><a href="https://win-popular.techidaily.com/subtitle-enabled-khan-academy-educational-films-download-now/"><u>Subtitle-Enabled Khan Academy Educational Films - Download Now</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-mp4-video-encoders-of-202nk-a-comprehensive-guide-to-mp4-file-conversion/"><u>Top MP4 Video Encoders of 202Nk: A Comprehensive Guide to MP4 File Conversion</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-smlodr-substitute-software-compared-which-is-the-ultimate-choice-for-macos-and-windows-users/"><u>Top Smlodr Substitute Software Compared: Which Is the Ultimate Choice for macOS & Windows Users?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transfer-your-favorite-songs-from-amazon-music-to-mp3wavaac-format-easy-guide-for-mac-and-pc/"><u>Transfer Your Favorite Songs From Amazon Music to MP3/WAV/AAC Format: Easy Guide for Mac & PC</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ultimate-techniques-for-saving-your-favorite-trilulilu-content-in-mp4-or-mp3-format/"><u>Ultimate Techniques for Saving Your Favorite Trilulilu Content in MP4 or MP3 Format</u></a></li>
-<li><a href="https://win-popular.techidaily.com/watch-now-anywhere-secure-your-favorite-anime-with-gogoanime-downloads/"><u>Watch Now Anywhere – Secure Your Favorite Anime with Gogoanime Downloads!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamline-your-screencast-the-best-obs-tools-insider-tips/"><u>[New] 2024 Approved Streamline Your Screencast The Best OBS Tools Insider Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-twist-your-imagery-instagrams-video-rotation-guide/"><u>[Updated] 2024 Approved Twist Your Imagery Instagram's Video Rotation Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlining-video-conferencing-with-efficient-use-of-snap-features-on-google-meet/"><u>[Updated] In 2024, Streamlining Video Conferencing with Efficient Use of Snap Features on Google Meet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>[Updated] Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-visual-content-on-instagram-using-these-6-tools-for-2024/"><u>[Updated] Transform Your Visual Content on Instagram Using These 6 Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uncovering-other-powerful-video-players-beyond-vlc/"><u>[Updated] Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-gt-5-240w-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme GT 5 (240W) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achievable-techniques-for-recording-android-device-screenshots/"><u>Achievable Techniques for Recording Android Device Screenshots</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-techniques-for-capturing-screenshots-on-an-lg-smartphone-or-tablet/"><u>Effortless Techniques for Capturing Screenshots on an LG Smartphone or Tablet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-mastering-the-art-of-live-gaming-on-discord/"><u>Guide: Mastering the Art of Live Gaming on Discord</u></a></li>
+<li><a href="https://win-popular.techidaily.com/hassle-free-mac-recording-master-the-art-of-mixing-and-editing-tunes-with-mixcraft/"><u>Hassle-Free Mac Recording: Master the Art of Mixing and Editing Tunes with Mixcraft</u></a></li>
+<li><a href="https://win-popular.techidaily.com/innovative-techniques-for-precision-object-removal-from-images/"><u>Innovative Techniques for Precision Object Removal From Images</u></a></li>
+<li><a href="https://win-popular.techidaily.com/streamline-your-viewing-experience-with-smartphone-enabled-tv-navigation/"><u>Streamline Your Viewing Experience with Smartphone-Enabled TV Navigation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-15-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 15</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-10-alternative-app-stores-for-android-devices-beyond-the-google-play-store/"><u>Top 10 Alternative App Stores for Android Devices Beyond the Google Play Store</u></a></li>
 </ul></div>
 

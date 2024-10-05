@@ -1,7 +1,7 @@
 ---
 title: "Urgent Deadline: Microsoft's Crucial Challenge with Windows 10 Resolution Needs by Next Year | Insights From ZDNet"
-date: 2024-09-28T17:22:38.309Z
-updated: 2024-09-29T22:28:25.050Z
+date: 2024-09-28T19:46:35.544Z
+updated: 2024-10-05T23:11:54.045Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments/"><u>[New] Altering Visuals in Teams Calls Timely Setup Adjustments</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-tiktok-potential-desktop-video-guide-for-2024/"><u>[Updated] Unlocking TikTok Potential Desktop Video Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-the-science-proven-methods-for-effective-hashtagging-on-fb/"><u>2024 Approved Mastering the Science Proven Methods for Effective Hashtagging on FB</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579049502-beat-the-wait-with-daily-slovak-learning-sessions-just-10-minutes-each/"><u>Beat the Wait with Daily Slovak Learning Sessions, Just 10 Minutes Each</u></a></li>
-<li><a href="https://win-popular.techidaily.com/creative-tims-bespoke-angular-projects-featuring-tailwind-css-themes-and-templates/"><u>Creative Tim's Bespoke Angular Projects Featuring Tailwind CSS Themes and Templates</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle/"><u>Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effortless-laravel-backoffice-setup-using-material-ui-dashboard-complimentary-frontend-skeleton-from-creative-tim/"><u>Effortless Laravel Backoffice Setup Using Material UI Dashboard – Complimentary Frontend Skeleton From Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/explore-the-top-8-designed-chakra-ui-templates-in-react-by-creative-tim/"><u>Explore the Top 8 Designed Chakra UI Templates in React by Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/flask-black-dashboard-template-with-bootstrap-4-professional-admin-interface-designed-by-creative-tim/"><u>Flask Black Dashboard Template with Bootstrap 4: Professional Admin Interface Designed by Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/free-and-easy-to-use-angular-bootstrap-dashboard-template-from-creative-tim/"><u>Free and Easy-to-Use Angular Bootstrap Dashboard Template From Creative Tim</u></a></li>
-<li><a href="https://win-popular.techidaily.com/free-chakraui-dashboard-by-vision-a-comprehensive-guide-with-uis-and-widgets/"><u>Free ChakraUI Dashboard by Vision: A Comprehensive Guide with UIs & Widgets</u></a></li>
-<li><a href="https://win-popular.techidaily.com/get-your-hands-on-a-proven-free-flutter-app-framework-with-argon-from-creative-tim-now/"><u>Get Your Hands-On a Proven Free Flutter App Framework with Argon From Creative Tim Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-app-disappeared-how-to-find-missing-apps-on-your-iphone/"><u>IPhone App Disappeared? How to Find Missing Apps on Your iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-windows-7-audio-driver-downloads-compatible-with-your-system/"><u>Latest Windows 7 Audio Driver Downloads - Compatible with Your System</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/leverage-dynamic-analytics-powered-by-the-innovative-cookiebot-technology/"><u>Leverage Dynamic Analytics Powered by the Innovative Cookiebot Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-deconstructing-sharex-and-its-challengers-for-2024/"><u>[New] Deconstructing ShareX and Its Challengers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-power-of-persuasion-how-to-boost-instagram-post-reach-for-2024/"><u>[Updated] The Power of Persuasion How to Boost Instagram Post Reach for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-window-recorder-w10-edition/"><u>Easy Window Recorder - W10 Edition</u></a></li>
+<li><a href="https://win-popular.techidaily.com/flipoffice-pro-effortlessly-create-a-multi-functional-paperless-office-hub-organize-and-access-your-documents-anywhere/"><u>FlipOffice Pro: Effortlessly Create a Multi-Functional Paperless Office Hub - Organize and Access Your Documents Anywhere!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-to-displaying-your-company-info-dynamically-in-a-flash-flipbook-via-flipbuilder/"><u>Guide to Displaying Your Company Info Dynamically in a Flash FlipBook via FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-to-perfectly-aligned-texts-master-right-and-left-placement-on-flipbuilder/"><u>Guide to Perfectly Aligned Texts - Master Right & Left Placement on FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-unlocking-access-to-user-content-in-flipbooks-on-flipbuilder/"><u>Guide: Unlocking Access to User Content in Flipbooks on FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-can-i-restrict-access-to-my-flipping-books-on-flipbuilder-to-prevent-unauthorized-viewing/"><u>How Can I Restrict Access to My Flipping Books on FlipBuilder to Prevent Unauthorized Viewing?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-flipbuilder-revolutionizes-reading-experience-by-converting-txt-layouts-to-electronic-magazine-formats-is-it-the-future-of-publishing-online/"><u>How FlipBuilder Revolutionizes Reading Experience by Converting TXT Layouts to Electronic Magazine Formats – Is It the Future of Publishing Online?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tech-trouble-elusive-nvidia-graphics-detected/"><u>Tech Trouble: Elusive NVIDIA Graphics Detected?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-cracking-secure-disney-and-sony-dvds-with-these-6-leading-applications/"><u>Ultimate Guide to Cracking Secure Disney and Sony DVDs with These 6 Leading Applications</u></a></li>
 </ul></div>
 

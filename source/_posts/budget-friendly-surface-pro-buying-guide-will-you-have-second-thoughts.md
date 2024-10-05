@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Surface Pro Buying Guide: Will You Have Second Thoughts?"
-date: 2024-09-28T23:04:43.335Z
-updated: 2024-09-30T05:52:01.552Z
+date: 2024-10-01T20:46:33.538Z
+updated: 2024-10-05T21:18:35.687Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-companions-choosing-blu-ray-software-freepaid-on-pcsmacs/"><u>[New] 2024 Approved Best Companions Choosing Blu-Ray Software (Free/Paid) on PCs/Macs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-exploring-social-networking-youtube-content-on-fb-for-2024/"><u>[New] Exploring Social Networking YouTube Content on FB for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>[New] In 2024, Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-how-to-be-a-good-interviewer/"><u>[Updated] How To Be A Good Interviewer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-learning-free-tools-for-online-video-texts/"><u>2024 Approved Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-mp4-media-synchronizer-to-fb/"><u>2024 Approved Ultimate MP4 Media Synchronizer to FB</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s23-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-13t-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi 13T Pro Location | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintaining-constant-calc-display-in-windows/"><u>Maintaining Constant Calc Display in Windows</u></a></li>
-<li><a href="https://win-popular.techidaily.com/streamline-your-viewing-experience-securely-transfer-bbc-content-from-the-web-to-itunes-and-dvds-with-ease/"><u>Streamline Your Viewing Experience: Securely Transfer BBC Content From the Web to iTunes and DVDs with Ease</u></a></li>
-<li><a href="https://win-popular.techidaily.com/subtitle-enabled-khan-academy-educational-films-download-now/"><u>Subtitle-Enabled Khan Academy Educational Films - Download Now</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-smlodr-substitute-software-compared-which-is-the-ultimate-choice-for-macos-and-windows-users/"><u>Top Smlodr Substitute Software Compared: Which Is the Ultimate Choice for macOS & Windows Users?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transfer-your-favorite-songs-from-amazon-music-to-mp3wavaac-format-easy-guide-for-mac-and-pc/"><u>Transfer Your Favorite Songs From Amazon Music to MP3/WAV/AAC Format: Easy Guide for Mac & PC</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ultimate-techniques-for-saving-your-favorite-trilulilu-content-in-mp4-or-mp3-format/"><u>Ultimate Techniques for Saving Your Favorite Trilulilu Content in MP4 or MP3 Format</u></a></li>
-<li><a href="https://win-popular.techidaily.com/watch-now-anywhere-secure-your-favorite-anime-with-gogoanime-downloads/"><u>Watch Now Anywhere – Secure Your Favorite Anime with Gogoanime Downloads!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-expert-techniques-mastering-text-additions-on-tiktok-for-2024/"><u>[New] Expert Techniques Mastering Text Additions on TikTok for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comparative-review-evaluating-screenr-against-other-tools-on-the-market/"><u>Comparative Review: Evaluating Screenr Against Other Tools on the Market</u></a></li>
+<li><a href="https://win-popular.techidaily.com/complete-desktop-manual-apowersofts-comprehensive-pdf-converter-user-instructions/"><u>Complete Desktop Manual: Apowersoft's Comprehensive PDF Converter User Instructions</u></a></li>
+<li><a href="https://win-popular.techidaily.com/easy-paper-digitization-for-iphones-discover-the-best-pdf-scanner-apps-in-2vehicle/"><u>Easy Paper Digitization for iPhones: Discover the Best PDF Scanner Apps in 2Vehicle.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208848320-expert-tips-for-resolving-the-windows-10-couldnt-be-installed-error-eb80240020-dilemma-step-by-step-solutions-included/"><u>Expert Tips for Resolving the 'Windows 10 Couldn't Be Installed (Error Eb80240020)' Dilemma – Step-by-Step Solutions Included!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-new-era-of-content-creation-and-profitability/"><u>In 2024, The New Era of Content Creation and Profitability</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kindleoasis-2019-comprehensive-review-for-a-paper-quality-reading-experience/"><u>KindleOasis (2019) Comprehensive Review for a Paper-Quality Reading Experience</u></a></li>
+<li><a href="https://win-popular.techidaily.com/leading-pdf-purifier-solutions-securely-erase-your-files-with-precision/"><u>Leading PDF Purifier Solutions: Securely Erase Your Files with Precision</u></a></li>
+<li><a href="https://win-popular.techidaily.com/master-the-art-of-broadcasting-games-alive-omlet-arcade-tutorials/"><u>Master the Art of Broadcasting Games Alive: Omlet Arcade Tutorials</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mastering-turbo-stars-a-comprehensive-guide-to-playing-on-your-computer/"><u>Mastering Turbo Stars: A Comprehensive Guide to Playing on Your Computer</u></a></li>
+<li><a href="https://win-popular.techidaily.com/optimal-methods-for-recording-video-of-your-mac-games-easily-and-effectively/"><u>Optimal Methods for Recording Video of Your Mac Games Easily and Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cod-addressing-and-correcting-the-wwii-game-bug-error-4220/"><u>Troubleshooting Cod: Addressing and Correcting the WWII Game Bug (Error 4220)</u></a></li>
 </ul></div>
 
