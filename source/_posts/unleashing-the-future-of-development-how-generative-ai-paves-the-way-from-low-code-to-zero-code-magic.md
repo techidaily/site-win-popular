@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Future of Development: How Generative AI Paves the Way From Low-Code to Zero-Code Magic!"
-date: 2024-10-04T19:09:35.978Z
-updated: 2024-10-05T19:45:49.607Z
+date: 2024-10-04T16:48:19.398Z
+updated: 2024-10-11T04:41:48.388Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,16 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,19 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-a-canvas-of-colors-advanced-theory-and-use-for-2024/"><u>[New] A Canvas of Colors Advanced Theory & Use for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-start-engaging-with-friends-on-insta-chat-for-2024/"><u>[Updated] Quick Start Engaging with Friends on Insta Chat for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reimagine-fuzzy-images-selecting-the-ultimate-10-internet-tools/"><u>[Updated] Reimagine Fuzzy Images Selecting the Ultimate 10 Internet Tools</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2021-laid-to-rest-solutions-for-the-stuck-loading-screen-dilemma/"><u>Football Manager 2021: Laid to Rest - Solutions for the Stuck Loading Screen Dilemma</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools/"><u>In 2024, Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-ace-2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus Ace 2 FRP</u></a></li>
-<li><a href="https://win-popular.techidaily.com/legally-stream-or-download-popular-spike-shows-as-mp4avi-files-for-both-windows-and-macos-users/"><u>Legally Stream or Download Popular Spike Shows as MP4/AVI Files for Both Windows and macOS Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-the-mystery-of-persistent-darkness-on-discord-during-live-streaming-explained/"><u>SOLVED: The Mystery of Persistent Darkness on Discord During Live Streaming Explained</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-tutorial-on-converting-songslover-videos-and-tracks-into-high-quality-mp3-files/"><u>Step-by-Step Tutorial on Converting SongsLover Videos and Tracks Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://win-popular.techidaily.com/streamline-your-streaming-4shared-file-retriever-for-easy-mac-os-x-and-windows-download-of-audiovideo-files/"><u>Streamline Your Streaming: 4Shared File Retriever for Easy Mac OS X & Windows Download of Audio/Video Files</u></a></li>
-<li><a href="https://win-popular.techidaily.com/streamline-your-viewing-experience-securely-transfer-bbc-content-from-the-web-to-itunes-and-dvds-with-ease/"><u>Streamline Your Viewing Experience: Securely Transfer BBC Content From the Web to iTunes and DVDs with Ease</u></a></li>
-<li><a href="https://win-popular.techidaily.com/subtitle-enabled-khan-academy-educational-films-download-now/"><u>Subtitle-Enabled Khan Academy Educational Films - Download Now</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-smlodr-substitute-software-compared-which-is-the-ultimate-choice-for-macos-and-windows-users/"><u>Top Smlodr Substitute Software Compared: Which Is the Ultimate Choice for macOS & Windows Users?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/y-y1-mx-xn/"><u> [Y - Y_1 = M(x - X_n) </u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-sudden-shadow-immediate-copyright-issue/"><u>[New] In 2024, Sudden Shadow Immediate Copyright Issue</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>[New] Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-flat-to-fantastic-3d-text-creation-tips/"><u>[Updated] From Flat to Fantastic 3D Text Creation Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/"><u>[Updated] In 2024, The Evolution of Video Capturing Insights Into the Latest Apeaksoft Software</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-expertly-crafted-bootstrapped-landing-pages-at-no-cost-download-from-creative-tim/"><u>1. Expertly Crafted Bootstrapped Landing Pages at No Cost - Download From Creative Tim</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achieve-elegant-web-design-with-paper-kit-2-complimentary-full-featured-ui-framework-based-on-bootstrap-nv4-from-creative-tim/"><u>Achieve Elegant Web Design with Paper Kit 2 – Complimentary Full-Featured UI Framework Based on Bootstrap Nv4 From Creative Tim</u></a></li>
+<li><a href="https://win-popular.techidaily.com/advanced-paper-kit-2-pro-by-creative-tim-professional-bootstrap-n4-ui-toolkit/"><u>Advanced Paper Kit 2 PRO by Creative Tim: Professional Bootstrap N4 UI Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-slow-response-times-after-adding-an-additional-screen/"><u>Avoid Slow Response Times After Adding an Additional Screen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unlock-your-creativity-with-vue-notus-premium-vuejstailwind-css-bundle-from-creative-tim/"><u>Unlock Your Creativity with Vue Notus: Premium VueJS/Tailwind CSS Bundle From Creative Tim</u></a></li>
 </ul></div>
 

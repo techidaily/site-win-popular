@@ -1,7 +1,7 @@
 ---
 title: "Urgent Deadline: Microsoft's Crucial Challenge with Windows 10 Resolution Needs by Next Year | Insights From ZDNet"
-date: 2024-09-28T19:46:35.544Z
-updated: 2024-10-05T23:11:54.045Z
+date: 2024-10-04T23:53:47.024Z
+updated: 2024-10-10T19:52:48.483Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-deconstructing-sharex-and-its-challengers-for-2024/"><u>[New] Deconstructing ShareX and Its Challengers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-power-of-persuasion-how-to-boost-instagram-post-reach-for-2024/"><u>[Updated] The Power of Persuasion How to Boost Instagram Post Reach for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/easy-window-recorder-w10-edition/"><u>Easy Window Recorder - W10 Edition</u></a></li>
-<li><a href="https://win-popular.techidaily.com/flipoffice-pro-effortlessly-create-a-multi-functional-paperless-office-hub-organize-and-access-your-documents-anywhere/"><u>FlipOffice Pro: Effortlessly Create a Multi-Functional Paperless Office Hub - Organize and Access Your Documents Anywhere!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-to-displaying-your-company-info-dynamically-in-a-flash-flipbook-via-flipbuilder/"><u>Guide to Displaying Your Company Info Dynamically in a Flash FlipBook via FlipBuilder</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-to-perfectly-aligned-texts-master-right-and-left-placement-on-flipbuilder/"><u>Guide to Perfectly Aligned Texts - Master Right & Left Placement on FlipBuilder</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-unlocking-access-to-user-content-in-flipbooks-on-flipbuilder/"><u>Guide: Unlocking Access to User Content in Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-can-i-restrict-access-to-my-flipping-books-on-flipbuilder-to-prevent-unauthorized-viewing/"><u>How Can I Restrict Access to My Flipping Books on FlipBuilder to Prevent Unauthorized Viewing?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-flipbuilder-revolutionizes-reading-experience-by-converting-txt-layouts-to-electronic-magazine-formats-is-it-the-future-of-publishing-online/"><u>How FlipBuilder Revolutionizes Reading Experience by Converting TXT Layouts to Electronic Magazine Formats – Is It the Future of Publishing Online?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-trouble-elusive-nvidia-graphics-detected/"><u>Tech Trouble: Elusive NVIDIA Graphics Detected?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-cracking-secure-disney-and-sony-dvds-with-these-6-leading-applications/"><u>Ultimate Guide to Cracking Secure Disney and Sony DVDs with These 6 Leading Applications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revolutionizing-healthcare-marketing-via-social-networks-for-2024/"><u>[New] Revolutionizing Healthcare Marketing via Social Networks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prepare-for-success-essential-trends-in-facebook-ads-24/"><u>[Updated] In 2024, Prepare for Success Essential Trends in Facebook Ads '24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally-for-2024/"><u>[Updated] Unveiling the Secrets An Overview of Using EZ Grabber Professionally for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2-trier-les-meilleurs-programmes-de-compression-hevch265-pour-mac-tests-approfondis-and-revelations-sur-windows/"><u>2. Trier Les Meilleurs Programmes De Compression HEVC/H.265 Pour Mac - Tests Approfondis & Révélations Sur Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a05s-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel A05s</u></a></li>
+<li><a href="https://win-popular.techidaily.com/accelerate-your-workflow-on-windows-learn-11-essential-touchpad-shortcuts-to-enhance-speed-and-intelligence-from-zdnet/"><u>Accelerate Your Workflow on Windows: Learn 11 Essential Touchpad Shortcuts to Enhance Speed & Intelligence From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-life-and-likes-cutting-down-on-facebook-time/"><u>Balancing Life and Likes: Cutting Down on Facebook Time</u></a></li>
+<li><a href="https://win-popular.techidaily.com/common-misconceptions-how-windows-users-misunderstand-macos-insights-from-zdnet/"><u>Common Misconceptions: How Windows Users Misunderstand macOS - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-elite-5-desk-picks-for-professionals-according-to-zdnet/"><u>Discover the Elite 5 Desk Picks for Professionals , According to ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhance-your-standing-desk-experience-with-these-must-have-add-ons-insights-from-zdnet/"><u>Enhance Your Standing Desk Experience with These Must-Have Add-Ons: Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-performance-of-jackery-powerbar-the-convenience-of-an-inbuilt-ac-extension/"><u>Evaluating the Performance of Jackery PowerBar: The Convenience of an Inbuilt AC Extension</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exploring-all-latest-ai-innovations-in-copilotplus-for-your-pc-almost-convinced-by-the-buzz/"><u>Exploring All Latest AI Innovations in Copilot+ for Your PC: Almost Convinced by the Buzz!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-video-openings-that-stand-out-today-for-2024/"><u>Free Video Openings That Stand Out Today for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-narzo-n53-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme Narzo N53 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/future-proof-your-text-editing-microsoft-unveils-plans-to-transform-notepad-into-an-ai-powerhouse-plus-a-fresh-snipping-tool-for-windows-11-users-zdnet-insi244/"><u>Future-Proof Your Text Editing: Microsoft Unveils Plans to Transform Notepad Into an AI Powerhouse, Plus a Fresh Snipping Tool for Windows 11 Users - ZDNET Insider Report</u></a></li>
+<li><a href="https://win-popular.techidaily.com/improved-multiplatform-gaming-with-crossover-23-now-playable-on-macos-chromebooks-and-linux-systems/"><u>Improved Multiplatform Gaming with Crossover 23 - Now Playable on macOS, Chromebooks & Linux Systems</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mastering-email-etiquette-setting-up-a-custom-email-signature-with-microsoft-outlook-expert-advice/"><u>Mastering Email Etiquette: Setting Up a Custom Email Signature with Microsoft Outlook (Expert Advice)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-to-download-and-install-nvidia-gtx-980-gpu-drivers/"><u>Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-35-unbeatable-primesmart-tv-monitor-bargains-going-strong-dive-in/"><u>Top 35 Unbeatable Primesmart TV-Monitor Bargains Going Strong – Dive In!</u></a></li>
 </ul></div>
 

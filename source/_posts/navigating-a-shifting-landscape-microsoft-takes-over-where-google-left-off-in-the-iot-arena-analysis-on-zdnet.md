@@ -1,7 +1,7 @@
 ---
 title: "Navigating a Shifting Landscape: Microsoft Takes Over Where Google Left Off in the IoT Arena - Analysis on ZDNET"
-date: 2024-09-30T19:28:20.041Z
-updated: 2024-10-05T19:23:50.881Z
+date: 2024-10-08T17:36:12.467Z
+updated: 2024-10-11T02:39:29.913Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -152,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-thrive-after-facebooks-content-algorithm-overhaul/"><u>[New] How to Thrive After Facebook's Content Algorithm Overhaul</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-discovering-the-top-10-video-calls-for-mobile-users-worldwide/"><u>[Updated] In 2024, Discovering the Top 10 Video Calls for Mobile Users Worldwide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-secrets-of-soaring-wealth-joshis-youtube-path/"><u>[Updated] In 2024, Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/are-your-pc-specs-outdated-microsoft-halts-windows-11-rollouts-for-non-compliant-systems-zdnet-insights/"><u>Are Your PC Specs Outdated? Microsoft Halts Windows 11 Rollouts for Non-Compliant Systems | ZDNET Insights</u></a></li>
-<li><a href="https://win-popular.techidaily.com/brace-yourself-for-billable-windows-11-patches-next-years-update-pricing-revealed-tech-insight-at-zdnet/"><u>Brace Yourself for Billable Windows 11 Patches: Next Year's Update Pricing Revealed | Tech Insight at ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/como-transformar-archivos-flv-a-mpeg-online-sin-costo-guia-de-movavi/"><u>Cómo Transformar Archivos FLV a MPEG Online Sin Costo: Guía De Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descarga-la-version-premium-del-software-ripper-para-dvds-de-winx-disponible-con-actualizaciones-libres-regulares/"><u>Descarga La Versión Premium Del Software Ripper Para DVDs De WinX - Disponible Con Actualizaciones Libres Regulares</u></a></li>
-<li><a href="https://win-popular.techidaily.com/discover-the-elite-5-desk-picks-for-professionals-according-to-zdnet/"><u>Discover the Elite 5 Desk Picks for Professionals , According to ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/enhance-your-standing-desk-experience-with-these-must-have-add-ons-insights-from-zdnet/"><u>Enhance Your Standing Desk Experience with These Must-Have Add-Ons: Insights From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/exploring-the-fresh-enhancements-in-windows-11-with-the-recent-update-rollout-insights-from-zdnet/"><u>Exploring the Fresh Enhancements in Windows 11 with the Recent Update Rollout - Insights From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/get-ready-for-microsofts-latest-offering-a-potential-boon-or-bane-to-your-tech-experience-insights-from-zdnet/"><u>Get Ready for Microsoft's Latest Offering: A Potential Boon or Bane to Your Tech Experience | Insights From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a79-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo A79 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-windows-11-hacks-and-tips/"><u>In 2024, Ultimate Windows 11 Hacks and Tips</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mastering-email-etiquette-setting-up-a-custom-email-signature-with-microsoft-outlook-expert-advice/"><u>Mastering Email Etiquette: Setting Up a Custom Email Signature with Microsoft Outlook (Expert Advice)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/premier-microsoft-certification-pathways-expert-level-educational-opportunities-zdnet/"><u>Premier Microsoft Certification Pathways: Expert-Level Educational Opportunities - ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/three-paths-to-harnessing-gpt-4-for-free/"><u>Three Paths to Harnessing GPT-4 for Free</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-35-unbeatable-primesmart-tv-monitor-bargains-going-strong-dive-in/"><u>Top 35 Unbeatable Primesmart TV-Monitor Bargains Going Strong – Dive In!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-insight-into-simple-high-dynamic-range-capture/"><u>[Updated] Comprehensive Insight Into Simple High-Dynamic Range Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tv-show-prep-which-software-winsvirusmix-or-wirecast/"><u>[Updated] The Ultimate TV Show Prep Which Software Wins—VirusMix or WireCast?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/embrace-artistic-expression-incorporating-anime-into-snapchat-for-2024/"><u>Embrace Artistic Expression Incorporating Anime Into Snapchat for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-to-perfectly-aligned-texts-master-right-and-left-placement-on-flipbuilder/"><u>Guide to Perfectly Aligned Texts - Master Right & Left Placement on FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-unlocking-access-to-user-content-in-flipbooks-on-flipbuilder/"><u>Guide: Unlocking Access to User Content in Flipbooks on FlipBuilder</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-can-i-restrict-access-to-my-flipping-books-on-flipbuilder-to-prevent-unauthorized-viewing/"><u>How Can I Restrict Access to My Flipping Books on FlipBuilder to Prevent Unauthorized Viewing?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-flipbuilder-revolutionizes-reading-experience-by-converting-txt-layouts-to-electronic-magazine-formats-is-it-the-future-of-publishing-online/"><u>How FlipBuilder Revolutionizes Reading Experience by Converting TXT Layouts to Electronic Magazine Formats – Is It the Future of Publishing Online?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-adjust-background-image-placement-in-flipbook-creator-tips-and-tricks/"><u>How to Adjust Background Image Placement in FlipBook Creator - Tips & Tricks</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-back-up-your-personalized-flipbook-settings-in-flipbuilder-for-ongoing-use/"><u>How to Back Up Your Personalized Flipbook Settings in FlipBuilder for Ongoing Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tales-best-yt-storytellers-for-23/"><u>In 2024, Top Tales Best YT Storytellers for '23</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-zte-nubia-flip-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On ZTE Nubia Flip 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-a-linux-vm-via-hyper-v-in-windows-environment/"><u>Launching a Linux VM via Hyper-V in Windows Environment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secure-your-fb-story-views-with-these-5-techniques/"><u>Secure Your FB Story Views with These 5 Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-final-cut-pro-hack-flipping-clips-in-4-easy-steps/"><u>Updated 2024 Approved The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps</u></a></li>
 </ul></div>
 

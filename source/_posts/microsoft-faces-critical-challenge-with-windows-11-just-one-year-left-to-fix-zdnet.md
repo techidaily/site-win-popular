@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Faces Critical Challenge with Windows 11: Just One Year Left to Fix! - ZDNet"
-date: 2024-09-30T20:43:42.798Z
-updated: 2024-10-05T17:28:29.401Z
+date: 2024-10-08T11:24:42.596Z
+updated: 2024-10-10T16:29:35.389Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-dual-display-documentation-technique/"><u>[Updated] 2024 Approved Dual Display Documentation Technique</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[Updated] In 2024, Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-in-the-digital-world-multiplatform-studio-strategies/"><u>2024 Approved Thriving in the Digital World Multiplatform Studio Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-0x97-unravelled-and-solved/"><u>Epson 0X97 - Unravelled & Solved</u></a></li>
-<li><a href="https://win-popular.techidaily.com/insight-from-microsoft-leader-is-a-future-with-microsoft-unattractive/"><u>Insight From Microsoft Leader: Is a Future with Microsoft Unattractive?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/leveraging-gen-alpha-intelligence-to-enhance-dev-workflow-and-speed-up-code-expert-analysis-by-zdnet/"><u>Leveraging Gen Alpha Intelligence to Enhance Dev Workflow and Speed Up Code - Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mastering-windows-spaces-discover-the-benefits-of-free-powertoys-fancyzones-feature-insights-by-zdnet/"><u>Mastering Windows Spaces: Discover the Benefits of Free PowerToys FancyZones Feature | Insights by ZDNET</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsoft-faces-user-frustration-once-more-alternative-pathways-for-improvement-zdnet/"><u>Microsoft Faces User Frustration Once More - Alternative Pathways for Improvement | ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/pre-order-microsoft-surface-laptop-go-2-starting-at-just-599-get-yours-today-on-zdnet/"><u>Pre-Order Microsoft Surface Laptop Go 2 - Starting at Just $599, Get Yours Today on ZDNet!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-netgear-nighthawk-x4-mesh-wi-fi-extender-enhancing-your-internet-experience-like-never-before/"><u>Top Rated Netgear Nighthawk X4 Mesh Wi-Fi Extender: Enhancing Your Internet Experience Like Never Before</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-clip-ppt-deck-to-digital-movie-for-2024/"><u>[New] Clip PPT Deck to Digital Movie for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-make-better-facebook-video-ads/"><u>[New] How to Make Better Facebook Video Ads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-sync-up-songs-and-screenshots-on-snapchat/"><u>[New] Sync-Up Songs and Screenshots on Snapchat</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-blocks-for-a-stellar-documentary-storyline-for-2024/"><u>[Updated] Building Blocks for a Stellar Documentary Storyline for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-written-visual-narratives-a-guide-on-docuscripts/"><u>[Updated] Unveiling the Art of Written Visual Narratives A Guide on Docuscripts</u></a></li>
+<li><a href="https://win-popular.techidaily.com/download-free-flipbook-templates-customizable-button-features-and-easy-designs-at-flipbuildercom/"><u>Download Free FlipBook Templates: Customizable Button Features & Easy Designs at flipbuilder.com</u></a></li>
+<li><a href="https://win-popular.techidaily.com/embedding-audio-content-across-multiple-pages-a-guide-for-your-flipboard-ebook/"><u>Embedding Audio Content Across Multiple Pages: A Guide for Your FlipBoard eBook</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhance-your-books-flipping-experience-with-premium-alpha-templates-discover-at-flipbuildercom/"><u>Enhance Your Book's Flipping Experience with Premium Alpha Templates - Discover at FlipBuilder.com</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhance-your-reading-experience-effortlessly-enlarge-and-clarify-any-page-with-flipbook-visit-flipbuildercom/"><u>Enhance Your Reading Experience: Effortlessly Enlarge and Clarify Any Page with FlipBook - Visit flipbuilder.com!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-guide-mastering-document-management-with-flip-office-pro-your-comprehensive-resource/"><u>Expert Guide: Mastering Document Management with Flip Office Pro - Your Comprehensive Resource</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exploring-additional-navigation-controls-in-flipbook-applications-a-guide/"><u>Exploring Additional Navigation Controls in FlipBook Applications: A Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exploring-the-variety-of-export-options-available-in-flip-office-pro-a-comprehensive-guide-flipbuildercom/"><u>Exploring the Variety of Export Options Available in Flip Office Pro - A Comprehensive Guide [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-popular.techidaily.com/flipoffice-pro-effortlessly-create-a-multi-functional-paperless-office-hub-organize-and-access-your-documents-anywhere/"><u>FlipOffice Pro: Effortlessly Create a Multi-Functional Paperless Office Hub - Organize and Access Your Documents Anywhere!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-to-displaying-your-company-info-dynamically-in-a-flash-flipbook-via-flipbuilder/"><u>Guide to Displaying Your Company Info Dynamically in a Flash FlipBook via FlipBuilder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-gamers-blueprint-for-a-booming-youtube-channel/"><u>In 2024, The Gamer's Blueprint for a Booming YouTube Channel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-microsoft-excel-feature-added-support-for-checkboxes/"><u>New Microsoft Excel Feature: Added Support for Checkboxes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rotibox-bluetooth-enabled-winter-headwear-test-audiophiles-dream-and-fashion-statement-combined/"><u>Rotibox Bluetooth-Enabled Winter Headwear Test - Audiophiles' Dream and Fashion Statement Combined!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-inconspicuous-footprint-of-social-media-engagements/"><u>The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-truth-about-lg-k51-beautiful-design-marred-by-a-lagging-processor/"><u>The Truth About LG K51: Beautiful Design Marred by a Lagging Processor</u></a></li>
 </ul></div>
 

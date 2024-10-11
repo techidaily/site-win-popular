@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Text Editing: Microsoft Unveils Plans to Transform Notepad Into an AI Powerhouse, Plus a Fresh Snipping Tool for Windows 11 Users - ZDNET Insider Report"
-date: 2024-09-28T17:59:48.069Z
-updated: 2024-10-05T19:11:26.771Z
+date: 2024-10-10T08:25:16.541Z
+updated: 2024-10-11T11:55:30.121Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-echoes-of-the-past-understanding-sound-overlaps/"><u>[Updated] In 2024, Echoes of the Past Understanding Sound Overlaps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-a-closer-look-at-stale-vr-landscapes-what-changes/"><u>2024 Approved A Closer Look at Stale VR Landscapes What Changes?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/achievable-techniques-for-recording-android-device-screenshots/"><u>Achievable Techniques for Recording Android Device Screenshots</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-error-free-audio-recording-overcome-sound-device-problems-in-5-steps/"><u>Audacity Error-Free Audio Recording: Overcome Sound Device Problems in 5 Steps</u></a></li>
-<li><a href="https://win-popular.techidaily.com/discover-the-most-efficient-and-user-friendly-mind-mapping-software-designed-specifically-for-mac-users-handpicked-from-2020s-top-reviews/"><u>Discover the Most Efficient and User-Friendly Mind Mapping Software Designed Specifically for Mac Users, Handpicked From 2020’S Top Reviews.</u></a></li>
-<li><a href="https://win-popular.techidaily.com/expert-tips-for-syncing-your-huawei-mate-40-pro-with-your-personal-laptop-or-desktop/"><u>Expert Tips for Syncing Your Huawei Mate 40 Pro with Your Personal Laptop or Desktop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-songs-for-nothing-downloading-deezer-tunes-onto-pcs-and-smartphones/"><u>Get Songs for Nothing: Downloading Deezer Tunes Onto PCs and Smartphones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-f15-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy F15 5G Unlock Without Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-zte-axon-40-lite-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your ZTE Axon 40 Lite Screen | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/leading-pdf-purifier-solutions-securely-erase-your-files-with-precision/"><u>Leading PDF Purifier Solutions: Securely Erase Your Files with Precision</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/long-lasting-tutorial-extending-your-youtube-video-length-beyond-2-hours/"><u>Long-Lasting Tutorial: Extending Your YouTube Video Length Beyond 2 Hours</u></a></li>
-<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-10-alternative-app-stores-for-android-devices-beyond-the-google-play-store/"><u>Top 10 Alternative App Stores for Android Devices Beyond the Google Play Store</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-no-downloads-needed-10-free-online-video-compression-solutions/"><u>Updated 2024 Approved No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-windows-compatible-video-recorders/"><u>[New] Excellent Windows-Compatible Video Recorders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-free-video-opening-line-template-packs/"><u>[Updated] 2024 Approved Free Video Opening Line Template Packs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-building-harmonious-forms-crafting-circles-and-spheres/"><u>[Updated] Building Harmonious Forms Crafting Circles and Spheres</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-endings-that-stand-out-ranked-for-2024/"><u>[Updated] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-understanding-the-impact-of-microsoft-exchange-server-breach-insights-from-zdnet/"><u>Comprehensive Guide: Understanding the Impact of Microsoft Exchange Server Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-device-setup-complete-after-troubleshooting-guide/"><u>DirectX Device Setup Complete After Troubleshooting Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-strategies-for-controlling-your-microsoft-365-plans-on-windows-11-a-comprehensive-guide-by-zdnet/"><u>Effective Strategies for Controlling Your Microsoft 365 Plans on Windows 11: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-crowdstrike-triggered-widespread-system-failures-across-key-sectors-unraveling-the-incidents-impact-on-airports-and-finance/"><u>How CrowdStrike Triggered Widespread System Failures Across Key Sectors: Unraveling the Incident's Impact on Airports & Finance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-lava-blaze-2-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Lava Blaze 2 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/insight-from-microsoft-leader-is-a-future-with-microsoft-unattractive/"><u>Insight From Microsoft Leader: Is a Future with Microsoft Unattractive?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/leveraging-gen-alpha-intelligence-to-enhance-dev-workflow-and-speed-up-code-expert-analysis-by-zdnet/"><u>Leveraging Gen Alpha Intelligence to Enhance Dev Workflow and Speed Up Code - Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mastering-windows-spaces-discover-the-benefits-of-free-powertoys-fancyzones-feature-insights-by-zdnet/"><u>Mastering Windows Spaces: Discover the Benefits of Free PowerToys FancyZones Feature | Insights by ZDNET</u></a></li>
+<li><a href="https://win-popular.techidaily.com/microsoft-faces-user-frustration-once-more-alternative-pathways-for-improvement-zdnet/"><u>Microsoft Faces User Frustration Once More - Alternative Pathways for Improvement | ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/pre-order-microsoft-surface-laptop-go-2-starting-at-just-599-get-yours-today-on-zdnet/"><u>Pre-Order Microsoft Surface Laptop Go 2 - Starting at Just $599, Get Yours Today on ZDNet!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reviewing-ingenuity-moto-z2s-intelligent-evolution-for-2024/"><u>Reviewing Ingenuity Moto Z2's Intelligent Evolution for 2024</u></a></li>
 </ul></div>
 
