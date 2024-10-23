@@ -1,7 +1,7 @@
 ---
 title: "Installation Eines Zweiten Laufwerks Unter Windows 11: Schritt-Für-Schritt-Anleitung"
-date: 2024-10-06T03:47:14.950Z
-updated: 2024-10-11T10:34:23.161Z
+date: 2024-10-21T16:25:26.575Z
+updated: 2024-10-22T20:51:30.325Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf0815517f86ca0ac7f1e63b79d5ed.jpg
@@ -84,13 +84,6 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 
 [![Add Ringtones With Garageband](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-with-garageband.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Click “+” in the top right corner > Choose **Section A** in Song Sections > Turn off **Automatic** option > Tap the arrow to change the number to 12 > Tap **Done**.
 
 **⚠️Note:** 
@@ -109,10 +102,10 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/set-a-song-as-a-ringtone-on-iphone-4.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/set-a-song-as-a-ringtone-on-iphone-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **? Tips:** 
@@ -129,21 +122,14 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Various audio file types can be **directly converted to m4r** and then you can directly find them in your **iPhone Settings**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Fast transfer speed** allows you to efficiently transfer multiple audio files in a very short time.  
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now go for it now and discover more!
 
@@ -159,15 +145,29 @@ Step 2\. Click the **Ringtones** option > Drag and drop the files you need to th
 
 ![select ringtones](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the task.
 
 ![transfer ringtones from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
@@ -188,16 +188,16 @@ Was the provided information useful? Your vote is important to us!
 
 ![Dylan](https://www.ubackup.com/assets/images/author/dylan.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Dylan](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Dylan is an editor of mobile backup software. He likes to share the latest news about iPhone and iOS, write useful tips, and give solutions to help people solve all kinds of issues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -224,16 +224,10 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Get FoneBackup Now
@@ -244,14 +238,14 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,24 +262,22 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-teach-with-technology-effective-use-of-youtube-in-education/"><u>[New] 2024 Approved Teach with Technology Effective Use of YouTube in Education</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-x5-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-a60s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Itel A60s to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/complete-guide-accessing-the-latest-movies-on-movieweb-downloads-news-and-reviews/"><u>Complete Guide: Accessing the Latest Movies on MovieWeb - Downloads, News, and Reviews</u></a></li>
-<li><a href="https://win-popular.techidaily.com/complete-guide-converting-and-downloading-the-daily-show-episodes-in-various-formats/"><u>Complete Guide: Converting and Downloading 'The Daily Show' Episodes in Various Formats</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-and-download-various-formats-of-the-onion-video-content-mp4-mov-avi/"><u>Convert & Download Various Formats of The Onion Video Content (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-and-download-a-variety-of-video-formats-mp4-mov-avi-and-more/"><u>Convert and Download a Variety of Video Formats - MP4, MOV, AVI & More</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-deezer-playlists-into-high-quality-flac-audio-files-including-album-artwork/"><u>Convert Deezer Playlists Into High-Quality FLAC Audio Files Including Album Artwork</u></a></li>
-<li><a href="https://win-popular.techidaily.com/convert-gracie-kids-streaming-footage-to-high-quality-mp4-format/"><u>Convert Gracie Kids Streaming Footage to High-Quality MP4 Format</u></a></li>
-<li><a href="https://win-popular.techidaily.com/download-and-convert-vimeo-content-with-ease-using-gaia-converter-tool-for-high-quality-mp4avi-playbacks/"><u>Download and Convert Vimeo Content with Ease Using Gaia Converter Tool for High-Quality MP4/AVI Playbacks</u></a></li>
-<li><a href="https://win-popular.techidaily.com/download-and-transform-youtube-audio-clips-into-mobile-phone-ringtones-mp3m4a/"><u>Download and Transform YouTube Audio Clips Into Mobile Phone Ringtones (MP3/M4A)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/downloading-high-definition-belly-dance-tutorials-as-mp4-files-on-pc-and-mac-systems/"><u>Downloading High-Definition Belly Dance Tutorials as MP4 Files on PC & Mac Systems</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssing-youtube-content-for-engaging-animation-gifs/"><u>Harnessing YouTube Content for Engaging Animation GIFs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-navigating-to-submillion-territory-on-youtube/"><u>In 2024, Navigating to Submillion Territory on YouTube</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/masterful-presentation-creation-with-flip-powerpoint-pro-seamlessly-integrate-multimedia-and-create-interactive-book-style-slideshows-explore-at-flipbuilder16/"><u>Masterful Presentation Creation with Flip PowerPoint Pro: Seamlessly Integrate Multimedia and Create Interactive Book-Style Slideshows [Explore at FlipBuilder.com]</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/powerpoint-gif/"><u>PowerPoint GIF生成時に直面する一般的な問題とその解決策</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-use-of-action-verbs-get-and-install-makes-this-title-active-while-also-specifying-that-its-about-obtaining-and-installing-drivers-on-various-versions-of271/"><u>The Use of Action Verbs (Get and Install) Makes This Title Active, While Also Specifying that It's About Obtaining and Installing Drivers on Various Versions of Windows.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-reno-10-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo Reno 10 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-iphone-unrecognized-by-itunes-on-pc-running-windows-prise-in-their-work-as-well-as-the-ethical-implications-of-these-decisions-within-595/"><u>Troubleshooting Guide: IPhone Unrecognized by iTunes on PC Running Windows Prise in Their Work, as Well as the Ethical Implications of These Decisions Within a Corporate Setting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-perfecting-your-video-with-story-remix-and-windows-photos/"><u>[Updated] In 2024, Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-modify-where-mac-photos-stash-location/"><u>[Updated] Modify Where Mac Photos Stash Location</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-propel-your-online-presence-via-creator-studio/"><u>[Updated] Propel Your Online Presence via Creator Studio</u></a></li>
+<li><a href="https://win-popular.techidaily.com/3windows-7/"><u>「3つの有効な手段：Windows 7上で完全に削除されたファイルを復元する」</u></a></li>
+<li><a href="https://win-popular.techidaily.com/a-comprehensive-walkthrough-of-setting-up-drs-in-vmware-systems/"><u>A Comprehensive Walkthrough of Setting Up DRS in VMware Systems</u></a></li>
+<li><a href="https://win-popular.techidaily.com/aomei-backupper-pro-and-cloud-losung-fur-pc-und-laptop-kaufen-professionelle-datenwiederherstellung/"><u>AOMEI Backupper Pro & Cloud Lösung Für PC Und Laptop Kaufen – Professionelle Datenwiederherstellung</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-trust-the-significance-of-client-reviews-for-2024/"><u>Capturing Trust The Significance of Client Reviews for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comment-recuperez-vous-gratuitement-les-photos-supprimees-de-votre-carte-memoire-sd/"><u>Comment Récupérez-Vous Gratuitement Les Photos Supprimées De Votre Carte Mémoire SD ?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-the-concept-of-international-organization-for-standardization-iso/"><u>Exploring the Concept of International Organization for Standardization (ISO)</u></a></li>
+<li><a href="https://win-popular.techidaily.com/gehoorzaamheid-voor-het-herstel-van-beschadigde-persoonlijke-gegevens-op-harde-schijven/"><u>Gehoorzaamheid Voor Het Herstel Van Beschadigde Persoonlijke Gegevens Op Harde Schijven</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guida-passo-passo-come-cambiare-il-sistema-operativo-su-un-nuovo-hard-disk/"><u>Guida Passo-Passo: Come Cambiare Il Sistema Operativo Su Un Nuovo Hard Disk</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-investment-introspection-the-podcasts-financial-frontier-for-2024/"><u>In-Depth Investment Introspection The Podcast's Financial Frontier for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>New A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://win-popular.techidaily.com/solving-the-issue-of-samsungs-data-transfer-failure-with-970-evo-ssd/"><u>Solving the Issue of Samsung's Data Transfer Failure with 970 EVO SSD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-microsofts-copilot-from-your-windows-11-pc/"><u>Step-by-Step Guide: Removing Microsoft's Copilot From Your Windows 11 PC</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ultimate-guide-to-resetting-your-hp-windows-10-device-at-startup-a-straightforward-and-in-depth-method/"><u>Ultimate Guide to Resetting Your HP Windows 10 Device at Startup: A Straightforward & In-Depth Method</u></a></li>
 </ul></div>
 
