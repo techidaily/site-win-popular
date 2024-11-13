@@ -1,7 +1,7 @@
 ---
 title: "Esegui Un Ritorno Alle Origini: Restaurare Windows 11 Utilizzando La Modalità Provvisoria - Una Guida Completa"
-date: 2024-10-30T19:41:02.311Z
-updated: 2024-11-03T17:26:41.877Z
+date: 2024-11-10T23:37:46.835Z
+updated: 2024-11-12T20:07:37.872Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b1d4965ad23230242f3d564c.jpg
@@ -35,6 +35,13 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -42,19 +49,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -74,22 +68,15 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -112,31 +99,44 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -167,10 +167,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -218,18 +218,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-top-2023-no-cost-live-stream-tools-cross-platform-edition-for-2024/"><u>[New] Top 2023 No-Cost Live Stream Tools Cross-Platform Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unplugging-from-fbs-invasive-video-commercials-for-2024/"><u>[New] Unplugging From FB's Invasive Video Commercials for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-frozen-delight-ice-cream-cam-and-comprehensive-tutorial-for-2024/"><u>[Updated] Frozen Delight Ice Cream Cam & Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-audio-alerts-prime-download-hubs/"><u>[Updated] In 2024, Essential Audio Alerts Prime Download Hubs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-netizen-chucklers-aid/"><u>2024 Approved Netizen Chuckler's Aid</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-windows-xp-professional-for-media-development/"><u>2024 Approved Unlock Windows XP Professional for Media Development</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-pro-rated-dvds-to-imovie-format-ultimate-guide-with-macxs-free-dvd-ripper/"><u>Convert Pro-Rated DVDs to iMovie Format: Ultimate Guide with MacX's Free DVD Ripper</u></a></li>
-<li><a href="https://win-popular.techidaily.com/discover-the-safest-ios-to-pc-data-transfer-tools-our-ultimate-top-5-picks-free/"><u>Discover the Safest iOS to PC Data Transfer Tools: Our Ultimate Top 5 Picks (Free)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-complet-tracer-les-etapes-pour-transferer-et-installer-windows-nativement-sur-un-support-cle-usb-bootable/"><u>Guide Complet : Tracer Les Étapes Pour Transférer Et Installer Windows Nativement Sur Un Support Clé USB (Bootable)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-find-x7-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Find X7 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728500944343-samsung-ssd/"><u>Samsung SSDからデータを完全に削除する上位２手段：安全対策ガイド</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-11winpe-usb/"><u>Windows 11のイメージをWinPE USBブータブルから展開するステップ</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728501552715-usb/"><u>どうやってUSBメモリから紛失ワードファイルを救出する？</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-stopcapture-screen-freeze-assist/"><u>[New] 2024 Approved StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speak-with-elegance-on-chrome-top-picks-for-web-based-voice-transformers/"><u>[New] Speak with Elegance on Chrome Top Picks for Web-Based Voice Transformers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ideal-sound-devices-for-digital-influencers/"><u>[Updated] Ideal Sound Devices for Digital Influencers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-11-ntfs3/"><u>「Windows 11 NTFSファイルシステムエラー」にすぐ対策！3つの見事な修正法</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comment-copier-facilement-une-partition-de-windows-10-sur-un-ssd/"><u>Comment Copier Facilement Une Partition De Windows 10 Sur Un SSD</u></a></li>
+<li><a href="https://win-popular.techidaily.com/double-up-on-ios-functionality-effortlessly-linking-two-iphones-including-non-icloud-options/"><u>Double Up on iOS Functionality: Effortlessly Linking Two iPhones - Including Non-iCloud Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-the-most-effective-parental-controls/"><u>Expert Picks: The Most Effective Parental Controls</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guida-passo-passo-alla-creazione-di-una-partizione-di-ripristino-su-windows-11-metodi-efficaci/"><u>Guida Passo-Passo Alla Creazione Di Una Partizione Di Ripristino Su Windows 11: Metodi Efficaci</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-swift-restoration-retrieving-lost-fb-access/"><u>In 2024, Swift Restoration Retrieving Lost FB Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-netgear-security-passwords-guide-updated-july-2024/"><u>Latest NETGEAR Security Passwords Guide – Updated July 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resetting-windows-10-without-a-password-step-by-step-guide/"><u>Resetting Windows 10 without a Password – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolve-the-issue-of-error-code-0x8004016c-with-easy-fixes-included/"><u>Resolve the Issue of Error Code 0X8004016C with Easy Fixes Included</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seeking-clearance-can-you-upload-media-on-fb-in-2024/"><u>Seeking Clearance Can You Upload Media on FB, In 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-guide-for-uploading-your-exterior-hard-disk-to-the-cloud-safely/"><u>Simple Guide for Uploading Your Exterior Hard Disk to the Cloud Safely</u></a></li>
+<li><a href="https://win-popular.techidaily.com/trwa-jak-na-zawsze-3-naprawde-gotowe-przezloszenie-gwarancji-jak-ulepszyc-naklad-pendrywu/"><u>Trwa Jak Na Zawsze: 3 Naprawdę Gotowe Przezłoszenie Gwarancji Jak Ulepszyć Nakład Pendrywu</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/ultimate-list-of-high-performance-video-transcoding-software-for-pcs-running-windows-2023-edition/"><u>Ultimate List of High-Performance Video Transcoding Software for PCs Running Windows, 2023 Edition</u></a></li>
 </ul></div>
 
