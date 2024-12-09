@@ -1,7 +1,7 @@
 ---
 title: Get the Updated PCDJ DEX 3.16 Now – Integrate KSR for Dynamic DJ Sets and Interactive Karaoke Experiences
-date: 2024-11-28T20:30:37.103Z
-updated: 2024-11-30T19:51:11.763Z
+date: 2024-12-01T18:15:39.437Z
+updated: 2024-12-08T17:10:26.891Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The official public release of DEX 3.16 is ready for download!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 [View Larger Image ![DEX 3 KSR Online Songbook](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=300%2C240&ssl=1 "DEX 3 KSR Online Songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=1030%2C823&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.16 is here and as always, it’s a free update for DEX 3 DJs. Learn more below and download and install the update from the [DEX 3 support page](https://tools.techidaily.com/pcdj/products/).
@@ -37,7 +37,7 @@ DEX 3.16 brings new karaoke-specific features and extensive optimizations and bu
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), DEX 3.16 is ready for live performance. We suggest DEX 3 customers update to 3.16 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.16
@@ -54,7 +54,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 3.16 version of our DEX 3 **DJ software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,22 +76,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/dex36-ksr.jpg?fit=1250%2C6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-popular.techidaily.com/18-effective-solutions-for-resolving-windows-11-error-0x800f0922/"><u>18 Effective Solutions for Resolving Windows 11 Error 0X800F0922</u></a></li>
-<li><a href="https://win-popular.techidaily.com/5a6m5oiq5pww5o2u5yig54mh5y236l2s5o2i5zkm5a6m5ywo5ogi5asn55qe6kplusm57ug5oyh5y2x/"><u>完成数据分片卷转换和完全恢复的详细指南</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/capture-memories-in-high-quality-a-comprehensive-guide-to-logitech-webcam-use/"><u>Capture Memories in High Quality A Comprehensive Guide to Logitech Webcam Use</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comment-savoir-les-plus-efficaces-des-methodes-denregistrement-decran-sur-iphone-11/"><u>Comment Savoir Les Plus Efficaces Des Méthodes D’Enregistrement D'écran Sur iPhone 11?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/consolechronicle-critique-for-2024/"><u>ConsoleChronicle Critique for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fehler-nach-der-ios-15-upgrades-ipads-und-iphones-starten-nicht-wie-erwartet/"><u>Fehler Nach Der iOS 15-Upgrades - iPads Und iPhones Starten Nicht Wie Erwartet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/fps-matters-in-mobile-filmmaking-is-30-or-60-fps-ideal-for-phone-videos/"><u>FPS Matters in Mobile Filmmaking: Is 30 or 60 FPS Ideal for Phone Videos?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>In 2024, Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mengatur-klik-untuk-menyetel-mematikanmemulai-program-windows-win111087-langkah-langkah-tiga-bodoh-banyak-gue-perih/"><u>Mengatur Klik Untuk Menyetel / Mematikan/Memulai Program Windows (Win11/10/8/7): Langkah-Langkah Tiga Bodoh Banyak Gue Perih.</u></a></li>
-<li><a href="https://win-popular.techidaily.com/methodes-pour-recuperer-des-fichiers-elints-sur-windows-781011-guide-complet/"><u>Méthodes Pour Récupérer Des Fichiers Elints Sur Windows 7/8/10/11 : Guide Complet</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-photo-collage-on-maciphone-using-iphoto/"><u>New 2024 Approved How to Make a Photo Collage on Mac/iPhone Using iPhoto?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-mobile-reaction-video-studios-top-ios-and-android-apps-for-2024/"><u>New Mobile Reaction Video Studios Top iOS and Android Apps for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/perfect-your-pc-gaming-experience-overcoming-performance-stutter-in-latest-titles/"><u>Perfect Your PC Gaming Experience: Overcoming Performance Stutter in Latest Titles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-big-with-a-premium-24-dell-freesync-screen-at-an-unbeatable-price-of-99/"><u>Save Big with a Premium 24 Dell FreeSync Screen at an Unbeatable Price of $99</u></a></li>
-<li><a href="https://win-popular.techidaily.com/save-money-secure-your-data-best-no-charge-veeam-replacements-for-easy-backup-and-restore/"><u>Save Money, Secure Your Data: Best No-Charge Veeam Replacements for Easy Backup & Restore</u></a></li>
-<li><a href="https://win-popular.techidaily.com/wie-man-sein-ssd-zum-primaren-bootlaufwerk-in-windows/"><u>Wie Man Sein SSD Zum Primären Bootlaufwerk in Windows</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-10-fehlt-der-wegfall-von-windows-easy-ubertragung/"><u>Windows 10 Fehlt: Der Wegfall Von 'Windows Easy Übertragung'</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>[New] 2024 Approved Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
+<li><a href="https://win-popular.techidaily.com/boost-your-music-library-management-with-pcdj-and-songbookdb-start-for-free/"><u>Boost Your Music Library Management with PCDJ & SongbookDB - Start for Free!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/creating-windows-user-accounts-made-easy-with-yl-softwares-expert-advice/"><u>Creating Windows User Accounts Made Easy with YL Software's Expert Advice</u></a></li>
+<li><a href="https://win-popular.techidaily.com/identifying-issues-in-your-cddvd-drive-professional-guidance-by-yl-software-experts/"><u>Identifying Issues in Your CD/DVD Drive: Professional Guidance by YL Software Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/losungen-wie-sie-grosse-dateien-effizient-in-das-zielsystem-speichern-konnen/"><u>Lösungen: Wie Sie Große Dateien Effizient in Das Zielsystem Speichern Können</u></a></li>
+<li><a href="https://win-popular.techidaily.com/protecting-your-digital-assets-key-security-strategies-for-cryptocurrency-investors-by-yl-software-experts/"><u>Protecting Your Digital Assets: Key Security Strategies for Cryptocurrency Investors by YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-social-media-outlets-boosting-business-revenue/"><u>Top 6 Social Media Outlets Boosting Business Revenue</u></a></li>
+<li><a href="https://techidaily.com/unlock-age-old-wisdom-effortlessly-send-documents-from-pc-to-mobile-device/"><u>Unlock Age-Old Wisdom: Effortlessly Send Documents From PC to Mobile Device</u></a></li>
 </ul></div>
 
