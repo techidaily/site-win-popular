@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Highlights of 2012: The Ultimate DJ Journey Recap"
-date: 2024-12-23T04:58:50.659Z
-updated: 2024-12-24T07:13:53.318Z
+date: 2024-12-26T16:24:00.329Z
+updated: 2024-12-30T00:14:50.881Z
 tags:
   - product
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **DJ Software and Karaoke Software, our year in review…**
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 ![](https://pcdj.com/wp-content/uploads/2013/01/bye2012hello2013.jpg "bye2012hello2013") 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite the notable economic struggles globally, 2012 was quite the year for PCDJ. New updates to our flagship **DJ software PCDJ DEX 2** included next gen and future forward features geared specifically for the "next big thing" in DJ entertainment technology: **mixing music videos seamlessly, just like** **audio.**  With video transitions, video effects and new native maps to top **DJ controllers** on the market PCDJ saw record sales and interest. It's no secret our PCDJ customers want a **true all-in-** **one entertainment software solution**, and we feel we've hit the nail on the head with PCDJ DEX 2\. 
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  We're really fired up about 2013, and it's our promise to not disapoint with our **DJ software and karaoke software platforms**. Our intention for the last 13 years has been to be your on-stop shop for all things digital dj and entertainment, with customer service being paramount. This year will be huge, and we thank you for your continued support and interest! 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
 **Thanks, and a very Happy New Year to you and your families!**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,22 +66,21 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-cost-effective-subscriber-growth-hundreds-at-a-bargain-price-for-2024/"><u>[Updated] Cost-Effective Subscriber Growth - Hundreds at a Bargain Price for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-masterminding-memelore-on-9gag/"><u>[Updated] Expert Tips for Masterminding Memelore on 9GAG</u></a></li>
-<li><a href="https://win-popular.techidaily.com/comparing-protection-mechanisms-how-windows-defender-differs-from-conventional-antivirus-solutions-expert-analysis-at-yl-software/"><u>Comparing Protection Mechanisms: How Windows Defender Differs From Conventional Antivirus Solutions - Expert Analysis at YL Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enduring-masterpieces-a-curated-selection-of-timeless-steven-spielberg-films/"><u>Enduring Masterpieces: A Curated Selection of Timeless Steven Spielberg Films</u></a></li>
-<li><a href="https://win-popular.techidaily.com/expert-tips-on-setting-up-your-printer-with-yl-software-solutions/"><u>Expert Tips on Setting Up Your Printer with YL Software Solutions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/identifying-graphics-card-malfunctions-a-step-by-step-guide-yl-computings-expert-advice/"><u>Identifying Graphics Card Malfunctions: A Step-by-Step Guide - YL Computing's Expert Advice</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>In 2024, Jumpstart to Partner Elevation Secure 10K Views in Minutes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-15-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 15 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://win-popular.techidaily.com/revamp-your-desktop-with-yl-softwares-premier-empire-state-wallpaper-collection/"><u>Revamp Your Desktop with YL Software's Premier Empire State Wallpaper Collection</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-safely-backing-up-your-files-prior-to-system-restoration-tips-from-yl-software/"><u>Step-by-Step Guide: Safely Backing Up Your Files Prior to System Restoration - Tips From YL Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620264574-struggling-with-a-forgotten-icloud-login-discover-these-6-effective-remedies/"><u>Struggling with a Forgotten iCloud Login? Discover These 6 Effective Remedies</u></a></li>
-<li><a href="https://win-popular.techidaily.com/stunning-audi-steppenwolf-walls-and-screensaver-pixels-collection-professional-images-from-yl-computing/"><u>Stunning Audi Steppenwolf Walls and Screensaver Pixels Collection, Professional Images From YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/stunning-background-designs-and-more-elevate-your-digital-space-with-slay-yl-computings-expertise/"><u>Stunning Background Designs & More: Elevate Your Digital Space with SLAY, YL Computing's Expertise</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/407269-9780307553478-the-celtic-way-of-prayer/"><u>The Celtic Way of Prayer | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/295024-9781416561934-the-seat-of-the-soul/"><u>The Seat of the Soul | Free Book</u></a></li>
-<li><a href="https://win-popular.techidaily.com/understanding-basic-hardware-needs-determining-your-pcs-suitability-for-gaming-insights-by-yl-computing/"><u>Understanding Basic Hardware Needs: Determining Your PC's Suitability for Gaming - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-between-audio-and-video-which-platform-takes-the-lead/"><u>[New] In 2024, Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-dive-into-the-world-of-whatsapp-alert-creation-for-ios-android/"><u>[Updated] 2024 Approved Dive Into the World of WhatsApp Alert Creation for iOS, Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-audiotrack-collection-pc-noises/"><u>[Updated] In 2024, Audiotrack Collection PC Noises</u></a></li>
+<li><a href="https://win-popular.techidaily.com/addressing-unknown-device-notifications-expert-tips-from-yl-computing/"><u>Addressing 'Unknown Device' Notifications: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/free-download-slam-dunks-official-pcdj-deckadance-skin-dex3-version/"><u>Free Download: Slam Dunks - Official PCDJ Deckadance Skin (DEX3 Version)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary-for-2024/"><u>Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-of-driving-the-top-manufacturers-innovating-with-driverless-technology/"><u>Future of Driving: The Top Manufacturers Innovating with Driverless Technology</u></a></li>
+<li><a href="https://win-popular.techidaily.com/heartfelt-sentiments-displayed-beautiful-miss-you-picture-walls-and-desktop-images-from-yl-software/"><u>Heartfelt Sentiments Displayed: Beautiful Miss You Picture Walls and Desktop Images From YL Software</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-fix-a-nonfunctional-cddvd-drive-expert-advice-from-yl-technology-experts/"><u>How to Fix a Nonfunctional CD/DVD Drive - Expert Advice From YL Technology Experts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-swiftly-solve-robloxs-error-code-asterisk-288/"><u>How to Swiftly Solve Roblox's Error Code Asterisk 288</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-guide-adjusting-date-and-time-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Date & Time via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-guide-solving-paper-jams-with-ease-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Solving Paper Jams with Ease - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-the-file-format-change-from-dall-es-webp-to-jpegpng/"><u>Streamlining the File Format Change: From DALL-E's WebP to JPEG/PNG</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-file-management-essentials-how-to-easily-change-filenames-with-yls-expert-advice/"><u>Windows File Management Essentials: How to Easily Change Filenames with YL's Expert Advice</u></a></li>
 </ul></div>
 

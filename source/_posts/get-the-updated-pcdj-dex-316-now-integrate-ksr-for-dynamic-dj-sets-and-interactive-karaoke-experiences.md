@@ -1,7 +1,7 @@
 ---
 title: Get the Updated PCDJ DEX 3.16 Now – Integrate KSR for Dynamic DJ Sets and Interactive Karaoke Experiences
-date: 2024-12-17T22:00:11.464Z
-updated: 2024-12-23T22:33:40.851Z
+date: 2024-12-22T20:09:29.390Z
+updated: 2024-12-29T19:09:14.141Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The official public release of DEX 3.16 is ready for download!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 [View Larger Image ![DEX 3 KSR Online Songbook](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=300%2C240&ssl=1 "DEX 3 KSR Online Songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=1030%2C823&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.16 is here and as always, it’s a free update for DEX 3 DJs. Learn more below and download and install the update from the [DEX 3 support page](https://tools.techidaily.com/pcdj/products/).
@@ -37,7 +37,7 @@ DEX 3.16 brings new karaoke-specific features and extensive optimizations and bu
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), DEX 3.16 is ready for live performance. We suggest DEX 3 customers update to 3.16 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.16
@@ -54,7 +54,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 3.16 version of our DEX 3 **DJ software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,24 +76,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/dex36-ksr.jpg?fit=1250%2C6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-lowering-audio-amplitude-progressively-using-lumafusion/"><u>[Updated] 2024 Approved Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-tips-transforming-mundane-footage-into-epic-gopro-time-lapses/"><u>[Updated] Pro Tips Transforming Mundane Footage Into Epic GoPro Time-Lapses</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>2024 Approved GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726028976586-gif/"><u>動画からGIFへとスムーズに変換できる上質なサイトベンチマーク４選</u></a></li>
-<li><a href="https://win-popular.techidaily.com/captivating-aquatic-hd-wallpaper-visuals-from-yl-softwares-image-library/"><u>Captivating Aquatic HD Wallpaper Visuals From YL Software's Image Library</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-version-of-zebra-zp450-printer-driver-a-comprehensive-step-by-step-tutorial/"><u>Download and Install the Latest Version of Zebra ZP450 Printer Driver: A Comprehensive Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ensure-crystal-clear-audio-on-windows-11-with-driver-updates-for-your-sound-card-guided-by-yl-software-experts/"><u>Ensure Crystal Clear Audio on Windows 11 with Driver Updates for Your Sound Card – Guided by YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-on-skyrocketing-your-cs-gameplay/"><u>Expert Advice on Skyrocketing Your CS Gameplay</u></a></li>
-<li><a href="https://win-popular.techidaily.com/exploring-the-benefits-of-digital-coins-how-blockchain-outshines-traditional-money-insights-by-yl-computing/"><u>Exploring the Benefits of Digital Coins: How Blockchain Outshines Traditional Money - Insights by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-can-i-enhance-my-pcs-efficiency-discover-essential-strategies-from-yl-computing-and-yl-software/"><u>How Can I Enhance My PC's Efficiency? Discover Essential Strategies From YL Computing and YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a56s-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A56s 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/identifying-and-fixing-computer-hardware-issues-expert-advice-from-yl-computing/"><u>Identifying & Fixing Computer Hardware Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/intelligent-aid-6-ways-to-improve-home-task-execution/"><u>Intelligent Aid: 6 Ways to Improve Home Task Execution</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mastering-sound-configuration-with-yl-software-by-yl-computing/"><u>Mastering Sound Configuration with YL Software by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-malfunction-troubleshooting-and-fixes/"><u>Razer Kraken Microphone Malfunction: Troubleshooting and Fixes</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-process-for-accessing-docx-files-with-yl-software-solutions/"><u>Step-by-Step Process for Accessing .docx Files with YL Software Solutions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/the-right-moment-for-safekeeping-your-information-a-guide-to-effective-data-backup-strategies-by-yl-computing/"><u>The Right Moment for Safekeeping Your Information: A Guide to Effective Data Backup Strategies by YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-top-four-mastering-the-art-of-engagement-on-facebook-twitter-instagram-and-youtube/"><u>The Top Four: Mastering the Art of Engagement on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-popular.techidaily.com/yl-software-gallery-discover-exquisite-new-zealand-scenery-in-our-collection-of-wallpaper-designs-and-pictures/"><u>YL Software Gallery: Discover Exquisite New Zealand Scenery in Our Collection of Wallpaper Designs & Pictures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/imple-steps-to-import-youtube-music-into-imovie-for-2024/"><u>[New] Simple Steps to Import YouTube Music Into iMovie for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-effortless-entertainment-looping-youtube-videos-for-tv-viewers/"><u>[Updated] Effortless Entertainment Looping YouTube Videos for TV Viewers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-and-conquer-speedy-photos-on-windows-11/"><u>Capture & Conquer Speedy Photos on Windows 11</u></a></li>
+<li><a href="https://win-popular.techidaily.com/diagnosing-your-pcs-power-supply-issues-a-step-by-step-guide/"><u>Diagnosing Your PC's Power Supply Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-mac-x-dvd-ripper-convert-your-dvds-into-youtube-friendly-formats-like-flv-and-mp4-at-no-cost/"><u>Free Mac X DVD Ripper: Convert Your DVDs Into YouTube-Friendly Formats Like FLV & MP4 at No Cost!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13c-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13C Phones with/without a PC</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-shoutcast-integrates-with-dex-iii-exploring-the-connection-pcdj-explained/"><u>How Shoutcast Integrates with DEX-III: Exploring the Connection – PCDJ Explained</u></a></li>
+<li><a href="https://win-popular.techidaily.com/karaoki-beta-update-09n7579-now-includes-singer-scroll-and-pcdj-improvements-get-it-today/"><u>Karaoki Beta Update 0.9.n7579 Now Includes Singer Scroll & PCDJ Improvements - Get It Today!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/solving-wi-fi-issues-on-windows-a-step-by-step-guide-from-yl-computing/"><u>Solving Wi-Fi Issues on Windows: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-guide-successfully-opening-pdf-files-on-your-windows-pc-with-yl-computings-help/"><u>Step-by-Step Guide: Successfully Opening PDF Files on Your Windows PC with YL Computing's Help</u></a></li>
+<li><a href="https://win-dash.techidaily.com/streamline-your-pcs-graphics-with-easy-msi-driver-updates-on-windows-operating-systems/"><u>Streamline Your PC's Graphics with Easy MSI Driver Updates on Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-how-to-fix-issues-when-gmail-wont-synchronize/"><u>Troubleshooting Guide: How to Fix Issues When Gmail Won't Synchronize</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unlocking-stagnation-exploring-why-games-fail-to-launch-insights-from-yl-computing/"><u>Unlocking Stagnation: Exploring Why Games Fail to Launch - Insights From YL Computing</u></a></li>
 </ul></div>
 
