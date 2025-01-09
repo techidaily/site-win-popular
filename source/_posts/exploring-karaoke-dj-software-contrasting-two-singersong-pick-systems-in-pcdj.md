@@ -1,7 +1,7 @@
 ---
 title: "Exploring Karaoke DJ Software: Contrasting Two Singer/Song Pick Systems in PCDJ"
-date: 2024-12-23T21:10:51.283Z
-updated: 2024-12-29T21:53:46.513Z
+date: 2025-01-01T18:38:17.200Z
+updated: 2025-01-09T08:52:21.449Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Through Karaoki’s remote request plugin technology there are currently two dif
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SongbookDB | A robust internet-based song request system for use with Karaoki
@@ -39,7 +39,7 @@ Through Karaoki’s remote request plugin technology there are currently two dif
 [LEARN MORE ABOUT SONGBOOKDB ![SongbookDB remote song requests](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/songbookdb-requests.jpg?fit=348%2C415&ssl=1 "SongbookDB remote song requests")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With SongbookDB you have to use the supplied “Pal” app to upload your exported case (TSV) files so they are available online for your singers. Your singers can download (free for them) the Android or iOS singer request app and login (manually or socially with Facebook/Google). There is also a ‘host’ version of the app so you can receive song requests that way as well if you wish.
@@ -68,7 +68,7 @@ SongbookDB is a truly pro solution that’s been thoroughly thought through. It�
 [LEARN MORE ABOUT SONGBOOKDB](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KaraoQuest | A FREE iOS local area network (LAN) based song request system for use with Karaoki
@@ -78,7 +78,7 @@ If it’s FREE it for me! Yes, [KaraoQuest](https://tools.techidaily.com/pcdj/pr
 [LEARN MORE ABOUT KARAOQUEST ON APP STORE ![Karaoke Song requests on iPhone](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/karaoquest-iphone-sml-e1459799033941.png?fit=445%2C380&ssl=1 "Karaoke Requests On iPhone")](https://itunes.apple.com/ca/app/karaoquest/id1093902058?mt=8)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Unlike the SongBookDB song request system, KaraoQuest works exclusively via local area network. Thus you will need to setup a local network but you _won’t_ need internet. That makes KaraoQuest an ideal solution for KJs working in venues where internet may not be an option for the host or karaoke singers. Singers (or yourself if using an iPad as a Kiosk) will only need to input the IP address displayed on Karaoki’s remote request tab to access your online songbook.
@@ -105,7 +105,7 @@ KaraoQuest is perfect for a KJ that needs something simple to use as a request s
 _Have questions about the **remote request system**, **karaoke kiosk**, or **online songbooks** and how they work with **Karaoki**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -127,22 +127,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoki-song-singer-reques
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-gif-retrieval-3-easy-methods-for-pcs/"><u>[Updated] In 2024, Twitter Gif Retrieval 3 Easy Methods for PCs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-valhallas-last-stand-gods-at-war/"><u>[Updated] In 2024, Valhalla's Last Stand Gods at War</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-revitalize-video-interactions-simple-steps-to-a-filmmakers-anime-button/"><u>[Updated] Revitalize Video Interactions Simple Steps to a Filmmaker's Anime Button</u></a></li>
-<li><a href="https://win-popular.techidaily.com/addressing-unknown-device-notifications-expert-tips-from-yl-computing/"><u>Addressing 'Unknown Device' Notifications: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-oppo-a78-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A78? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/complete-guide-downloading-and-installing-windows-defender-tips-by-yl-computing/"><u>Complete Guide: Downloading & Installing Windows Defender - Tips by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/free-download-slam-dunks-official-pcdj-deckadance-skin-dex3-version/"><u>Free Download: Slam Dunks - Official PCDJ Deckadance Skin (DEX3 Version)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-success-secrets-maximizing-post-performance/"><u>In 2024, Instagram Success Secrets Maximizing Post Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-a2-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi A2 Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-popular.techidaily.com/quick-guide-accelerating-data-transfer-speeds-from-one-drive-to-another-with-tips-from-yl-software-experts/"><u>Quick Guide: Accelerating Data Transfer Speeds From One Drive to Another with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-solving-paper-jams-with-ease-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Solving Paper Jams with Ease - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-webcams-for-live-broadcasts-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Rated Webcams for Live Broadcasts : Comprehensive Reviews by Tech Pros - ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/turn-up-the-volume-with-instagram-reels-copycat-tiktok-style/"><u>Turn Up the Volume with Instagram Reels, Copycat TikTok Style</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tuxera-nero-reader-comprehensive-multimedia-tool/"><u>Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
-<li><a href="https://win-popular.techidaily.com/understanding-the-function-of-an-ethernet-crossover-cable-usage-scenarios-and-benefits-explored-by-yl-computing/"><u>Understanding the Function of an Ethernet Crossover Cable: Usage Scenarios & Benefits - Explored by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/understanding-the-reasons-behind-frequent-system-crashes-insights-by-yl-computing/"><u>Understanding the Reasons Behind Frequent System Crashes - Insights by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-file-management-essentials-how-to-easily-change-filenames-with-yls-expert-advice/"><u>Windows File Management Essentials: How to Easily Change Filenames with YL's Expert Advice</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-transform-still-photos-using-illustration-for-dynamic-effects/"><u>[New] Transform Still Photos Using Illustration for Dynamic Effects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-witness-the-blend-the-top-ten-funny-and-deep-ig-meme-accounts/"><u>[Updated] In 2024, Witness the Blend The Top Ten Funny & Deep IG Meme Accounts</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-accelerate-your-pc-performance-expert-tips-and-tricks-yl-computing/"><u>How to Accelerate Your PC Performance: Expert Tips and Tricks - YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-annotating-emotions-through-trailer-tunes/"><u>In 2024, Annotating Emotions Through Trailer Tunes</u></a></li>
+<li><a href="https://win-popular.techidaily.com/in-depth-analysis-reloop-rmp-4-dual-source-dj-controller-unboxing-and-performance-test/"><u>In-Depth Analysis: Reloop RMP-#4 Dual Source DJ Controller - Unboxing & Performance Test</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://win-popular.techidaily.com/pcdj-highlights-of-2012-the-ultimate-dj-journey-recap/"><u>PCDJ Highlights of 2012: The Ultimate DJ Journey Recap</u></a></li>
+<li><a href="https://win-popular.techidaily.com/recognizing-defective-memory-sticks-a-guide-by-yl-tech-ram-troubleshooting-explained/"><u>Recognizing Defective Memory Sticks: A Guide by YL Tech - RAM Troubleshooting Explained</u></a></li>
+<li><a href="https://win-popular.techidaily.com/secure-your-digital-wealth-expert-tips-on-storing-cryptocurrencies-safely-from-yl-computings-specialists/"><u>Secure Your Digital Wealth: Expert Tips on Storing Cryptocurrencies Safely From YL Computing's Specialists</u></a></li>
+<li><a href="https://win-popular.techidaily.com/solving-pc-stability-problems-with-faulty-drivers-a-guide-by-yl-software-experts/"><u>Solving PC Stability Problems with Faulty Drivers: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/subscribe-savvy-double-your-audience-in-pocket-change-for-2024/"><u>Subscribe Savvy Double Your Audience in Pocket Change for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
 </ul></div>
 
