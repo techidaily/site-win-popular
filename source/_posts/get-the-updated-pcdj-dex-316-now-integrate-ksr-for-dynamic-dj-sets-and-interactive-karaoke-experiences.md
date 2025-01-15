@@ -1,7 +1,7 @@
 ---
 title: Get the Updated PCDJ DEX 3.16 Now – Integrate KSR for Dynamic DJ Sets and Interactive Karaoke Experiences
-date: 2025-01-04T07:54:24.637Z
-updated: 2025-01-08T18:49:15.165Z
+date: 2025-01-12T20:14:10.019Z
+updated: 2025-01-14T19:19:03.262Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The official public release of DEX 3.16 is ready for download!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 [View Larger Image ![DEX 3 KSR Online Songbook](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=300%2C240&ssl=1 "DEX 3 KSR Online Songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=1030%2C823&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.16 is here and as always, it’s a free update for DEX 3 DJs. Learn more below and download and install the update from the [DEX 3 support page](https://tools.techidaily.com/pcdj/products/).
@@ -37,7 +37,7 @@ DEX 3.16 brings new karaoke-specific features and extensive optimizations and bu
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), DEX 3.16 is ready for live performance. We suggest DEX 3 customers update to 3.16 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.16
@@ -54,7 +54,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 3.16 version of our DEX 3 **DJ software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,20 +76,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/dex36-ksr.jpg?fit=1250%2C6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-ranked-android-song-curator/"><u>[New] Top-Ranked Android Song Curator</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>[Updated] 2024 Approved In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-experience-freedom-in-viewing-free-movie-player-software/"><u>[Updated] In 2024, Experience Freedom in Viewing FREE MOVIE PLAYER Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-premium-virtual-playstation-simulators-for-modern-computers/"><u>[Updated] Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-pathway-to-popular-youtube-thumbnails-mac-edition/"><u>2024 Approved The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
-<li><a href="https://win-popular.techidaily.com/diagnosing-and-resolving-issues-with-non-responsive-mouse-devices-guidance-by-yl-software-experts/"><u>Diagnosing and Resolving Issues with Non-Responsive Mouse Devices – Guidance by YL Software Experts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dish-network-faces-channel-loss-across-nine-regions/"><u>Dish Network Faces Channel Loss Across Nine Regions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ensure-crystal-clear-audio-on-windows-11-with-driver-updates-for-your-sound-card-guided-by-yl-software-experts/"><u>Ensure Crystal Clear Audio on Windows 11 with Driver Updates for Your Sound Card – Guided by YL Software Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-cutting-edge-features-of-djis-luxury-4200-per-drone-with-a-zdnet-walkthrough/"><u>Explore the Cutting-Edge Features of DJI's Luxury $42,00 per Drone with a ZDNET Walkthrough</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fix-broken-windows-system-files-expert-guide-from-yl-computing/"><u>Fix Broken Windows System Files: Expert Guide From YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/mastering-windows-startup-settings-customization-techniques-by-leading-developer-yl-software/"><u>Mastering Windows Startup Settings: Customization Techniques by Leading Developer YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nokia-130-music-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia 130 Music ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/the-melodic-djs-guide-to-perfectly-aligned-mixes-understanding-harmonic-matching-in-pcdj/"><u>The Melodic DJ's Guide to Perfectly Aligned Mixes: Understanding Harmonic Matching in PCDJ</u></a></li>
-<li><a href="https://win-popular.techidaily.com/understanding-persistent-disconnection-problems-with-your-scanner-guidance-by-yl-computing-expertise/"><u>Understanding Persistent Disconnection Problems with Your Scanner - Guidance by YL Computing Expertise</u></a></li>
-<li><a href="https://win-popular.techidaily.com/yl-softwares-ultimate-walkthrough-to-activate-file-history-backup-in-windows-11/"><u>YL Software's Ultimate Walkthrough to Activate File History Backup in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-innovative-social-media-tag-trackers-facebook-tweet-and-instagram/"><u>[Updated] 2024 Approved Innovative Social Media Tag Trackers Facebook, Tweet & Instagram</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-essential-steps-for-saving-tweets-visuals-in-android-app-for-2024/"><u>[Updated] Essential Steps for Saving Tweets' Visuals in Android App for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>[Updated] In 2024, Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfect-your-content-mix-horizontal-videos-on-the-igtv-stage-for-2024/"><u>[Updated] Perfect Your Content Mix Horizontal Videos on the IGTV Stage for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-your-guide-to-the-top-5-chromebook-sniping-software/"><u>[Updated] Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
+<li><a href="https://win-popular.techidaily.com/iuwbmpluseoruwfjeiyuplusmchowonplusw3suawuos5hea2iowkseeahoawhpluss7tjog5aplusm55so5oyh5y2xig/"><u>四種免費還原已永久消失的文件: 實用指南</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/apowersoft-screen-recorder-for-pc-review-for-2024/"><u>Apowersoft Screen Recorder for PC Review for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/emeditor-ver-10-beta-release-explore-enhanced-compatibility-and-features-in-text-editing/"><u>EmEditor Ver. 10 Beta Release: Explore Enhanced Compatibility and Features in Text Editing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guides-restoring-audio-functionality-in-toshiba-devices/"><u>Expert Guides: Restoring Audio Functionality in Toshiba Devices</u></a></li>
+<li><a href="https://win-popular.techidaily.com/fast-solutions-how-to-unfreeze-your-iphone-when-an-ios-update-causes-trouble/"><u>Fast Solutions: How to Unfreeze Your iPhone When an iOS Update Causes Trouble</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-connectivity-with-win1110-mtk-support/"><u>Instantly Improve Connectivity with Win11/10 MTK Support</u></a></li>
+<li><a href="https://win-popular.techidaily.com/leading-bootable-tools-for-reliable-hard-drive-duplication-amidst-damaged-regions/"><u>Leading Bootable Tools for Reliable Hard Drive Duplication Amidst Damaged Regions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-your-game-face-on-best-websites-to-download-games/"><u>New In 2024, Get Your Game Face On Best Websites to Download Games</u></a></li>
+<li><a href="https://win-popular.techidaily.com/pcos-windows-11/"><u>PCのOS変更: Windows 11を前機種から移行する手順</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-steps-to-restore-deleted-microsoft-word-documents-in-windows-10/"><u>Simple Steps to Restore Deleted Microsoft Word Documents in Windows 10</u></a></li>
+<li><a href="https://win-popular.techidaily.com/software-ideal-para-clone-disk-easy-startup-unit-copying-descubra-a-solucao-maior-para-backups-faceis-e-rapidos-em-computadores/"><u>Software Ideal Para Clone Disk Easy Startup Unit Copying: Descubra a Solução Maior Para Backups Fáceis E Rápidos Em Computadores.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-gaming-monitors-for-xbox-series-x-a-buyers-guide/"><u>Top Gaming Monitors for Xbox Series X - A Buyer's Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ultimate-complete-manual-on-implementing-disk-to-disk-to-cloud-data-protection/"><u>Ultimate Complete Manual on Implementing Disk-to-Disk-to-Cloud Data Protection</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728501810918-usb/"><u>USBメモリ同士をコピーする究極ガイド – 始めから完璧に学べます!</u></a></li>
 </ul></div>
 

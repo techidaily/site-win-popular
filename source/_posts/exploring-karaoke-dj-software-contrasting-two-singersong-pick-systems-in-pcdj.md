@@ -1,7 +1,7 @@
 ---
 title: "Exploring Karaoke DJ Software: Contrasting Two Singer/Song Pick Systems in PCDJ"
-date: 2025-01-01T18:38:17.200Z
-updated: 2025-01-09T08:52:21.449Z
+date: 2025-01-14T03:38:01.147Z
+updated: 2025-01-15T02:09:35.326Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Through Karaoki’s remote request plugin technology there are currently two dif
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SongbookDB | A robust internet-based song request system for use with Karaoki
@@ -39,7 +39,7 @@ Through Karaoki’s remote request plugin technology there are currently two dif
 [LEARN MORE ABOUT SONGBOOKDB ![SongbookDB remote song requests](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/songbookdb-requests.jpg?fit=348%2C415&ssl=1 "SongbookDB remote song requests")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With SongbookDB you have to use the supplied “Pal” app to upload your exported case (TSV) files so they are available online for your singers. Your singers can download (free for them) the Android or iOS singer request app and login (manually or socially with Facebook/Google). There is also a ‘host’ version of the app so you can receive song requests that way as well if you wish.
@@ -68,7 +68,7 @@ SongbookDB is a truly pro solution that’s been thoroughly thought through. It�
 [LEARN MORE ABOUT SONGBOOKDB](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KaraoQuest | A FREE iOS local area network (LAN) based song request system for use with Karaoki
@@ -78,7 +78,7 @@ If it’s FREE it for me! Yes, [KaraoQuest](https://tools.techidaily.com/pcdj/pr
 [LEARN MORE ABOUT KARAOQUEST ON APP STORE ![Karaoke Song requests on iPhone](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/karaoquest-iphone-sml-e1459799033941.png?fit=445%2C380&ssl=1 "Karaoke Requests On iPhone")](https://itunes.apple.com/ca/app/karaoquest/id1093902058?mt=8)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Unlike the SongBookDB song request system, KaraoQuest works exclusively via local area network. Thus you will need to setup a local network but you _won’t_ need internet. That makes KaraoQuest an ideal solution for KJs working in venues where internet may not be an option for the host or karaoke singers. Singers (or yourself if using an iPad as a Kiosk) will only need to input the IP address displayed on Karaoki’s remote request tab to access your online songbook.
@@ -105,7 +105,7 @@ KaraoQuest is perfect for a KJ that needs something simple to use as a request s
 _Have questions about the **remote request system**, **karaoke kiosk**, or **online songbooks** and how they work with **Karaoki**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -127,19 +127,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoki-song-singer-reques
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-transform-still-photos-using-illustration-for-dynamic-effects/"><u>[New] Transform Still Photos Using Illustration for Dynamic Effects</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-witness-the-blend-the-top-ten-funny-and-deep-ig-meme-accounts/"><u>[Updated] In 2024, Witness the Blend The Top Ten Funny & Deep IG Meme Accounts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-accelerate-your-pc-performance-expert-tips-and-tricks-yl-computing/"><u>How to Accelerate Your PC Performance: Expert Tips and Tricks - YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-annotating-emotions-through-trailer-tunes/"><u>In 2024, Annotating Emotions Through Trailer Tunes</u></a></li>
-<li><a href="https://win-popular.techidaily.com/in-depth-analysis-reloop-rmp-4-dual-source-dj-controller-unboxing-and-performance-test/"><u>In-Depth Analysis: Reloop RMP-#4 Dual Source DJ Controller - Unboxing & Performance Test</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
-<li><a href="https://win-popular.techidaily.com/pcdj-highlights-of-2012-the-ultimate-dj-journey-recap/"><u>PCDJ Highlights of 2012: The Ultimate DJ Journey Recap</u></a></li>
-<li><a href="https://win-popular.techidaily.com/recognizing-defective-memory-sticks-a-guide-by-yl-tech-ram-troubleshooting-explained/"><u>Recognizing Defective Memory Sticks: A Guide by YL Tech - RAM Troubleshooting Explained</u></a></li>
-<li><a href="https://win-popular.techidaily.com/secure-your-digital-wealth-expert-tips-on-storing-cryptocurrencies-safely-from-yl-computings-specialists/"><u>Secure Your Digital Wealth: Expert Tips on Storing Cryptocurrencies Safely From YL Computing's Specialists</u></a></li>
-<li><a href="https://win-popular.techidaily.com/solving-pc-stability-problems-with-faulty-drivers-a-guide-by-yl-software-experts/"><u>Solving PC Stability Problems with Faulty Drivers: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/subscribe-savvy-double-your-audience-in-pocket-change-for-2024/"><u>Subscribe Savvy Double Your Audience in Pocket Change for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-first-flight-fun-best-easy-to-use-drones/"><u>[Updated] In 2024, First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>[Updated] Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-sacred-melodies-a-christian-ringtones-compendium/"><u>2024 Approved Selecting Sacred Melodies A Christian Ringtones Compendium</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatai-breakdown-enhancing-crypto-exchanges-with-gpt/"><u>ChatAI Breakdown: Enhancing Crypto Exchanges with GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-google-chromes-critical-error-scam-a-step-by-step-guide/"><u>Eliminate Google Chrome's Critical Error Scam: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/fixing-hulus-error-137-in-a-flash-expert-solutions-unveiled/"><u>Fixing Hulu's Error 137 in a Flash - Expert Solutions Unveiled!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exploring-easy-to-use-game-recording-and-edit-software/"><u>In 2024, Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>In 2024, Unparalleled Access #8 Leading FB Movie Downloader List</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-autofitting-columns-and-rows-in-microsoft-excel/"><u>Mastering the Art of AutoFitting Columns and Rows in Microsoft Excel</u></a></li>
+<li><a href="https://win-popular.techidaily.com/most-effective-methods-to-overcome-iphone-the-activation-barrier-of-the-new-iphone-14-model/"><u>Most Effective Methods to Overcome iPhone The Activation Barrier of the New iPhone 14 Model</u></a></li>
+<li><a href="https://win-popular.techidaily.com/quando-e-come-modificare-le-impostazioni-di-conservazione-dei-backup-utilizzando-aomei-backupper/"><u>Quando E Come Modificare Le Impostazioni Di Conservazione Dei Backup Utilizzando AOMEI Backupper</u></a></li>
+<li><a href="https://win-popular.techidaily.com/secure-boot-kompatible-windows-881-migration-auf-eine-ssd/"><u>Secure Boot-Kompatible Windows 8/8.1 Migration Auf Eine SSD</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-methods-for-setting-up-ubuntu-in-parallel-with-microsofts-new-os-windows-11/"><u>Simple Methods for Setting Up Ubuntu in Parallel with Microsoft's New OS, Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ultimate-3-fb-movie-extractors/"><u>Ultimate 3 Fb Movie Extractors</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-11-troubleshooting-guide-fixing-hp-laptops-non-functional-speakers/"><u>Windows 11 Troubleshooting Guide: Fixing HP Laptop's Non-Functional Speakers</u></a></li>
 </ul></div>
 
