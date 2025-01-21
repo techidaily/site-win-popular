@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Highlights of 2012: The Ultimate DJ Journey Recap"
-date: 2025-01-10T16:56:16.521Z
-updated: 2025-01-14T16:26:05.068Z
+date: 2025-01-15T16:57:59.591Z
+updated: 2025-01-21T01:25:43.142Z
 tags:
   - product
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **DJ Software and Karaoke Software, our year in review…**
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 ![](https://pcdj.com/wp-content/uploads/2013/01/bye2012hello2013.jpg "bye2012hello2013") 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite the notable economic struggles globally, 2012 was quite the year for PCDJ. New updates to our flagship **DJ software PCDJ DEX 2** included next gen and future forward features geared specifically for the "next big thing" in DJ entertainment technology: **mixing music videos seamlessly, just like** **audio.**  With video transitions, video effects and new native maps to top **DJ controllers** on the market PCDJ saw record sales and interest. It's no secret our PCDJ customers want a **true all-in-** **one entertainment software solution**, and we feel we've hit the nail on the head with PCDJ DEX 2\. 
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  We're really fired up about 2013, and it's our promise to not disapoint with our **DJ software and karaoke software platforms**. Our intention for the last 13 years has been to be your on-stop shop for all things digital dj and entertainment, with customer service being paramount. This year will be huge, and we thank you for your continued support and interest! 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
 **Thanks, and a very Happy New Year to you and your families!**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,19 +66,18 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-iconic-building-blueprints-for-mc-players/"><u>[New] Iconic Building Blueprints for MC Players</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>[New] Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge/"><u>[Updated] 2024 Approved Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-cinematic-motion-smear-in-adobe/"><u>[Updated] Capture Cinematic Motion Smear in Adobe</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-to-combat-unsteady-shot-dynamics/"><u>2024 Approved Techniques to Combat Unsteady Shot Dynamics</u></a></li>
-<li><a href="https://win-popular.techidaily.com/5pya6auy44gu44oh44o844or44oq44od44kv44ki44od44ox44k944ov44oi44km44kn44ki44ks6kal44gk44gr44ki44gg77yf44cq5luk5bm044gu44op44kk44oz44ok44od44ox44cr/"><u>最高のメールバックアップソフトウェアを見つけよう？【今年のラインナップ】</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728503148731-aomei-backupper/"><u>AOMEI Backupper對稱備份：詳解設定雙向同步功能</u></a></li>
-<li><a href="https://win-popular.techidaily.com/frei-und-einfach-umwandeln-von-heic-in-jpg-bilder-unter-windows-1011/"><u>Frei Und Einfach Umwandeln Von HEIC- in JPG-Bilder Unter Windows 10/11</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guia-paso-a-paso-para-transferir-archivos-al-nuevo-hdd-metodos-faciles-de-usar-en-windows-11-8-y-7/"><u>Guía Paso a Paso Para Transferir Archivos Al Nuevo HDD: Métodos Fáciles De Usar en Windows 11, 8 Y 7</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-free-easy-hd-download-of-fb-media-library/"><u>In 2024, Free, Easy HD Download of FB Media Library</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-spark-20-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Spark 20 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/is-data-recovery-possible-using-system-restore-on-windows-7-platforms/"><u>Is Data Recovery Possible Using System Restore on Windows 7 Platforms?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-from-camera-to-computer-editing-sony-camcorder-videos-with-ease/"><u>New 2024 Approved From Camera to Computer Editing Sony Camcorder Videos with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-ventures-exploring-affordable-tiktok-beauty-behind-bars/"><u>Visual Ventures Exploring Affordable TikTok Beauty Behind Bars</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-producing-top-notch-professional-gopro-content/"><u>[Updated] Strategies for Producing Top-Notch, Professional Gopro Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unleash-creativity-exploring-the-top-8-drawing-apps-on-ios-devices/"><u>[Updated] Unleash Creativity Exploring the Top 8 Drawing Apps on iOS Devices</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-essential-cybersecurity-strategies-for-safeguarding-your-digital-property-tips-from-yl-computing/"><u>1. Essential Cybersecurity Strategies for Safeguarding Your Digital Property - Tips From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/founder-of-the-taiping-heavenly-kingdom-great-peace-during-qing-dynastys-rebellion-an-insight-by-yl-computing-and-software-solutions/"><u>Founder of the Taiping Heavenly Kingdom (Great Peace) During Qing Dynasty's Rebellion: An Insight by YL Computing and Software Solutions</u></a></li>
+<li><a href="https://win-popular.techidaily.com/get-the-latest-pcdj-karaoke-software-version-085757-free-download-available/"><u>Get the Latest PCDJ Karaoke Software, Version 0.8.5757 - Free Download Available!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/gpu-troubleshooting-guide-understanding-zero-output-issues-with-expert-insights-from-yl-software/"><u>GPU Troubleshooting Guide: Understanding Zero Output Issues with Expert Insights From YL Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-beginners-pathway-prime-video-game-editing-applications/"><u>In 2024, Beginner's Pathway Prime Video Game Editing Applications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-not-detected-and-missing-issues-with-gsdll32dll/"><u>Resolving 'Not Detected' And 'Missing' Issues with gsdll32.dll</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skip-the-wait-for-chatgpt-on-desktop-embrace-these-top-open-source-solutions-instead/"><u>Skip the Wait for ChatGPT on Desktop – Embrace These Top Open Source Solutions Instead</u></a></li>
+<li><a href="https://win-popular.techidaily.com/troubleshooting-persistent-applications-effective-steps-to-forcefully-remove-stubborn-software-expert-tips-by-yl-computing/"><u>Troubleshooting Persistent Applications: Effective Steps to Forcefully Remove Stubborn Software - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/troubleshooting-your-non-booting-pc-insights-and-solutions-by-yl-software-experts/"><u>Troubleshooting Your Non-Booting PC: Insights & Solutions by YL Software Experts</u></a></li>
 </ul></div>
 
