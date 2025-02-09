@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Highlights of 2012: The Ultimate DJ Journey Recap"
-date: 2025-01-24T06:49:09.050Z
-updated: 2025-01-27T05:33:54.503Z
+date: 2025-02-03T00:20:06.706Z
+updated: 2025-02-08T16:15:18.681Z
 tags:
   - product
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **DJ Software and Karaoke Software, our year in review…**
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 ![](https://pcdj.com/wp-content/uploads/2013/01/bye2012hello2013.jpg "bye2012hello2013") 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite the notable economic struggles globally, 2012 was quite the year for PCDJ. New updates to our flagship **DJ software PCDJ DEX 2** included next gen and future forward features geared specifically for the "next big thing" in DJ entertainment technology: **mixing music videos seamlessly, just like** **audio.**  With video transitions, video effects and new native maps to top **DJ controllers** on the market PCDJ saw record sales and interest. It's no secret our PCDJ customers want a **true all-in-** **one entertainment software solution**, and we feel we've hit the nail on the head with PCDJ DEX 2\. 
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  We're really fired up about 2013, and it's our promise to not disapoint with our **DJ software and karaoke software platforms**. Our intention for the last 13 years has been to be your on-stop shop for all things digital dj and entertainment, with customer service being paramount. This year will be huge, and we thank you for your continued support and interest! 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
 **Thanks, and a very Happy New Year to you and your families!**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,18 +66,22 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-charting-a-course-through-websites-of-youtube-affiliates-for-2024/"><u>[New] Charting a Course Through Websites of YouTube Affiliates for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-finding-premium-photography-without-spending-for-2024/"><u>[New] Finding Premium Photography Without Spending for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>[New] The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-the-art-of-extended-frame-shooting/"><u>[Updated] Unlocking the Art of Extended Frame Shooting</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-demystifying-payment-systems-in-shortform-creator-ecosystem/"><u>2024 Approved Demystifying Payment Systems in Shortform Creator Ecosystem</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-handheld-games-with-controller-support/"><u>Elite Handheld Games with Controller Support</u></a></li>
-<li><a href="https://win-popular.techidaily.com/instrucciones-sencillas-para-crear-particion-de-rescate-con-windows-11-dos-enfoques-claros/"><u>Instrucciones Sencillas Para Crear Partición De Rescate Con Windows 11 – Dos Enfoques Claros</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-on-pc-no-sound-here-are-5-quick-fixes/"><u>Minecraft on PC No Sound? Here Are 5 Quick Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-fitness-strategies-using-generative-ai/"><u>Tailoring Fitness Strategies Using Generative AI</u></a></li>
-<li><a href="https://win-popular.techidaily.com/uncover-lost-data-step-by-step-guide-to-undelete-files-on-windows-11-by-expert-modi/"><u>Uncover Lost Data: Step-by-Step Guide to Undelete Files on Windows 11 by Expert Modi</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-chromecast-local-media-a-comprehensive-guide-for-windows-mac-android-and-ios-users/"><u>Updated Chromecast Local Media A Comprehensive Guide for Windows, Mac, Android, and iOS Users</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-10-and-11-hddssd/"><u>Windows 10 & 11 HDD/SSD損傷修復最佳解決方案</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728473541255-windows-11/"><u>Windows 11におけるディスク容量拡張手順３つ</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-holistic-harmony-the-best-online-yoga-channels/"><u>[New] In 2024, Holistic Harmony - The Best Online Yoga Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-20-zero-cost-pubg-visual-anthologies/"><u>[New] Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-quick-steps-to-capture-ios-audio-files-for-2024/"><u>[Updated] Quick Steps to Capture iOS Audio Files for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-step-by-step-guide-updating-your-windows-os-via-control-panel-tips-from-yl-software/"><u>1. Step-by-Step Guide: Updating Your Windows OS via Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://win-popular.techidaily.com/diagnosing-pc-power-failures-is-your-power-supply-to-blame-insights-by-yl-tech-experts/"><u>Diagnosing PC Power Failures: Is Your Power Supply to Blame? Insights by YL Tech Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-a-malfunctioning-corsair-hs70-microphone-for-seamless-audio-performance/"><u>Expert Advice on Repairing a Malfunctioning Corsair HS70 Microphone for Seamless Audio Performance</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-can-you-stop-your-cpu-from-malfunctioning-expert-advice-by-yl-computing/"><u>How Can You Stop Your CPU From Malfunctioning? - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-boost-your-youtube-presence-with-personalized-annotations-and-card-integration/"><u>In 2024, Boost Your YouTube Presence with Personalized Annotations and Card Integration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-streaming-experience-dual-screen-mode-on-netflix/"><u>In 2024, Maximize Your Streaming Experience - Dual Screen Mode on Netflix</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005125805-introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium</u></a></li>
+<li><a href="https://win-popular.techidaily.com/karaoke-summit-2015-join-now-sign-up-for-free-and-unlock-dj-secrets/"><u>Karaoke Summit 2015: Join Now! Sign Up for Free & Unlock DJ Secrets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998402599-smooth-sailing-with-the-repaired-fnaf-security-breach-game-for-pc-say-goodbye-to-crashes/"><u>Smooth Sailing with the Repaired FNAF Security Breach Game for PC – Say Goodbye to Crashes!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/spread-the-word-and-secure-your-permanent-imdesktop-license-at-no-cost-with-yl-software/"><u>Spread the Word & Secure Your Permanent ImDesktop License at No Cost with YL Software</u></a></li>
+<li><a href="https://win-popular.techidaily.com/stunning-tropical-landscapes-for-desktop-and-mobile-use-premium-hd-graphics-by-yl-software/"><u>Stunning Tropical Landscapes for Desktop & Mobile Use: Premium HD Graphics by YL Software</u></a></li>
+<li><a href="https://win-popular.techidaily.com/troubleshooting-steps-repairing-your-non-booting-motherboard-expert-advice-from-yl-computing/"><u>Troubleshooting Steps: Repairing Your Non-Booting Motherboard - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/troubleshooting-your-pc-understanding-the-reasons-behind-boot-failures-guidance-by-yl-computing/"><u>Troubleshooting Your PC: Understanding the Reasons Behind Boot Failures - Guidance by YL Computing</u></a></li>
 </ul></div>
 
