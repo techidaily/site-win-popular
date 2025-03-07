@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Restore Deleted Microsoft Word Documents in Windows 10
-date: 2025-02-16T05:21:35.616Z
-updated: 2025-02-19T01:42:02.175Z
+date: 2025-03-05T16:02:56.916Z
+updated: 2025-03-07T18:06:46.395Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882c32bc816c08287c2bc4feb3.jpg
@@ -56,10 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -71,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -104,10 +96,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 On **Recover My Computer** screen, find and choose the right system restore point and click **Recover Now** to make it.
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
@@ -154,26 +142,14 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -187,14 +163,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -245,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -268,10 +232,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
 
@@ -298,18 +258,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-dynamic-camera-setup-best-microphone-list/"><u>[New] 2024 Approved Dynamic Camera Setup Best Microphone List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-patching-the-full-screen-problem-in-obs/"><u>[New] Patching the Full-Screen Problem in OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-making-your-stories-more-accessible-a-captioning-guide-for-2024/"><u>[Updated] Making Your Stories More Accessible A Captioning Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-superior-psd-design-transformations-for-2024/"><u>[Updated] Superior PSD Design Transformations for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/44cm5ywo6z2i6kej5rg65pa55rov77ya5b6p5y6f56gs56kf5lik55qe5pya5paw5pcn5asx6loh5paz44cn/"><u>「全面解決方法：復原硬碟上的最新損失資料」</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fonebackup-einfach-ihre-iphonedaten-auf-windows-oder-macos-ubertragen-schritt-fur-schritt/"><u>FoneBackup: Einfach Ihre iPhonedaten Auf Windows Oder macOS Übertragen - Schritt Für Schritt!</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-exit-from-biometrics-marks-a-turning-point-at-fb/"><u>Meta's Exit From Biometrics Marks a Turning Point at FB</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-slow-download-woes-in-ubisoft-services-with-these-tips/"><u>Overcome Slow Download Woes in Ubisoft Services With These Tips</u></a></li>
-<li><a href="https://win-popular.techidaily.com/secure-deletion-guide-removing-the-windowsapps-directory-in-windows-11/"><u>Secure Deletion Guide: Removing the WindowsApps Directory in Windows 11</u></a></li>
-<li><a href="https://win-popular.techidaily.com/simple-steps-how-to-reset-your-iphones-system-date-with-ease/"><u>Simple Steps: How to Reset Your iPhone's System Date with Ease</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-infinix-smart-8-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Infinix Smart 8 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-windows-experience-with-cutting-edge-local-artificial-intelligence-imagery-tools/"><u>Transform Your Windows Experience with Cutting-Edge Local Artificial Intelligence Imagery Tools</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-server-2022usb/"><u>Windows Server 2022データの安全なバックアップには、どんなUSBメモリがベストか？</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-rated-ios-applications-for-emulating-popular-psp-games/"><u>[New] 2024 Approved Top-Rated iOS Applications for Emulating Popular PSP Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>[Updated] Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[Updated] In 2024, End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[Updated] In 2024, Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-recording-techniques-with-adobe-presenter-for-2024/"><u>[Updated] Mastering Recording Techniques with Adobe Presenter for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comment-resoudre-le-probleme-du-bureau-et-du-dossier-manquant-apres-un-redemarrage-sous-windows-10-guide-dassistance-avec-des-solutions-pratiques/"><u>Comment Résoudre Le Problème Du Bureau Et Du Dossier Manquant Après Un Redémarrage Sous Windows 10: Guide D'Assistance Avec Des Solutions Pratiques</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-simplest-methods-booting-your-virtualbox-windows-10-into-safe-mode/"><u>Discover the Simplest Methods: Booting Your VirtualBox Windows 10 Into Safe Mode</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolving-active-partition-missing-errors-on-windows-10-proven-strategies-guaranteed/"><u>Resolving 'Active Partition Missing' Errors on Windows 10: Proven Strategies (Guaranteed)</u></a></li>
+<li><a href="https://win-popular.techidaily.com/transferir-datos-desde-hdd-a-un-nuevo-ssd-facilmente-con-guia-de-video/"><u>Transferir Datos Desde HDD a Un Nuevo SSD Fácilmente Con Guía De Vídeo</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-server-dhcp-20122022/"><u>Windows Server DHCP 移行ガイド：2012から2022へのスムーズな変更手順</u></a></li>
 </ul></div>
 

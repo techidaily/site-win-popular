@@ -1,7 +1,7 @@
 ---
 title: Resolve the Issue of Error Code 0X8004016C with Easy Fixes Included
-date: 2025-02-14T16:10:26.045Z
-updated: 2025-02-18T17:45:25.720Z
+date: 2025-03-01T17:48:36.830Z
+updated: 2025-03-07T17:13:57.813Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7bce0a9cec47bbc5c1d004931.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7b
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -85,25 +81,13 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -145,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,16 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-boosting-youtube-popularity-two-simple-strategies/"><u>[Updated] Boosting YouTube Popularity Two Simple Strategies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/discover-the-power-of-icomponent-for-net-custom-controls-and-reusability/"><u>Discover the Power of IComponent for .NET Custom Controls and Reusability</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-transfer-your-samsung-account-from-old-pcs-to-windows-11-a-comprehensive-guide/"><u>How to Transfer Your Samsung Account From Old PCs to Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/hp-laptop-hassles-in-windows-11-era-how-to-overcome-the-unresetting-challenge/"><u>HP Laptop Hassles in Windows 11 Era: How to Overcome the Unresetting Challenge!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/solving-iphone-xs-trust-issues-fixing-facial-detection-glitches/"><u>Solving iPhone X's Trust Issues Fixing Facial Detection Glitches</u></a></li>
-<li><a href="https://extra-information.techidaily.com/starting-off-understanding-av1-compression/"><u>Starting Off Understanding AV1 Compression</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/stellar-support-site-space-recovery-portal/"><u>Stellar Support Site - Space Recovery Portal</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transferring-ios-sms-to-windows-11-a-step-by-step-guide/"><u>Transferring iOS SMS to Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/wiederherstellung-von-systemen-mit-alternativer-hardware-und-secure-boot-einfuhrung-in-die-praxis/"><u>Wiederherstellung Von Systemen Mit Alternativer Hardware Und Secure Boot - Einführung in Die Praxis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-to-whatsapp-video-broadcasting-guide/"><u>[Updated] In 2024, Twitter-to-WhatsApp Video Broadcasting Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/boost-your-pcs-performance-top-strategies-from-yl-computing/"><u>Boost Your PC's Performance: Top Strategies From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/decline-in-usdc-outflows-to-1616-million-on-exchange-platforms-as-revealed-by-7-day-moving-average-analysis-with-glassnode-yl-solutions/"><u>Decline in USDC Outflows to $16.16 Million on Exchange Platforms as Revealed by 7-Day Moving Average Analysis with Glassnode | YL Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-why-the-new-microsoft-surface-laptop-4-reigns-supreme-in-tech/"><u>Discover Why the New Microsoft Surface Laptop 4 Reigns Supreme in Tech</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exploring-possible-hazards-in-virtual-currency-portfolios-a-guide-by-yl-software/"><u>Exploring Possible Hazards in Virtual Currency Portfolios: A Guide by YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-bots-to-blackhats-the-5-ai-strategies-bolstering-cybercrime/"><u>From Bots to Blackhats: The 5 AI Strategies Bolstering Cybercrime</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-can-i-speed-up-my-computers-startup-process-expert-advice-from-yl-computing/"><u>How Can I Speed Up My Computer's Startup Process? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/keep-cool-stay-productive-overheating-laptop-fixes-by-yl-software-experts/"><u>Keep Cool, Stay Productive: Overheating Laptop Fixes by YL Software Experts</u></a></li>
+<li><a href="https://win-popular.techidaily.com/master-the-art-of-diagnosing-hardware-disputes-with-ease-expert-advice-from-yl-software/"><u>Master the Art of Diagnosing Hardware Disputes with Ease: Expert Advice From YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-xiaomi-redmi-k70e-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96302442-9781785357480-psychedelic-christianity/"><u>Psychedelic Christianity | Free Book</u></a></li>
+<li><a href="https://win-popular.techidaily.com/quick-guide-how-to-restore-optimal-functionality-of-a-sluggish-or-faulty-graphics-card-tips-from-yl-computing/"><u>Quick Guide: How to Restore Optimal Functionality of a Sluggish or Faulty Graphics Card - Tips From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/recognizing-graphics-card-troubles-a-guide-by-yl-computing/"><u>Recognizing Graphics Card Troubles: A Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-zerosevenzeronine-windows-issue/"><u>Solutions for ZeroSevenZeroNine Windows Issue</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-non-functional-onikuma-headset-mic-solution-found/"><u>Troubleshooting the Non-Functional Onikuma Headset Mic - Solution Found</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-and-blue-screen-dilemma-dealing-with-the-dxgmms2sys-malfunction-successfully/"><u>Windows 11 and Blue Screen Dilemma - Dealing with the dxgmms2.sys Malfunction Successfully</u></a></li>
+<li><a href="https://win-popular.techidaily.com/yl-software-guide-fixing-computer-incompatibility-with-scanners-for-seamless-operation/"><u>YL Software Guide: Fixing Computer Incompatibility with Scanners for Seamless Operation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Inadvertent Software Downloads: Tips for Controlling App Setup on Windows 10"
-date: 2025-02-13T16:47:17.731Z
-updated: 2025-02-18T20:08:28.317Z
+date: 2025-03-03T16:07:42.867Z
+updated: 2025-03-07T16:16:54.152Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2cb99e9b5ca8066747f3813d.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -46,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -97,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -109,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,24 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-introduction-to-basic-storytelling-constructs/"><u>2024 Approved Introduction to Basic Storytelling Constructs</u></a></li>
-<li><a href="https://win-popular.techidaily.com/complete-walkthrough-navigating-through-windows-to-find-and-view-documents-tech-tips-from-yl-software/"><u>Complete Walkthrough: Navigating Through Windows to Find and View Documents - Tech Tips From YL Software</u></a></li>
-<li><a href="https://win-popular.techidaily.com/decoding-cryptocurrency-valuation-expert-analysis-by-yl-software-experts/"><u>Decoding Cryptocurrency Valuation: Expert Analysis by YL Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-for-the-sudden-loss-of-bluetooth-on-windows-10/"><u>Effortless Solutions for the Sudden Loss of Bluetooth on Windows 10</u></a></li>
-<li><a href="https://win-popular.techidaily.com/elevate-machine-speed-and-stability-with-yl-software-strategies-for-enhanced-performance/"><u>Elevate Machine Speed & Stability with YL Software Strategies for Enhanced Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/find-and-track-lost-android-devices-with-android-device-manager/"><u>Find & Track Lost Android Devices with Android Device Manager</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-razer-man-o-war-headset-microphone-troubleshooting/"><u>Fixing Common Issues: Razer Man O' War Headset Microphone Troubleshooting</u></a></li>
-<li><a href="https://win-popular.techidaily.com/get-the-latest-update-in-dj-software-with-jammtext-v114-the-ultimate-text-to-screen-conversion-tool-now-available/"><u>Get the Latest Update in DJ Software with JammText v1.1.4 - The Ultimate Text to Screen Conversion Tool Now Available!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-successfully-joining-a-wi-fi-network-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Guide: Successfully Joining a Wi-Fi Network on Your Windows PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-v29-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo V29 Devices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/keep-your-system-running-smoothly-with-driver-restoration-techniques-for-windows-t-ino-expert-advice-by-yl-software/"><u>Keep Your System Running Smoothly with Driver Restoration Techniques for Windows T Ino | Expert Advice by YL Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/retweets-and-re-tweets-demystified-clarifying-social-media-lingo/"><u>Retweets & Re-Tweets Demystified: Clarifying Social Media Lingo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-your-video-content-for-wide-platform-distribution/"><u>Tailoring Your Video Content for Wide Platform Distribution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782601-9781620556535-the-tao-of-immortality/"><u>The Tao of Immortality | Free Book</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/the-ultimate-selection-of-twelve-leading-pc-based-video-conferencing-tools-including-movavi/"><u>The Ultimate Selection of Twelve Leading PC-Based Video Conferencing Tools, Including Movavi</u></a></li>
-<li><a href="https://win-popular.techidaily.com/troubleshooting-your-non-booting-pc-insights-and-solutions-by-yl-software-experts/"><u>Troubleshooting Your Non-Booting PC: Insights & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ultimate-top-20-playlist-the-best-halloween-beats-perfect-for-dancing-pcdj/"><u>Ultimate Top 20 Playlist: The Best Halloween Beats Perfect for Dancing | PCDJ</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ultra-hd-visuals-of-emma-watson-for-computer-screensaver-images-and-wallpaper-selections-premium-content-from-yl-computing/"><u>Ultra HD Visuals of Emma Watson for Computer Screensaver Images and Wallpaper Selections – Premium Content From YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-editors-guide-to-age-old-vhs-effects-in-digital-video-production/"><u>[New] The Editor's Guide to Age-Old VHS Effects in Digital Video Production</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achievable-techniques-for-recording-android-device-screenshots/"><u>Achievable Techniques for Recording Android Device Screenshots</u></a></li>
+<li><a href="https://win-popular.techidaily.com/best-learning-enhancement-gadgets-ultimate-guide-for-instructors/"><u>Best Learning Enhancement Gadgets: Ultimate Guide for Instructors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descubre-los-mejores-convertidores-de-video-gratuitos-para-windows-11-y-entiende-su-exito-en-la-optimizacion-multimedia/"><u>Descubre Los Mejores Convertidores De Vídeo Gratuitos Para Windows 11 Y Entiende Su Éxito en La Optimización Multimedia</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-guide-adding-protective-watermarks-to-videos-at-no-cost/"><u>Effortless Guide: Adding Protective Watermarks to Videos at No Cost</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-techniques-for-capturing-screenshots-on-an-lg-smartphone-or-tablet/"><u>Effortless Techniques for Capturing Screenshots on an LG Smartphone or Tablet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-malfunctioning-microphone-on-your-laptop-step-by-step-guide/"><u>Fixing a Malfunctioning Microphone on Your Laptop - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-mastering-the-art-of-live-gaming-on-discord/"><u>Guide: Mastering the Art of Live Gaming on Discord</u></a></li>
+<li><a href="https://win-popular.techidaily.com/hassle-free-mac-recording-master-the-art-of-mixing-and-editing-tunes-with-mixcraft/"><u>Hassle-Free Mac Recording: Master the Art of Mixing and Editing Tunes with Mixcraft</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-virtual-frontier-peripherals-the-hottest-10/"><u>In 2024, Virtual Frontier Peripherals The Hottest 10</u></a></li>
+<li><a href="https://win-popular.techidaily.com/innovative-techniques-for-precision-object-removal-from-images/"><u>Innovative Techniques for Precision Object Removal From Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-realms-of-windows-protection-zones/"><u>Navigating the Hidden Realms of Windows Protection Zones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-roku-no-problem-heres-how-you-can-still-tune-into-the-roku-channel/"><u>No Roku? No Problem! Here's How You Can Still Tune Into the Roku Channel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/reviving-the-sounds-of-bethesda-troubleshooting-fallout-ns-mute-pc-edition/"><u>Reviving the Sounds of Bethesda: Troubleshooting Fallout N's Mute PC Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/silence-the-soundscape-overcoming-zoom-audio-hiccups/"><u>Silence the Soundscape Overcoming Zoom Audio Hiccups</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-tutorial-on-casting-from-your-redmi-phone-to-hdtvlaptop-display/"><u>Step-by-Step Tutorial on Casting From Your Redmi Phone to HDTV/Laptop Display</u></a></li>
+<li><a href="https://win-popular.techidaily.com/streamline-your-viewing-experience-with-smartphone-enabled-tv-navigation/"><u>Streamline Your Viewing Experience with Smartphone-Enabled TV Navigation</u></a></li>
 </ul></div>
 

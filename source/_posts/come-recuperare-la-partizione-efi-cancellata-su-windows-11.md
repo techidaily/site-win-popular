@@ -1,7 +1,7 @@
 ---
 title: Come Recuperare La Partizione EFI Cancellata Su Windows 11
-date: 2025-02-14T04:15:49.408Z
-updated: 2025-02-18T18:01:44.971Z
+date: 2025-03-01T18:20:15.755Z
+updated: 2025-03-07T17:05:30.018Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca8c86ab396fe09af56299ebf.jpg
@@ -37,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -102,10 +98,6 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
@@ -121,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -148,19 +136,11 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -174,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -194,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -219,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,21 +216,17 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-exploring-the-future-together-top-vr-gear/"><u>[New] 2024 Approved Exploring the Future Together Top VR Gear</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-an-honest-review-of-recordcast-for-2024/"><u>[New] An Honest Review of RecordCast for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/refs/"><u>恢复分割区的技巧 - ReFS中重获已失去的信息方法</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/audiophile-writers-guide-to-samsung-galaxy-buds-pro/"><u>Audiophile' Writers Guide to Samsung Galaxy Buds Pro</u></a></li>
-<li><a href="https://win-popular.techidaily.com/breeze-through-it-finding-your-missing-tunes-with-5-straightforward-methods/"><u>Breeze Through It: Finding Your Missing Tunes with 5 Straightforward Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/descubre-el-poder-del-ntbackup-una-guia-practica-para-guardar-tu-informacion-en-windows-1187/"><u>Descubre El Poder Del NTBackup: Una Guía Práctica Para Guardar Tu Información en Windows 11/8/7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ersetzen-sie-chronosync-kostenlos-bei-windows-top-3-alternativen-fur-windows-1087/"><u>Ersetzen Sie ChronoSync Kostenlos Bei Windows: Top 3 Alternativen Für Windows 10/8/7</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-de-restauration-pour-les-partitions-ntfs-supprimees-comment-le-faire/"><u>Guide De Restauration Pour Les Partitions NTFS Supprimées : Comment Le Faire?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovative-reclaim-review-the-ultimate-screen-recorder/"><u>In 2024, Innovative 'Reclaim' Review – The Ultimate Screen Recorder?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-users-facing-problems-with-microsoft-edge/"><u>Quick Fixes for Users Facing Problems with Microsoft Edge</u></a></li>
-<li><a href="https://win-popular.techidaily.com/recover-lost-memories-retrieve-deleted-images-from-an-iphone-easily/"><u>Recover Lost Memories: Retrieve Deleted Images From an iPhone Easily!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-pcs-bluish-nightmares-comprehensive-guide-by-yl-computing/"><u>Resolving PC's Bluish Nightmares: Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/sintomas-comunes-del-fallo-al-detectar-perifericos-nvme-en-windows-11-and-soluciones-mas-efectivas/"><u>Síntomas Comunes Del Fallo Al Detectar Perifericos NVMe en Windows 11 & Soluciones Más Efectivas</u></a></li>
-<li><a href="https://win-popular.techidaily.com/the-ultimate-step-by-step-manual-for-safeguarding-your-data-with-windows-10/"><u>The Ultimate Step-By-Step Manual for Safeguarding Your Data with Windows 지원 10 속구</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos-for-2024/"><u>[New] Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming-for-2024/"><u>[New] Master Controls Navigating the World of Switch Pro and Steam Gaming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-does-rapid-subscription-improve-video-watching-in-2024/"><u>[Updated] Does Rapid Subscription Improve Video Watching, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-timeless-tech-posed-shots-of-old-iphone-x/"><u>[Updated] In 2024, Timeless Tech Posed Shots of Old iPhone X</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-perfect-inversion-youtube-reverse-guidebook/"><u>[Updated] The Perfect Inversion YouTube Reverse Guidebook</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/achieve-peak-operations-optimization-strategies-for-windows-11-users-by-yl-solutions/"><u>Achieve Peak Operations: Optimization Strategies for Windows 11 Users by YL Solutions</u></a></li>
+<li><a href="https://win-popular.techidaily.com/boost-your-pcs-performance-a-comprehensive-guide-to-optimizing-the-windows-registry/"><u>Boost Your PC's Performance: A Comprehensive Guide to Optimizing the Windows Registry</u></a></li>
+<li><a href="https://win-popular.techidaily.com/choosing-the-right-hardware-configuration-for-windows-systems-advice-by-yl-technologies/"><u>Choosing the Right Hardware Configuration for Windows Systems: Advice by YL Technologies</u></a></li>
+<li><a href="https://win-popular.techidaily.com/converting-your-crypto-assets-into-liquid-capital-expert-advice-from-yl-computing/"><u>Converting Your Crypto Assets Into Liquid Capital: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/enhancing-your-pc-experience-configuring-windows-accessibility-features-with-yl-software-insights/"><u>Enhancing Your PC Experience: Configuring Windows' Accessibility Features with YL Software Insights</u></a></li>
+<li><a href="https://win-popular.techidaily.com/spread-the-word-and-secure-your-permanent-imdesktop-license-at-no-cost-with-yl-software/"><u>Spread the Word & Secure Your Permanent ImDesktop License at No Cost with YL Software</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ssd-klonen-von-laufwerken-auf-windows-10-eine-schritt-fur-schritt-anleitung/"><u>SSD-Klonen Von Laufwerken Auf Windows 10: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

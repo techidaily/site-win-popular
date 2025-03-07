@@ -1,7 +1,7 @@
 ---
 title: Effective Steps for Removing System Restore Points Across Various Windows Versions
-date: 2025-02-14T02:24:50.836Z
-updated: 2025-02-18T20:02:13.045Z
+date: 2025-03-03T16:18:47.450Z
+updated: 2025-03-07T16:12:42.864Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a13a529d9a3d917fda81ba43e.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -46,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -89,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -104,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -137,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,22 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-best-practices-for-hospitals-social-media-health-promos-for-2024/"><u>[New] Best Practices for Hospitals' Social Media Health Promos for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-step-by-step-full-ps4-game-recording-in-obs-studio-for-2024/"><u>[Updated] Step-by-Step Full PS4 Game Recording in OBS Studio for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-final-curtain-our-datas-journey/"><u>Facebook's Final Curtain: Our Data's Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-raw-to-refined-the-essential-guide-to-podcast-editing-with-garageband-for-2024/"><u>From Raw to Refined The Essential Guide to Podcast Editing with GarageBand for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-large-language-models-the-starters-handbook/"><u>Getting Started with LangChain Large Language Models: The Starter's Handbook</u></a></li>
-<li><a href="https://win-popular.techidaily.com/improved-multiplatform-gaming-with-crossover-23-now-playable-on-macos-chromebooks-and-linux-systems/"><u>Improved Multiplatform Gaming with Crossover 23 - Now Playable on macOS, Chromebooks & Linux Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-sideways-to-symmetry-a-guide-to-flipping-images-and-spreading-engagement/"><u>In 2024, From Sideways to Symmetry A Guide to Flipping Images and Spreading Engagement</u></a></li>
-<li><a href="https://win-popular.techidaily.com/knowing-the-lifespan-how-and-when-does-microsoft-discontinue-support-for-specific-windows-versions/"><u>Knowing the Lifespan: How and When Does Microsoft Discontinue Support for Specific Windows Versions?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsoft-unveils-innovative-crowdstrike-restore-utility-understanding-the-functionality-techinsights/"><u>Microsoft Unveils Innovative CrowdStrike Restore Utility: Understanding the Functionality | TechInsights</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsofts-latest-gamble-windows-11-hits-the-market-to-controversial-reactions-is-it-a-premature-release-or-justified-innovation-cyberscoop/"><u>Microsoft's Latest Gamble: Windows 11 Hits the Market to Controversial Reactions; Is It a Premature Release or Justified Innovation? | CyberScoop</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-steam-in-full-screen-mode/"><u>Navigating Steam in Full-Screen Mode</u></a></li>
-<li><a href="https://facebook.techidaily.com/notice-missing-photos-in-digital-dialogues-messenger/"><u>Notice Missing Photos in Digital Dialogues, Messenger</u></a></li>
-<li><a href="https://win-popular.techidaily.com/selecting-the-right-windows-11-user-account-a-comprehensive-guide-to-optimize-your-system/"><u>Selecting the Right Windows 11 User Account: A Comprehensive Guide to Optimize Your System</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transforming-windows-10-home-to-professional-version-for-enhanced-features-a-step-by-step-guide-pcmagazine/"><u>Transforming Windows 10 Home to Professional Version for Enhanced Features - A Step-by-Step Guide | PCMagazine</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ultimate-laptop-docking-station-selection-in-depth-testing-and-ratings-by-tech-experts-toms-hardware/"><u>Ultimate Laptop Docking Station Selection: In-Depth Testing & Ratings by Tech Experts - Tom’s Hardware</u></a></li>
-<li><a href="https://win-popular.techidaily.com/unauthorized-automatic-sync-windows-11-enables-onedrive-backups-without-user-consent-revealed-by-zdnet/"><u>Unauthorized Automatic Sync: Windows 11 Enables OneDrive Backups Without User Consent, Revealed by ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-meets-the-future-new-amd-radeon-hd-6950-driver-release/"><u>Windows 10 Meets the Future: New AMD Radeon HD 6950 Driver Release</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>[New] Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-capturing-sound-in-windows-11-explained/"><u>[Updated] Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-financial-independence-on-youtube-via-views/"><u>[Updated] In 2024, Achieving Financial Independence on YouTube via Views</u></a></li>
+<li><a href="https://win-superb.techidaily.com/5-effective-methods-for-restoring-lost-files-on-your-windows-10-pc/"><u>5 Effective Methods for Restoring Lost Files on Your Windows 10 PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-inclusive-360-panorama-viewer/"><u>All-Inclusive 360 Panorama Viewer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-chatgpt-unveiling-10-exceptional-language-models-and-bots/"><u>Beyond ChatGPT: Unveiling 10 Exceptional Language Models & Bots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiartys-spectacular-18th-anniversary-exclusive-project/"><u>Digiarty's Spectacular 18Th Anniversary Exclusive Project</u></a></li>
+<li><a href="https://win-popular.techidaily.com/evaluating-nas-options-in-depth-review-of-unraid-versus-synology-for-data-storage-needs/"><u>Evaluating NAS Options: In-Depth Review of Unraid Versus Synology for Data Storage Needs</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-expert-comme-ajouter-votre-bande-son-mp3-preferee-a-apple-music-sur-ios-en-2024/"><u>Guide Expert: Comme Ajouter Votre Bande-Son MP3 Préférée À Apple Music Sur iOS en 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-4k-and-8k-media-playback-with-kmplayer-for-mac-an-in-depth-review-of-the-premier-mac-video-application/"><u>Mastering 4K and 8K Media Playback with KMPlayer for Mac - An In-Depth Review of the Premier Mac Video Application</u></a></li>
+<li><a href="https://win-popular.techidaily.com/overcoming-preparing-for-upgrade-hurdle-on-your-pc-proven-fixes-for-windows-11-users/"><u>Overcoming 'Preparing for Upgrade' Hurdle on Your PC - Proven Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://win-popular.techidaily.com/professionelle-losungsstrategien-fur-die-datensicherung-und-wiederherstellung-bei-beschadigten-laptop-hdds/"><u>Professionelle Lösungsstrategien Für Die Datensicherung Und -Wiederherstellung Bei Beschädigten Laptop-HDDs</u></a></li>
+<li><a href="https://win-popular.techidaily.com/seamless-file-sharing-between-mac-and-google-drive/"><u>Seamless File Sharing Between Mac and Google Drive</u></a></li>
+<li><a href="https://win-popular.techidaily.com/transferer-sans-souci-outil-free-de-clonage-ssd-samsung-efficace-pour-votre-migration-informatique/"><u>Transférer Sans Souci : Outil Free De Clonage SSD Samsung Efficace Pour Votre Migration Informatique</u></a></li>
+<li><a href="https://win-popular.techidaily.com/trouver-et-visualiser-les-photos-supprimees-de-reddit-un-guide-eclairant-pour-tous/"><u>Trouver Et Visualiser Les Photos Supprimées De Reddit - Un Guide Éclairant Pour Tous</u></a></li>
+<li><a href="https://win-popular.techidaily.com/wiederherstellung-von-systemimages-auf-computern-mit-unterschiedlichen-hardware-konfigurationen/"><u>Wiederherstellung Von Systemimages Auf Computern Mit Unterschiedlichen Hardware-Konfigurationen</u></a></li>
 </ul></div>
 

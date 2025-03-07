@@ -1,7 +1,7 @@
 ---
 title: "Exploring Karaoke DJ Software: Contrasting Two Singer/Song Pick Systems in PCDJ"
-date: 2025-02-14T04:35:22.539Z
-updated: 2025-02-18T16:52:39.629Z
+date: 2025-03-03T17:11:29.325Z
+updated: 2025-03-07T18:03:29.493Z
 tags:
   - product
 categories:
@@ -28,19 +28,11 @@ Through Karaoki’s remote request plugin technology there are currently two dif
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SongbookDB | A robust internet-based song request system for use with Karaoki
 
 [SongBookDB](https://tools.techidaily.com/pcdj/products/) ($19.99-a-month after [30 day free trial](https://www.songbookdb.com/?screen=registerPCDJKaraokiDJ)) is a web-only based subscription service that enables remote song requests from a singers phone (or any internet enabled device). Internet IS required to use SongbookDB for both karaoke singers and the karaoke host. Singers can view and search your song book online from their phone, choose the song version they want to sing and set any key changes — which are then sent via the web directly to the SongBookDB Karaoki Plug-In. The request plug in shows you that a singer song request has been received and you click a single button to accept the request and send it directly to the singer rotation list in Karaoki.
 
 [LEARN MORE ABOUT SONGBOOKDB ![SongbookDB remote song requests](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/songbookdb-requests.jpg?fit=348%2C415&ssl=1 "SongbookDB remote song requests")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 With SongbookDB you have to use the supplied “Pal” app to upload your exported case (TSV) files so they are available online for your singers. Your singers can download (free for them) the Android or iOS singer request app and login (manually or socially with Facebook/Google). There is also a ‘host’ version of the app so you can receive song requests that way as well if you wish.
 
@@ -67,19 +59,11 @@ SongbookDB is a truly pro solution that’s been thoroughly thought through. It�
 
 [LEARN MORE ABOUT SONGBOOKDB](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### KaraoQuest | A FREE iOS local area network (LAN) based song request system for use with Karaoki
 
 If it’s FREE it for me! Yes, [KaraoQuest](https://tools.techidaily.com/pcdj/products/) is completely free (with in-app ads that display after singer/song requests) and uses Karaoki’s built in remote connection system to send singer song requests. A simple request app when compared with SongbookDB, KaraoQuest is designed exclusively for iOS at this time although the developer (a Karaoki customer!) has suggested Android may be coming down the pipe. Because it is iOS only we find most customers that use KaraoQuest prefer to use an iPad as a Kiosk instead of having singers use their own phones. We agree this is likely the best solution until an Android version is available so you don’t upset the Android crowd!
 
 [LEARN MORE ABOUT KARAOQUEST ON APP STORE ![Karaoke Song requests on iPhone](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/karaoquest-iphone-sml-e1459799033941.png?fit=445%2C380&ssl=1 "Karaoke Requests On iPhone")](https://itunes.apple.com/ca/app/karaoquest/id1093902058?mt=8)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Unlike the SongBookDB song request system, KaraoQuest works exclusively via local area network. Thus you will need to setup a local network but you _won’t_ need internet. That makes KaraoQuest an ideal solution for KJs working in venues where internet may not be an option for the host or karaoke singers. Singers (or yourself if using an iPad as a Kiosk) will only need to input the IP address displayed on Karaoki’s remote request tab to access your online songbook.
 
@@ -104,10 +88,6 @@ KaraoQuest is perfect for a KJ that needs something simple to use as a request s
 
 _Have questions about the **remote request system**, **karaoke kiosk**, or **online songbooks** and how they work with **Karaoki**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoki-song-singer-request-apps.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-01-29 12:48:022018-10-02 12:57:10Karaoki Supports Two Different Singer Song Request Systems | Which One Best Suits Your Needs?}
@@ -127,16 +107,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoki-song-singer-reques
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/iscovering-your-customized-youtube-playlist-for-2024/"><u>[New] Discovering Your Customized YouTube Playlist for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-synergy-of-slack-and-filmora-for-effective-scheduling/"><u>[Updated] The Synergy of Slack and Filmora for Effective Scheduling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-releases-new-bios-update-solving-stability-issues-for-intels-raptor-lake-gpu-series/"><u>Asus Releases New BIOS Update: Solving Stability Issues for Intel's Raptor Lake GPU Series</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-video-storytelling-with-chatgpt-driven-script-writing/"><u>Enhance Video Storytelling with ChatGPT-Driven Script Writing</u></a></li>
-<li><a href="https://facebook.techidaily.com/guide-to-buying-a-facebook-portal-model/"><u>Guide to Buying a Facebook Portal Model</u></a></li>
-<li><a href="https://win-popular.techidaily.com/navigating-the-crypto-market-strategies-for-constructing-an-effective-portfolio-by-yl-software-experts/"><u>Navigating the Crypto Market: Strategies for Constructing an Effective Portfolio by YL Software Experts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/overcoming-wi-fi-connectivity-problems-with-yl-software-insights/"><u>Overcoming Wi-Fi Connectivity Problems with YL Software Insights</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-to-detecting-hidden-threats-slowing-your-computer-secure-solutions-by-yl-computing/"><u>Step-by-Step Guide to Detecting Hidden Threats Slowing Your Computer – Secure Solutions by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/unlock-spooky-sales-75-off-on-halloween-deals-at-yl-software-transform-your-tech-choices/"><u>Unlock Spooky Sales: 75% Off on Halloween Deals at YL Software – Transform Your Tech Choices!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/up-to-date-are-your-scanners-drivers-current-with-the-newest-updates-from-yl-computing/"><u>Up-to-Date: Are Your Scanner's Drivers Current with the Newest Updates From YL Computing?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-battle-for-video-editing-supremacy-sony-vegas-pro-vs-adobe-premiere-pro/"><u>Updated 2024 Approved The Battle for Video Editing Supremacy Sony Vegas Pro vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/1717305858547-new-youtube-profile-picture-templates-free-downloads/"><u>[New] YouTube Profile Picture Templates – Free Downloads!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-easily-obtain-unique-epilogue-audio-files-online-for-2024/"><u>[Updated] Easily Obtain Unique Epilogue Audio Files Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-spotlight-todays-top-8-video-phenomena-for-2024/"><u>[Updated] Social Media Spotlight Today’s Top 8 Video Phenomena for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/5pya6auy44gu44oh44o844or44oq44od44kv44ki44od44ox44k944ov44oi44km44kn44ki44ks6kal44gk44gr44ki44gg77yf44cq5luk5bm044gu44op44kk44oz44ok44od44ox44cr/"><u>最高のメールバックアップソフトウェアを見つけよう？【今年のラインナップ】</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728503148731-aomei-backupper/"><u>AOMEI Backupper對稱備份：詳解設定雙向同步功能</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-steps-for-setting-up-a-new-virtual-network-with-vmware-vcenter/"><u>Comprehensive Steps for Setting Up a New Virtual Network with VMware vCenter</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effizientes-verwalten-von-docx-dateien-behebung-haufiger-fehler-und-optimale-wiederherstellungsstrategien/"><u>Effizientes Verwalten Von Docx-Dateien: Behebung Häufiger Fehler Und Optimale Wiederherstellungsstrategien</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-and-solutions-overcoming-dism-fails-in-windows-operating-environments/"><u>Expert Tips and Solutions: Overcoming 'DISM Fails' In Windows Operating Environments</u></a></li>
+<li><a href="https://win-popular.techidaily.com/frei-und-einfach-umwandeln-von-heic-in-jpg-bilder-unter-windows-1011/"><u>Frei Und Einfach Umwandeln Von HEIC- in JPG-Bilder Unter Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-g42-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia G42 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guia-paso-a-paso-para-transferir-archivos-al-nuevo-hdd-metodos-faciles-de-usar-en-windows-11-8-y-7/"><u>Guía Paso a Paso Para Transferir Archivos Al Nuevo HDD: Métodos Fáciles De Usar en Windows 11, 8 Y 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-x5-phone-by-drfone-android/"><u>How to Reset a Locked Poco X5 Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-movie-teasers-highlighted/"><u>In 2024, Leading Movie Teasers Highlighted</u></a></li>
+<li><a href="https://win-popular.techidaily.com/is-data-recovery-possible-using-system-restore-on-windows-7-platforms/"><u>Is Data Recovery Possible Using System Restore on Windows 7 Platforms?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mastering-the-capture-of-your-epic-battles-how-to-screen-record-in-pubg-mobile-for-iphoneipad-and-android-phones/"><u>Mastering the Capture of Your Epic Battles: How to Screen Record in PUBG Mobile for iPhone/iPad and Android Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionary-capturing-best-5-cameras-for-slow-mo-for-2024/"><u>Revolutionary Capturing Best 5 Cameras for Slow Mo for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-anleitung-zum-schutz-einer-externen-speicherungseinheit/"><u>Schritt-Für-Schritt-Anleitung Zum Schutz Einer Externen Speicherungseinheit</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranking-exterior-disk-drives-in-2e24-a-comprehensive-guide/"><u>Top-Ranking Exterior Disk Drives in 2E24: A Comprehensive Guide</u></a></li>
 </ul></div>
 

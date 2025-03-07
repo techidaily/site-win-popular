@@ -1,7 +1,7 @@
 ---
 title: Tiga Cara Efektif Untuk Memulai Proses Restorasi Catatannya Yang Keluar Dari iCloud
-date: 2025-02-11T22:19:00.288Z
-updated: 2025-02-18T22:56:06.363Z
+date: 2025-03-04T16:59:27.143Z
+updated: 2025-03-07T16:48:51.384Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b41dcc123e47e5f9015f53a2.jpg
@@ -73,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -89,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -109,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,22 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1716070246230-new-2024-approved-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[New] 2024 Approved Exploring Screen Capture with Apowersoft, No Cost Involved!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-the-grave-to-gameplay-top-8-zombies-unleashed/"><u>[New] 2024 Approved From the Grave to Gameplay Top 8 Zombies Unleashed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>[New] In 2024, Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximizing-social-interaction-with-innovative-fb-slideshow-techniques/"><u>[Updated] 2024 Approved Maximizing Social Interaction with Innovative FB Slideshow Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds-for-2024/"><u>[Updated] Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[Updated] In 2024, Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-six-easy-steps-to-acquire-fb-links-for-free/"><u>2024 Approved Six Easy Steps to Acquire FB Links for FREE</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fixing-visual-problems-on-your-pc-expert-tips-from-yl-computing-and-software-solutions/"><u>Fixing Visual Problems on Your PC: Expert Tips From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/high-definition-tortoise-wallpapers-and-hd-desktop-backdrops-professional-quality-by-yl-computing/"><u>High-Definition Tortoise Wallpapers & HD Desktop Backdrops - Professional Quality by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-restore-access-to-your-encrypted-or-compressed-data-solutions-by-yl-computing/"><u>How to Restore Access to Your Encrypted or Compressed Data - Solutions by YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-update-windows-11-device-drivers-revouninstaller/"><u>How to Update Windows 11 Device Drivers - RevoUninstaller</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-removing-zip-files-made-easy-with-yl-computings-solutions/"><u>Step-by-Step Guide: Removing ZIP Files Made Easy with YL Computing's Solutions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-successfully-view-pdf-files-on-your-pc-with-windows-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Successfully View PDF Files on Your PC with Windows - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-unzipping-files-on-your-windows-pc-tips-from-yl-software/"><u>Step-by-Step Guide: Unzipping Files on Your Windows PC - Tips From YL Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
-<li><a href="https://win-popular.techidaily.com/troubleshooting-guide-how-to-fix-scanning-software-installation-issues-on-your-device-by-yl-computing/"><u>Troubleshooting Guide: How to Fix Scanning Software Installation Issues on Your Device by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-defender-and-ransomware-prevention-can-it-keep-you-safe-learn-more-at-yl-software-blog/"><u>Windows Defender and Ransomware Prevention: Can It Keep You Safe? Learn More at YL Software Blog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-breakdown-of-apples-latest-unveiling-m4-ipad-pro-and-updated-product-lineup-with-enhanced-apple-pencil-and-13-ipad-air-revealed-exclusive-cove123/"><u>Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-most-efficient-and-user-friendly-mind-mapping-software-designed-specifically-for-mac-users-handpicked-from-2020s-top-reviews/"><u>Discover the Most Efficient and User-Friendly Mind Mapping Software Designed Specifically for Mac Users, Handpicked From 2020’S Top Reviews.</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-for-syncing-your-huawei-mate-40-pro-with-your-personal-laptop-or-desktop/"><u>Expert Tips for Syncing Your Huawei Mate 40 Pro with Your Personal Laptop or Desktop</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v30-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V30 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-channel-name-inspiration-strategies-for-success/"><u>In 2024, Channel Name Inspiration Strategies for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-mac-image-recording-the-top-5-cutting-edge-techniques-for-2024/"><u>Innovative Mac Image Recording The Top 5 Cutting-Edge Techniques for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-exploring-the-arlo-digital-safety-network/"><u>Interactive Guide: Exploring the Arlo Digital Safety Network</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/introducing-enhanced-ui-in-stellars-mac-data-recovery-solution/"><u>Introducing Enhanced UI in Stellar's Mac Data Recovery Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-on-screen-keyboards-in-windows-a-comprehensive-guide-for-windows-7-8-and-10/"><u>Mastering On-Screen Keyboards in Windows: A Comprehensive Guide for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-10-alternative-app-stores-for-android-devices-beyond-the-google-play-store/"><u>Top 10 Alternative App Stores for Android Devices Beyond the Google Play Store</u></a></li>
+<li><a href="https://win-popular.techidaily.com/unveiling-apples-bold-satire-of-windows-laptops-identifying-the-target/"><u>Unveiling Apple's Bold Satire of Windows Laptops – Identifying the Target</u></a></li>
+<li><a href="https://win-popular.techidaily.com/urgent-alert-microsoft-faces-crucial-challenge-with-windows-11-launch-only-12-months-to-resolve/"><u>Urgent Alert: Microsoft Faces Crucial Challenge with Windows 11 Launch - Only 12 Months to Resolve!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/vives-discomfort-follow-these-motion-sickness-fixes-for-2024/"><u>Vive's Discomfort? Follow These Motion Sickness Fixes for 2024</u></a></li>
 </ul></div>
 

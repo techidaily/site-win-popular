@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your Buffalo External HDD When It's Not Detected on Windows or Mac
-date: 2025-02-15T03:27:38.564Z
-updated: 2025-02-18T17:49:45.076Z
+date: 2025-03-01T17:27:16.964Z
+updated: 2025-03-07T17:43:01.941Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -115,10 +107,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Free Alternative to Norton Ghost
 
 [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) is one backup, restore and clone software designed for Windows users. Support all Windows OS including Windows 11/10/8.1/8/7\. It offers more powerful functions compared to Norton Ghost, and it’s free.
@@ -140,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -153,10 +137,6 @@ Take disk backup as an example. Follow the step below to backup your computer di
 Select the corresponding backup methods if you want to backup system, partition or individual files.
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
@@ -170,10 +150,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -207,10 +183,6 @@ For backup and restore features, you have 4 corresponding options plus two premi
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs about Norton Ghost
 
 **1\. Is Norton Ghost still available?**
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,19 +258,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exquisite-scenery-tips-for-live-shows/"><u>[New] Exquisite Scenery Tips for Live Shows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-access-your-favorites-anytime-the-leading-6-free-video-downloaders/"><u>[New] In 2024, Access Your Favorites Anytime The Leading 6 Free Video Downloaders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-techniques-for-ios-users-producing-and-transforming-tranquil-videos/"><u>[Updated] 2024 Approved Techniques for iOS Users Producing and Transforming Tranquil Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus/"><u>2024 Approved Pro Game Documentation Capturing Roblox Experiences with a Mac in Focus</u></a></li>
-<li><a href="https://win-popular.techidaily.com/expert-tips-for-successfully-factory-restoring-your-acer-nitro-5-running-windows-11/"><u>Expert Tips for Successfully Factory Restoring Your Acer Nitro 5 Running Windows 11</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guide-de-restauration-dune-sauvegarde-sous-windows-11-les-etapes-a-suivre/"><u>Guide De Restauration D'une Sauvegarde Sous Windows 11 : Les Étapes À Suivre !</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-enhance-your-hp-stream-14-with-a-solid-state-drive-upgrade/"><u>How to Enhance Your HP Stream 14 with a Solid State Drive Upgrade</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-samsung-photo-editor-review-2023-pros-con-features-and-guide/"><u>In 2024, Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/sd4/"><u>SD卡如何轻松地重新获取信息：包括4个不同方法</u></a></li>
-<li><a href="https://win-popular.techidaily.com/simple-guide-to-retrieve-lost-hp-recovery-section-quick-fix-tips/"><u>Simple Guide to Retrieve Lost HP Recovery Section - Quick Fix Tips!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-here-key-gpt-3-innovations-you-cant-miss/"><u>The Future Is Here: Key GPT-3 Innovations You Can't Miss</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-vsco-photo-editing-tips-and-tricks-for-2024/"><u>Unlocking VSCO Photo Editing Tips & Tricks for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-11-uefi/"><u>Windows 11 UEFI選項不存在？詳細解析設定中的暗藏問題</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-instantly-design-custom-coverage-for-your-short-videos-for-2024/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-smart-selections-ideal-mac-software-for-video-snatching-for-2024/"><u>[Updated] Smart Selections Ideal Mac Software for Video Snatching for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-the-simple-steps-to-update-your-networks-banner-image-for-2024/"><u>[Updated] Unveiling the Simple Steps to Update Your Network's Banner Image for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/can-you-fix-a-fractured-laptop-main-board-insights-from-yl-computing-and-expertise/"><u>Can You Fix a Fractured Laptop Main Board? Insights From YL Computing and Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-review-network/"><u>Comprehensive Hardware Guides by Tom’s Review Network</u></a></li>
+<li><a href="https://win-popular.techidaily.com/easy-instructions-for-installing-software-with-windows-manager-advice-by-experts-at-yl-computing/"><u>Easy Instructions for Installing Software with Windows Manager - Advice by Experts at YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-accelerate-your-pc-effective-configuration-tips-and-tricks/"><u>How to Accelerate Your PC: Effective Configuration Tips and Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>In 2024, Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
+<li><a href="https://win-popular.techidaily.com/join-the-sweet-tunes-exclusive-karaoke-streaming-with-all-sugar-no-spice-dive-into-karaoke-cloud-pro/"><u>Join the Sweet Tunes: Exclusive Karaoke Streaming with 'All Sugar, No Spice' - Dive Into Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/nightmares-unleashed-8-must-play-zombie-games-explored/"><u>Nightmares Unleashed 8 Must-Play Zombie Games Explored</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premier-funny-photo-tool-for-2024/"><u>Premier Funny Photo Tool for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolving-graphics-problems-in-windows-10-a-comprehensive-guide-yl-technical-tips/"><u>Resolving Graphics Problems in Windows 10: A Comprehensive Guide - YL Technical Tips</u></a></li>
 </ul></div>
 

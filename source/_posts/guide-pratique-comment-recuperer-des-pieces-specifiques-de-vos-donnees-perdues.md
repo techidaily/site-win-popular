@@ -1,7 +1,7 @@
 ---
 title: "Guide Pratique: Comment Récupérer Des Pièces Spécifiques De Vos Données Perdues?"
-date: 2025-02-16T19:25:22.928Z
-updated: 2025-02-18T16:08:02.580Z
+date: 2025-03-04T17:25:08.187Z
+updated: 2025-03-07T16:42:54.229Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455ebb805c1df40ab92a9a832b1.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -79,15 +75,7 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -101,10 +89,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -114,10 +98,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -148,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -165,10 +141,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -197,10 +169,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -241,10 +209,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -268,10 +232,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
 
@@ -298,19 +258,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-popular.techidaily.com/1-how-can-you-restore-information-from-a-computer-compromised-by-malware-tech-insights-with-yl/"><u>1. How Can You Restore Information From a Computer Compromised by Malware - Tech Insights with YL</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1638137-9781780282251-before-the-pyramids/"><u>Before the Pyramids | Free Book</u></a></li>
-<li><a href="https://win-popular.techidaily.com/decline-in-usdc-outflows-to-1616-million-on-exchange-platforms-as-revealed-by-7-day-moving-average-analysis-with-glassnode-yl-solutions/"><u>Decline in USDC Outflows to $16.16 Million on Exchange Platforms as Revealed by 7-Day Moving Average Analysis with Glassnode | YL Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-telnet-setup-in-windows-10-and-11-wrap-up/"><u>Easy Telnet Setup in Windows 10 and 11 (Wrap Up)</u></a></li>
-<li><a href="https://win-popular.techidaily.com/exploring-possible-hazards-in-virtual-currency-portfolios-a-guide-by-yl-software/"><u>Exploring Possible Hazards in Virtual Currency Portfolios: A Guide by YL Software</u></a></li>
-<li><a href="https://win-popular.techidaily.com/exploring-the-influence-how-the-taiping-uprising-shaped-chinese-history-with-yl-solutions/"><u>Exploring the Influence: How The Taiping Uprising Shaped Chinese History with YL Solutions</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-can-i-speed-up-my-computers-startup-process-expert-advice-from-yl-computing/"><u>How Can I Speed Up My Computer's Startup Process? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-can-you-detect-and-troubleshoot-an-overheated-gpu-insights-by-yl-computing/"><u>How Can You Detect and Troubleshoot an Overheated GPU? - Insights by YL Computing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-explore-and-compare-apps-via-az-recorder/"><u>In 2024, Explore & Compare Apps via AZ Recorder</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-c53-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme C53 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-gigaware-crosspoint-usb-to-rs232485-serial-communication-driver-for-win10-and-win7win8/"><u>Install Gigaware Crosspoint USB to RS232/485 Serial Communication Driver for Win10 & Win7/Win8</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/samsung-ue590-review-top-tier-4k-uhd-tv-for-gamers-for-2024/"><u>Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correct-livekernelevent-error-code-117/"><u>Troubleshooting Tips to Correct LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-14-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 14 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-film-resource-highlights-where-to-start-your-search/"><u>[Updated] Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>[Updated] In 2024, Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-webcam-usage-for-macbooks/"><u>[Updated] Ultimate Webcam Usage for MacBooks</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1-ultimate-guide-to-manycam-top-notch-live-streaming-and-virtual-webcams/"><u>1. Ultimate Guide to ManyCam: Top-Notch Live Streaming and Virtual Webcams</u></a></li>
+<li><a href="https://win-popular.techidaily.com/budget-friendly-surface-pro-buying-guide-will-you-have-second-thoughts/"><u>Budget-Friendly Surface Pro Buying Guide: Will You Have Second Thoughts?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-understanding-the-impact-of-microsoft-exchange-server-breach-insights-from-zdnet/"><u>Comprehensive Guide: Understanding the Impact of Microsoft Exchange Server Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-strategies-for-controlling-your-microsoft-365-plans-on-windows-11-a-comprehensive-guide-by-zdnet/"><u>Effective Strategies for Controlling Your Microsoft 365 Plans on Windows 11: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-iphone-flashlight-try-these-effective-strategies-12-in-total/"><u>Fixing a Broken iPhone Flashlight? Try These Effective Strategies (12 in Total)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/frame-by-frame-verbalizer-for-2024/"><u>Frame by Frame Verbalizer for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/insight-from-microsoft-leader-is-a-future-with-microsoft-unattractive/"><u>Insight From Microsoft Leader: Is a Future with Microsoft Unattractive?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-to-your-windows-10-update-problems-tackling-error-0x80240034/"><u>The Definitive Fixes to Your Windows 10 Update Problems - Tackling Error 0X80240034</u></a></li>
+<li><a href="https://win-popular.techidaily.com/urgent-deadline-microsofts-crucial-challenge-with-windows-10-resolution-needs-by-next-year-insights-from-zdnet/"><u>Urgent Deadline: Microsoft's Crucial Challenge with Windows 10 Resolution Needs by Next Year | Insights From ZDNet</u></a></li>
 </ul></div>
 

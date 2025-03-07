@@ -1,7 +1,7 @@
 ---
 title: Transfer Windows 11 Step-by-Step Guide to a New SSD - Two Methods
-date: 2025-02-12T02:09:06.388Z
-updated: 2025-02-19T03:15:18.661Z
+date: 2025-03-06T18:40:33.307Z
+updated: 2025-03-07T18:05:49.123Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455ebb805c1df40ab92a9a832b1.jpg
@@ -48,17 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -79,10 +71,6 @@ Secure Download
 Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If your files are lost from an external hard drive like a USB drive, please plug it into your PC in advance.
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2\. Locate and preview your lost/deleted files**
 
@@ -114,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -134,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -152,17 +132,9 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -183,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -202,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -226,10 +190,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
 
@@ -256,22 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-pixel-perfection-expert-tips-on-iphone-photo-editing/"><u>[Updated] Pixel Perfection Expert Tips on iPhone Photo Editing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-best-cameras-for-youtube-from-beginners-to-professionals-for-2024/"><u>[Updated] The Best Cameras for YouTube From Beginners to Professionals for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-8-camera-showdown-excellence-in-broadcasting-for-2024/"><u>[Updated] Ultimate 8 Camera Showdown Excellence in Broadcasting for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-night-sky-magic-long-exposure-photography-on-iphone/"><u>2024 Approved Night Sky Magic Long-Exposure Photography on iPhone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effective-troubleshooting-for-incorrectly-sized-cloned-drives-step-by-step-guide-to-permanent-fix/"><u>Effective Troubleshooting for Incorrectly Sized Cloned Drives: Step-by-Step Guide to Permanent Fix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/facil-conversao-de-arquivos-raw-para-dng-gratuita-on-line-pela-inteira-com-suporte-tecnico-pelo-movavi/"><u>Fácil Conversão De Arquivos RAW Para DNG Gratuita On-Line Pela Inteira Com Suporte Técnico Pelo Movavi</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fixing-hulus-error-137-in-a-flash-expert-solutions-unveiled/"><u>Fixing Hulu's Error 137 in a Flash - Expert Solutions Unveiled!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-tablet-innovations-of-2024-unveiled-expert-insights-and-detailed-assessments-zdnet/"><u>Leading Tablet Innovations of 2024 Unveiled - Expert Insights and Detailed Assessments | ZDNET</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/modifying-active-registry-keys-in-windows-os-tips-and-tricks-from-yl-experts/"><u>Modifying Active Registry Keys in Windows OS: Tips & Tricks From YL Experts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/most-effective-methods-to-overcome-iphone-the-activation-barrier-of-the-new-iphone-14-model/"><u>Most Effective Methods to Overcome iPhone The Activation Barrier of the New iPhone 14 Model</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/os-15-melhores-aplicativos-mais-inovadores-de-slideshows-para-smartphones-android-e-iphone-em-2e-revisado/"><u>Os 15 Melhores Aplicativos Mais Inovadores De Slideshows Para Smartphones Android E iPhone Em 2E Revisado:</u></a></li>
-<li><a href="https://win-popular.techidaily.com/quando-e-come-modificare-le-impostazioni-di-conservazione-dei-backup-utilizzando-aomei-backupper/"><u>Quando E Come Modificare Le Impostazioni Di Conservazione Dei Backup Utilizzando AOMEI Backupper</u></a></li>
-<li><a href="https://win-popular.techidaily.com/secure-boot-kompatible-windows-881-migration-auf-eine-ssd/"><u>Secure Boot-Kompatible Windows 8/8.1 Migration Auf Eine SSD</u></a></li>
-<li><a href="https://win-popular.techidaily.com/simple-methods-for-setting-up-ubuntu-in-parallel-with-microsofts-new-os-windows-11/"><u>Simple Methods for Setting Up Ubuntu in Parallel with Microsoft's New OS, Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-11-troubleshooting-guide-fixing-hp-laptops-non-functional-speakers/"><u>Windows 11 Troubleshooting Guide: Fixing HP Laptop's Non-Functional Speakers</u></a></li>
-<li><a href="https://win-popular.techidaily.com/zwei-effiziente-methoden-zum-datensicherung-von-windows/"><u>Zwei Effiziente Methoden Zum Datensicherung Von Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-use-video-titles-and-youtube-tags-in-2024/"><u>[New] How to Use Video Titles and YouTube Tags, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screensnapper-showdown/"><u>[Updated] In 2024, ScreenSnapper Showdown</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-multi-platform-broadcasting-in-the-digital-age/"><u>2024 Approved The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-agni-2-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Agni 2 5G.</u></a></li>
+<li><a href="https://win-popular.techidaily.com/complete-walkthrough-navigating-through-windows-to-find-and-view-documents-tech-tips-from-yl-software/"><u>Complete Walkthrough: Navigating Through Windows to Find and View Documents - Tech Tips From YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-netgear-wna3100-drivers-with-simplicity/"><u>Download and Update Netgear WNA3100 Drivers with Simplicity</u></a></li>
+<li><a href="https://win-popular.techidaily.com/get-the-latest-update-in-dj-software-with-jammtext-v114-the-ultimate-text-to-screen-conversion-tool-now-available/"><u>Get the Latest Update in DJ Software with JammText v1.1.4 - The Ultimate Text to Screen Conversion Tool Now Available!</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-successfully-joining-a-wi-fi-network-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Guide: Successfully Joining a Wi-Fi Network on Your Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/high-definition-tortoise-wallpapers-and-hd-desktop-backdrops-professional-quality-by-yl-computing/"><u>High-Definition Tortoise Wallpapers & HD Desktop Backdrops - Professional Quality by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-quality-radio-dramatic-works-for-2024/"><u>Highest Quality Radio Dramatic Works for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-restore-access-to-your-encrypted-or-compressed-data-solutions-by-yl-computing/"><u>How to Restore Access to Your Encrypted or Compressed Data - Solutions by YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/keep-your-system-running-smoothly-with-driver-restoration-techniques-for-windows-t-ino-expert-advice-by-yl-software/"><u>Keep Your System Running Smoothly with Driver Restoration Techniques for Windows T Ino | Expert Advice by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-lock-on-interval-on-pcs/"><u>Managing Lock-On Interval on PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341686952-public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/turn-off-the-troublesome-pause-during-playtime/"><u>Turn Off the Troublesome Pause During Playtime</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ultimate-top-20-playlist-the-best-halloween-beats-perfect-for-dancing-pcdj/"><u>Ultimate Top 20 Playlist: The Best Halloween Beats Perfect for Dancing | PCDJ</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ultra-hd-visuals-of-emma-watson-for-computer-screensaver-images-and-wallpaper-selections-premium-content-from-yl-computing/"><u>Ultra HD Visuals of Emma Watson for Computer Screensaver Images and Wallpaper Selections – Premium Content From YL Computing</u></a></li>
 </ul></div>
 

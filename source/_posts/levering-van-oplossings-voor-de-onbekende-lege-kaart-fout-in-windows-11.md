@@ -1,7 +1,7 @@
 ---
 title: Levering Van Oplossings Voor De Onbekende Lege Kaart Fout In Windows 11
-date: 2025-02-12T16:55:51.164Z
-updated: 2025-02-18T18:50:23.781Z
+date: 2025-03-04T18:34:18.489Z
+updated: 2025-03-07T18:29:53.997Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d05b66229d2abdef97e1d0864.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -47,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -73,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -92,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -112,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -198,20 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-exquisite-innovations-in-desktop-tech/"><u>[New] Exquisite Innovations in Desktop Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[New] From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-economical-action-cams-for-savvy-shoppers/"><u>[New] In 2024, Economical Action Cams for Savvy Shoppers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 12 | Stellar</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/te-your-video-guide-with-annotations-on-youtube-for-2024/"><u>Elevate Your Video Guide with Annotations on YouTube for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/expert-aomei-assistance-and-help-desk/"><u>Expert AOMEI Assistance and Help Desk</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fast-and-efficient-methods-for-restoring-information-from-your-buffalo-nas-system/"><u>Fast and Efficient Methods for Restoring Information From Your Buffalo NAS System</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-duplicate-comments-on-a-steam-decks-ssd-une-approche-facile-et-complete/"><u>How to Duplicate Comments on a Steam Deck's SSD : Une Approche Facile Et Complète</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-seamlessly-move-files-from-one-computer-to-another-using-windows-11-10-8-or/"><u>How to Seamlessly Move Files From One Computer to Another Using Windows 11, 10, 8 Or</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-itel-p55-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Itel P55</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728501563335-onedrive/"><u>OneDriveで失われたファイルの再同期と回復手順</u></a></li>
-<li><a href="https://win-popular.techidaily.com/problemlos-reparieren-die-losung-fur-den-lenovo-fehlercode-0xc000021a/"><u>Problemlos Reparieren: Die Lösung Für Den Lenovo-Fehlercode 0xC000021A</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-windows-autoupdate-plus-amd-gpu-driver-change/"><u>Securing Windows: Autoupdate + AMD GPU Driver Change</u></a></li>
-<li><a href="https://win-popular.techidaily.com/sichere-methode-zum-beenden-von-iphones-dfu-modus-und-datenschutz-gewahrleisten/"><u>Sichere Methode Zum Beenden Von iPhones DFU-Modus Und Datenschutz Gewährleisten</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-realme-c33-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme C33 2023 Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage-for-2024/"><u>[New] Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-edit-youtube-videos-in-sony-vegas-for-2024/"><u>[Updated] How to Edit YouTube Videos in Sony Vegas for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-auto-play-youtube-content-in-fb-for-2024/"><u>[Updated] Mastering the Art of Auto-Play YouTube Content in FB for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-seamless-tiktok-navigation-efficiently-change-your-number/"><u>2024 Approved Seamless TikTok Navigation Efficiently Change Your Number</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-facilmente-tu-video-mp4-al-sonido-de-alta-calidad-aac-sin-costo-alguno-guia-experta-de-movavi/"><u>Cómo Convertir Fácilmente Tu Vídeo MP4 Al Sonido De Alta Calidad AAC, Sin Costo Alguno: Guía Experta De Movavi</u></a></li>
+<li><a href="https://win-popular.techidaily.com/download-rufus-portable-for-free-easy-guide-on-building-a-bootable-usb-stick/"><u>Download Rufus Portable for FREE: Easy Guide on Building a Bootable USB Stick</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-troubleshooting-for-incorrectly-sized-cloned-drives-step-by-step-guide-to-permanent-fix/"><u>Effective Troubleshooting for Incorrectly Sized Cloned Drives: Step-by-Step Guide to Permanent Fix</u></a></li>
+<li><a href="https://win-popular.techidaily.com/fast-solutions-how-to-unfreeze-your-iphone-when-an-ios-update-causes-trouble/"><u>Fast Solutions: How to Unfreeze Your iPhone When an iOS Update Causes Trouble</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-retrouver-un-fichier-disparu-dans-le-dossier-syswow64-de-windows-systemes-dexploitation/"><u>Guide: Retrouver Un Fichier Disparu Dans Le Dossier SysWOW64 De Windows - Systèmes D'Exploitation</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y17s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y17s Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-steps-to-restore-deleted-microsoft-word-documents-in-windows-10/"><u>Simple Steps to Restore Deleted Microsoft Word Documents in Windows 10</u></a></li>
+<li><a href="https://win-popular.techidaily.com/software-ideal-para-clone-disk-easy-startup-unit-copying-descubra-a-solucao-maior-para-backups-faceis-e-rapidos-em-computadores/"><u>Software Ideal Para Clone Disk Easy Startup Unit Copying: Descubra a Solução Maior Para Backups Fáceis E Rápidos Em Computadores.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/swift-channels-growth-optimizing-viewership-with-collaborative-videos-for-2024/"><u>Swift Channels Growth Optimizing Viewership with Collaborative Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-11-troubleshooting-guide-fixing-hp-laptops-non-functional-speakers/"><u>Windows 11 Troubleshooting Guide: Fixing HP Laptop's Non-Functional Speakers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/zwei-effiziente-methoden-zum-datensicherung-von-windows/"><u>Zwei Effiziente Methoden Zum Datensicherung Von Windows</u></a></li>
 </ul></div>
 

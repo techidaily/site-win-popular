@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Troubleshooting Guide: Fixing HP Laptop's Non-Functional Speakers"
-date: 2025-02-15T16:45:58.094Z
-updated: 2025-02-19T04:05:20.106Z
+date: 2025-03-03T17:44:53.790Z
+updated: 2025-03-07T16:55:39.281Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93e4be86849bf37896b7a66cb.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -32,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -85,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -97,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -120,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -198,24 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-converting-ephemeral-content-fb-messenger-video-secrets-revealed/"><u>[New] In 2024, Converting Ephemeral Content FB Messenger Video Secrets Revealed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-videos-directly-on-twitter-via-mobile-devices-only-for-2024/"><u>[Updated] Share Videos Directly on Twitter via Mobile Devices Only for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/6zec5pa854sh5rov5bu656ul56gs56kf5y2a5bplusr54wn55qe5ywt5asn6kej5rg65pa55qgi/"><u>關於無法建立硬碟區快照的六大解決方案</u></a></li>
-<li><a href="https://os-tips.techidaily.com/activating-your-iphones-flashlight-with-a-simple-tap-on-the-back-a-comprehensive-guide/"><u>Activating Your iPhone's Flashlight with a Simple Tap on the Back: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/comment-sauver-les-fichiers-perdus-sur-carte-compactflash-guide-de-recouvrement-des-donnees/"><u>Comment Sauver Les Fichiers Perdus Sur Carte CompactFlash - Guide De Recouvrement Des Données</u></a></li>
-<li><a href="https://win-popular.techidaily.com/comprehensive-tutorial-protecting-privacy-by-deleting-files-permanently-from-an-ssd-using-windows-10/"><u>Comprehensive Tutorial: Protecting Privacy by Deleting Files Permanently From an SSD Using Windows 10</u></a></li>
-<li><a href="https://win-popular.techidaily.com/copy-your-content-effortlessly-using-seagate-clone-pro-transitioning-from-hard-drive-to-ssd-technology/"><u>Copy Your Content Effortlessly Using Seagate Clone Pro: Transitioning From Hard Drive to SSD Technology</u></a></li>
-<li><a href="https://win-popular.techidaily.com/datenwiederherstellung-von-einer-sd-karte-3-effektive-methoden-verstehen/"><u>Datenwiederherstellung Von Einer SD-Karte: 3 Effektive Methoden Verstehen</u></a></li>
-<li><a href="https://win-latest.techidaily.com/discover-who-facilitated-peace-the-signatories-of-the-1895-treaty-marking-japans-victory-over-china/"><u>Discover Who Facilitated Peace: The Signatories of the 1895 Treaty Marking Japan's Victory Over China</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-problems-when-linking-a-computer-with-a-display-device-using-hdmi/"><u>Fixing No Audio Problems When Linking a Computer with a Display Device Using HDMI</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/metodo-para-copiar-contenido-de-una-unidad-mbr-hacia-una-ssd-gpt-evitando-la-reinstalacion-del-sistema/"><u>Método Para Copiar Contenido De Una Unidad MBR Hacia Una SSD GPT, Evitando La Reinstalación Del Sistema</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-process-how-to-get-clearance-from-trustedinstaller-for-file-changes/"><u>Navigating the Process: How to Get Clearance From TrustedInstaller for File Changes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/protecting-your-iphone-discover-the-6-leading-antivirus-applications/"><u>Protecting Your iPhone: Discover the 6 Leading Antivirus Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-maximizing-your-privacy-with-the-free-and-open-source-protonvpn-browser-add-on-insights-from-zdnet/"><u>Step-by-Step Guide: Maximizing Your Privacy with the Free and Open Source ProtonVPN Browser Add-On - Insights From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-5-solutions-resolving-windows-11-cannot-be-installed-from-external-drive-issue/"><u>Top 5 Solutions: Resolving 'Windows 11 Cannot Be Installed From External Drive' Issue</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728493785236-windows-4/"><u>Windows サーバと互換性があるバックアップツール4種類の徹底比較:無料・有料オプション</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728487900558-kingston/"><u>セキュアにデータをクリアするKingstonメモリの効率的戦略：詳細ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-best-speed-up-your-slow-video/"><u>[New] Android's Best Speed Up Your Slow Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[New] In 2024, How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tune-travelers-guide-transferring-playlists-with-precision/"><u>[New] Tune Traveler's Guide Transferring Playlists with Precision</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] 2024 Approved Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-embedded-epicness-galaxy-games-chronicle-for-2024/"><u>[Updated] Embedded Epicness Galaxy Games Chronicle for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-your-video-content-youtube-to-igtv-transition/"><u>2024 Approved Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
+<li><a href="https://win-popular.techidaily.com/afterward-right-click-the-windows-10-drive-again-and-choose-repair-filesystem-gparted-will-attempt-to-fix-any-errors-it-finds-on-the-disk-if-this-process-is213/"><u>Afterward, Right-Click the Windows 10 Drive Again and Choose Repair Filesystem. GParted Will Attempt to Fix Any Errors It Finds on the Disk. If This Process Is Successful, Reboot Your Computer and See if the Issue Has Been Resolved.</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-mastering-all-features-of-aomei-software/"><u>Comprehensive Guide: Mastering All Features of AOMEI Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-anonymous-chatting-with-duckduckgos-advanced-ai-platform/"><u>Discover the Power of Anonymous Chatting with DuckDuckGo's Advanced AI Platform</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolving-the-issue-of-hidden-image-duplicates-on-macos-a-guide-with-4-solutions/"><u>Resolving the Issue of Hidden Image Duplicates on macOS: A Guide with 4 Solutions</u></a></li>
+<li><a href="https://win-popular.techidaily.com/tutorial-pemulihan-gambar-yang-hilang-secara-terperinci-pada-iphone-langkah-langkah-kecil-dan-easy/"><u>Tutorial Pemulihan Gambar Yang Hilang Secara Terperinci Pada iPhone: Langkah-Langkah Kecil Dan Easy!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mengatur Klik Untuk Menyetel / Mematikan/Memulai Program Windows (Win11/10/8/7): Langkah-Langkah Tiga Bodoh Banyak Gue Perih."
-date: 2025-02-15T04:19:45.287Z
-updated: 2025-02-19T00:05:31.831Z
+date: 2025-02-28T17:41:10.600Z
+updated: 2025-03-07T18:01:37.194Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb6b83602d7f5ffd347873428.jpg
@@ -66,17 +66,9 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -94,33 +86,17 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -184,10 +160,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 Exercise caution to avoid potential system errors when using this command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 5\. Repair EFI Boot Loader
 
 To repair the EFI boot loader and address corrupted or missing winload.efi errors, follow these steps:
@@ -240,10 +212,6 @@ You just need to download this software and install it. Open it and navigate to 
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This post outlines 5 effective methods to address the "Winload.efi missing Windows 11" boot error. Notably, AOMEI Backupper Standard offers user-friendly solutions to create a bootable media and offers system backup solution. When you encounter other computers issues like [Blue Screen on Windows 11](https://tools.techidaily.com/ubackup/products/).
@@ -255,10 +223,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -283,10 +247,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
 
@@ -313,17 +273,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>[New] In 2024, Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-inshot-pc-editing-made-easy/"><u>[New] Mastering Inshot PC Editing Made Easy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-modern-moods-best-rated-desktop-imagery/"><u>2024 Approved Modern Moods Best-Rated Desktop Imagery</u></a></li>
-<li><a href="https://win-popular.techidaily.com/discover-the-best-automatic-backup-solutions-for-usb-devices-in-italy/"><u>Discover the Best Automatic Backup Solutions for USB Devices in Italy</u></a></li>
-<li><a href="https://win-popular.techidaily.com/duizenden-vragen-beantwoord-over-het-herstel-van-gekozen-wegverschil-na-delect-op-een-extra-hard-disk/"><u>Duizenden Vragen Beantwoord Over Het Herstel Van Gekozen Wegverschil Na Delect Op Een Extra Hard Disk</u></a></li>
-<li><a href="https://win-popular.techidaily.com/extraction-de-donnees-a-partir-dun-disque-dur-externe-chez-iomega-guide-complet/"><u>Extraction De Données À Partir D'un Disque Dur Externe Chez Iomega : Guide Complet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-diagnose-and-resolve-mic-failures-in-the-steelseries-arctis-e-headset/"><u>How to Diagnose and Resolve Mic Failures in the SteelSeries Arctis E Headset</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-virtual-environments-in-cinema/"><u>In 2024, The Art of Virtual Environments in Cinema</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a59-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A59 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/instant-conversion-with-officiel-dvdx-elite-rip-master-convert-full-movies-to-mp4hevc-in-half-a-decade/"><u>Instant Conversion with [OFFICIEL] DVDX Elite Rip Master - Convert Full Movies to MP4/HEVC in Half a Decade</u></a></li>
-<li><a href="https://win-popular.techidaily.com/schutz-von-daten-mit-passwortern-lernen-sie-wie-man-dateien-in-windows-1011-sichert-einfuhrende-strategien-zum-verschlusseln/"><u>Schutz Von Daten Mit Passwörtern: Lernen Sie, Wie Man Dateien in Windows 10/11 Sichert - Einführende Strategien Zum Verschlüsseln.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ake-paul-unveiled-charting-the-path-of-youtube-stardom-for-2024/"><u>[New] Jake Paul Unveiled Charting the Path of YouTube Stardom for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs-for-2024/"><u>[New] Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-best-4k-tvs-top-ten-selection/"><u>[Updated] In 2024, Best 4K TVs Top Ten Selection</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1732517890325-yl/"><u>五四运动的显著成就与影响 - 由YL计算机解析</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ford-endeavour-desktop-icons-and-screensaver-pack-by-yl-computing-professional-graphics-and-digital-tools/"><u>Ford Endeavour Desktop Icons and Screensaver Pack by YL Computing – Professional Graphics & Digital Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-infinix-hot-40i-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Hot 40i Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-get-more-likes-on-your-tiktok-unboxing-video/"><u>In 2024, How to Get More Likes on Your TikTok Unboxing Video?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-6-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic 6 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-popular.techidaily.com/keep-cool-stay-productive-overheating-laptop-fixes-by-yl-software-experts/"><u>Keep Cool, Stay Productive: Overheating Laptop Fixes by YL Software Experts</u></a></li>
+<li><a href="https://win-popular.techidaily.com/selecting-the-right-cryptocurrency-exchange-a-guide-by-yl-computing/"><u>Selecting the Right Cryptocurrency Exchange: A Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tailoring-your-twitch-experience-with-youtube-integration-for-2024/"><u>Tailoring Your Twitch Experience with YouTube Integration for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your OnePlus Nord CE 3 5G Phone</u></a></li>
 </ul></div>
 

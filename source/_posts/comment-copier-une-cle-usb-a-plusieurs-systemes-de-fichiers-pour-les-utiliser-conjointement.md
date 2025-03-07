@@ -1,7 +1,7 @@
 ---
 title: Comment Copier Une Clé USB À Plusieurs Systèmes De Fichiers Pour Les Utiliser Conjointement ?
-date: 2025-02-11T18:08:06.112Z
-updated: 2025-02-19T06:24:34.833Z
+date: 2025-03-06T16:00:55.324Z
+updated: 2025-03-07T17:45:35.221Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d28f55d619b92fd6d20b9c57c.jpg
@@ -24,17 +24,9 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -45,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -96,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -110,25 +94,13 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -146,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -159,10 +127,6 @@ Next, let’s have a look at how to recover files infected by ransomware from a 
 Step 1\. Press **Win + S** to open the Windows search box, type **Create a restore point**, and click **Open** from the list of results.
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Click on **System Restore** \> **Next**.
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,22 +216,19 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-foremost-dialogue-maker-hub/"><u>[New] In 2024, Foremost Dialogue Maker Hub</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-cross-social-sharing/"><u>[Updated] In 2024, The Ultimate Guide to Cross-Social Sharing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-pathways-to-revitalize-a-dying-windows-services-console/"><u>7 Pathways to Revitalize a Dying Windows Services Console</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effective-strategies-for-file-history-backup-on-windows-10-and-11-a-comprehensive-guide-by-zdnet/"><u>Effective Strategies for File History Backup on Windows 10 & 11: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-latest-hid-keyboard-drivers-free-downloads-available/"><u>Effortless Installation of Latest HID Keyboard Drivers - Free Downloads Available!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/integrated-triumph-of-nvidia-and-windows-os/"><u>Integrated Triumph of Nvidia & Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-facebook-marketplace-missing-from-my-profile-heres-why-and-what-you-can-do/"><u>Is Facebook Marketplace Missing From My Profile? Here's Why and What You Can Do!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-value-the-secret-advantage-of-apples-upcoming-prime-day-ipad-pro-deal-an-exclusive-look-by-zdnet/"><u>Maximizing Value: The Secret Advantage of Apple's Upcoming Prime Day iPad Pro Deal - An Exclusive Look by ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsoft-employee-happiness-and-surprising-insights/"><u>Microsoft, Employee Happiness, and Surprising Insights.</u></a></li>
-<li><a href="https://win-popular.techidaily.com/microsofts-new-horizon-unveiling-azures-radius-a-revolutionary-open-source-multi-cloud-solution/"><u>Microsoft's New Horizon: Unveiling Azure's Radius - A Revolutionary Open-Source Multi-Cloud Solution</u></a></li>
-<li><a href="https://win-popular.techidaily.com/review-of-brydge-sp-max-plus-the-ultimate-durable-keyboard-protector-for-surface-pro-8-techadvisor/"><u>Review of Brydge SP Max Plus: The Ultimate Durable Keyboard Protector for Surface Pro 8 | TechAdvisor</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-roadmap-to-establishing-your-unique-flair-for-2024/"><u>The Roadmap to Establishing Your Unique Flair for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/universal-module-merger-component-easy-integration-made-simple/"><u>Universal Module Merger Component: Easy Integration Made Simple</u></a></li>
-<li><a href="https://win-popular.techidaily.com/unleashing-the-future-of-development-how-generative-ai-paves-the-way-from-low-code-to-zero-code-magic/"><u>Unleashing the Future of Development: How Generative AI Paves the Way From Low-Code to Zero-Code Magic!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/unveiling-the-power-of-productivity-a-close-look-at-microsofts-new-surface-laptop-studio-why-you-might-be-envious/"><u>Unveiling the Power of Productivity: A Close Look at Microsoft's New Surface Laptop Studio - Why You Might Be Envious!</u></a></li>
-<li><a href="https://win-popular.techidaily.com/why-apple-must-adapt-to-the-touch-screen-revolution-lessons-learned-from-microsofts-surface-laptop-pro-series/"><u>Why Apple Must Adapt to the Touch Screen Revolution: Lessons Learned From Microsoft's Surface Laptop Pro Series.</u></a></li>
-<li><a href="https://win-popular.techidaily.com/why-i-switched-to-microsoft-edge-top-3-game-changing-benefits-explained/"><u>Why I Switched to Microsoft Edge: Top 3 Game-Changing Benefits Explained!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-process-windows-movie-maker-content-on-vimeo-for-2024/"><u>[New] Navigating the Process Windows Movie Maker Content on Vimeo for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-step-by-step-guide-moving-your-conversations-from-one-android-device-to-another-on-viber/"><u>1. Step-by-Step Guide: Moving Your Conversations From One Android Device to Another on Viber</u></a></li>
+<li><a href="https://win11.techidaily.com/ameliorating-non-working-cut-and-paste-in-win-11/"><u>Ameliorating Non-Working Cut and Paste in Win 11</u></a></li>
+<li><a href="https://win-popular.techidaily.com/anleitung-zur-nutzung-des-windows-11-wiederherstellungsprogramms-freie-downloadmoglichkeit-im-jahr-2024-enthullt/"><u>Anleitung Zur Nutzung Des Windows 11 Wiederherstellungsprogramms: Freie Downloadmöglichkeit Im Jahr 2024 Enthüllt</u></a></li>
+<li><a href="https://win-popular.techidaily.com/decryptage-des-mysteres-comprendre-les-raisons-de-lauto-allumage-de-votre-ordinateur/"><u>Décryptage Des Mystères: Comprendre Les Raisons De L'auto-Allumage De Votre Ordinateur</u></a></li>
+<li><a href="https://win-popular.techidaily.com/download-gratuitamente-il-backup-del-disco-per-windows-10-due-metodi-facili-da-seguire/"><u>Download Gratuitamente Il Backup Del Disco per Windows 10 - Due Metodi Facili Da Seguire</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/einfache-methoden-zum-exportieren-von-nachrichten-vom-iphone-lernen-sie-vier-einfache-strategien/"><u>Einfache Methoden Zum Exportieren Von Nachrichten Vom iPhone - Lernen Sie Vier Einfache Strategien</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-an-engaging-and-insightful-interview-experience/"><u>In 2024, Crafting an Engaging and Insightful Interview Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-to-youtube-comment-sections-swiftly/"><u>In 2024, Navigating to YouTube Comment Sections Swiftly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-quickedit-videotool/"><u>In 2024, QuickEdit VideoTool</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/plongez-dans-lunivers-polyvalent-des-systemes-de-fichiers-le-manuel-absolument-necessaire/"><u>Plongez Dans L'Univers Polyvalent Des Systèmes De Fichiers - Le Manuel Absolument Nécessaire!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-enhanced-printing-with-hp-deskjet-2700-driver-update-available/"><u>Upgrade to Enhanced Printing with HP DeskJet 2700 Driver Update - Available</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-11lenovopcusb/"><u>Windows 11で簡単にLenovoPCをUSB接続から立ち上げる - 手っ取り早いガイド</u></a></li>
 </ul></div>
 
